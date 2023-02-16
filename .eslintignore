@@ -1,0 +1,7 @@
+node_modules
+public
+build
+
+// ignore test files
+*.test.js
+.test.js
