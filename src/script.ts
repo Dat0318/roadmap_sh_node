@@ -93,3 +93,4 @@ class Reptile {
 const reptile = new Reptile();
 console.log(`With Dupes: ${reptile.random(10, true)}`);
 console.log(`And Without: ${reptile.random(10)}`);
+
