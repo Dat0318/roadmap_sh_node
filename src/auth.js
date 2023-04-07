@@ -1,11 +1,9 @@
-
-
-import axios from'axios';
-import crypto from'crypto';
-import hapi from'@hapi/hapi';
-import open from'open';
-import querystring from'querystring';
-import uuid from'uuid/dist/v1';
+import axios from 'axios';
+import crypto from 'crypto';
+import hapi from '@hapi/hapi';
+import open from 'open';
+import querystring from 'querystring';
+import uuid from 'uuid/dist/v1';
 
 const base64url = (str) => str.replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
 

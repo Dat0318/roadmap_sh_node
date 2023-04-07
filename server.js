@@ -5,7 +5,6 @@ curlirize(axios);
 const run = async () => {
   const cal = '( √ wight + 2 * number ) / total',
     define_key = {};
-
   //a*b/100 + 1 => 100 => 0 else 50
   // ((item.wight * item.number) / 100 + 1 ) >= 100
 

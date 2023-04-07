@@ -4,12 +4,6 @@ import bodyParser from 'body-parser';
 import cookieParser from 'cookie-parser';
 import fs from 'fs';
 
-// import Auth from './src/auth.js';
-// import { Logger } from './src/logger.js';
-// import got from 'got';
-// import jwt from 'jsonwebtoken';
-// var token = jwt.sign({ foo: 'bar' }, 'VKVSDKNBSLDBSKDBMSOBJS153VSDB5S6B1S31B5S3DB');
-
 const hostname = '127.0.0.1',
   port = process.env.PORT || 3000,
   app = express();
@@ -20,6 +14,11 @@ const server = http.createServer((req, res) => {
   res.end('Hello World');
 });
 
+// import Auth from './src/auth.js';
+// import { Logger } from './src/logger.js';
+// import got from 'got';
+// import jwt from 'jsonwebtoken';
+// var token = jwt.sign({ foo: 'bar' }, 'VKVSDKNBSLDBSKDBMSOBJS153VSDB5S6B1S31B5S3DB');
 // server.listen(port, hostname, () => {
 //   console.log(`Server running at http://${hostname}:${port}/`);
 // });
@@ -150,8 +149,8 @@ app.use(function (err, req, res, next) {
   res.end();
 });
 
-app.use(function(req, res, next) {
-  next(new Error(404)); 
+app.use(function (req, res, next) {
+  next(new Error(404));
 });
 
 app.post('/post-data-here', function (req, res, next) {
