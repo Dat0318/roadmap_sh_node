@@ -40,4 +40,133 @@ const run = async () => {
   // }
 };
 
-run();
+const weatherApp = () => {
+  // class WeatherData {
+  //   constructor(temperature, humidity, pressure) {
+  //     this.temperature = temperature;
+  //     this.humidity = humidity;
+  //     this.pressure = pressure;
+  //   }
+  // }
+
+  // class WeatherDisplay {
+  //   display(weatherData) {
+  //     console.log(`Temperature: ${weatherData.temperature}`);
+  //     console.log(`Humidity: ${weatherData.humidity}`);
+  //     console.log(`Pressure: ${weatherData.pressure}`);
+  //   }
+  // }
+
+  // class WindDisplay {
+  //   display(weatherData) {
+  //     console.log(`Wind speed: ${weatherData.windSpeed}`);
+  //     console.log(`Wind direction: ${weatherData.windDirection}`);
+  //   }
+  // }
+
+  // class WeatherApp {
+  //   weatherData;
+  //   weatherDisplay;
+  //   windDisplay;
+  //   constructor(weatherData) {
+  //     this.weatherData = weatherData;
+  //     this.weatherDisplay = new WeatherDisplay();
+  //     this.windDisplay = new WindDisplay();
+  //   }
+
+  //   displayWeather() {
+  //     this.weatherDisplay.display(this.weatherData);
+  //     this.windDisplay.display(this.weatherData);
+  //   }
+  // }
+
+  // const weatherData = new WeatherData(72, 50, 1013);
+  // weatherData.windSpeed = 5;
+  // weatherData.windDirection = 'NW';
+  // const weatherApp = new WeatherApp(weatherData);
+  // weatherApp.displayWeather();
+
+  // class Character {
+  //   move() {
+  //     console.log('Character moved');
+  //   }
+  // }
+
+  // class Warrior extends Character {
+  //   attack() {
+  //     console.log('Warrior attacked');
+  //   }
+  // }
+
+  // class Mage extends Character {
+  //   castSpell() {
+  //     console.log('Mage cast a spell');
+  //   }
+  // }
+
+  // class Paladin extends Warrior {
+  //   heal() {
+  //     console.log('Paladin healed');
+  //   }
+  // }
+
+  // const characters = [new Warrior(), new Mage(), new Paladin()];
+  // for (let character of characters) {
+  //   character.move();
+  //   if (character instanceof Warrior) {
+  //     character.attack();
+  //   }
+  //   if (character instanceof Mage) {
+  //     character.castSpell();
+  //   }
+  //   if (character instanceof Paladin) {
+  //     character.heal();
+  //   }
+  // }
+
+  async function testAsync(v) {
+    await new Promise((resolve) => {
+      setTimeout(resolve, 100);
+    });
+    return v + 1;
+  }
+  
+  const data = [];
+  const params = [0, 1, 2];
+  params.forEach(async (v) => {
+    // this is a async function but parent function is not, it is a sync func
+    const res = await testAsync(v);
+    // console.log(res);
+    data.push(res);
+  });
+  console.log(data);
+};
+
+const awaitForEach = async () => {
+  const data = [];
+  const params = [0, 1, 2];
+  
+  async function testAsync(v) {
+    await new Promise((resolve) => {
+      setTimeout(resolve, 100);
+    });
+    return v + 1;
+  }
+
+  for (const v of params) {
+    const res = await testAsync(v);
+    console.log(res);
+    data.push(res);
+  }
+  console.log(data);
+
+  const data_1 = await Promise.all(params.map(async (v) => {
+    const res = await testAsync(v);
+    return res;
+  }));
+  console.log(data_1);
+}
+
+weatherApp();
+awaitForEach();
+// run();

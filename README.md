@@ -8,3 +8,9 @@
 
 ## example for nodejs chat realtime
 - https://medium.com/@valentinog/going-real-time-with-socket-io-node-js-and-react-3e0f02d3d447
+
+## important
+```
+free_code_camp
+socket-io-client
+```

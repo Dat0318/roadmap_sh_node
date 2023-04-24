@@ -1,0 +1,110 @@
+###
+POST https://localhost:3000/upload HTTP/1.1
+content-type: application/json
+
+{
+    "file": "./../cert/cert.pem"
+}
+
+### submit
+POST https://localhost:3000/submit?page=2&pageSize=10
+content-type: application/json
+
+{
+    "username": "bodyParser",
+    "email": "anv@gmail.com"
+}
+
+### register
+POST https://localhost:3000/auth/register
+content-type: application/json
+
+{
+    "username": "anv@gmail.com",
+    "password": "bodyParser"
+}
+
+### authenticate
+POST https://localhost:3000/auth/authenticate
+content-type: application/json
+
+{
+    "username": "anv@gmail.com",
+    "password": "bodyParser"
+}
+### Protected
+GET https://localhost:3000/auth/protected HTTP/1.1
+authorization: "Baber eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFudkBnbWFpbC5jb20iLCJpYXQiOjE2ODE5ODYxMzl9.QbeApHBnyv4GMoiZUnlPtj2a5f5JWYXHJQCA_qc5ryI"
+
+### generate-secret
+GET https://localhost:3000/auth/generate-secret
+
+### generate-qr
+GET https://localhost:3000/auth/generate-qr
+
+### verify-totp
+POST https://localhost:3000/auth/verify-totp
+content-type: application/json
+
+{
+    "token": "123456",
+    "secret": "KVUHSRKUNFZT46ZGHRYWMZRJG42C4TS6"
+}
+
+### encrypt
+POST https://localhost:3000/auth/encrypt
+content-type: application/json
+
+{
+    "data": "bodyParser"
+}
+
+### decrypt
+POST https://localhost:3000/auth/decrypt
+content-type: application/json
+
+{
+    "data": "bd78ff898c21fea27d29a3bcca7de46a"
+}
+
+### hash https
+POST https://localhost:3000/auth/hash
+content-type: application/json
+
+{
+    "data": "bodyParser"
+}
+
+### hash http://localhost:3001
+POST http://localhost:3001/auth/hash
+content-type: application/json
+
+{
+    "data": "bodyParser"
+}
+
+###
+GET https://jsonplaceholder.typicode.com/todos/1 HTTP/1.1
+
+###
+POST https://example.com/comments HTTP/1.1
+content-type: application/json
+
+{
+    "name": "sample",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
+
+###
+//Send Request
+GET https://jsonplaceholder.typicode.com/posts
+
+###
+POST https://jsonplaceholder.typicode.com/posts
+content-type: application/json
+
+{
+    "title": "Ditching Postman for REST Client",
+    "body": "My 44 year old wife rates this idea very nice :)",
+    "userId": 777
+}
