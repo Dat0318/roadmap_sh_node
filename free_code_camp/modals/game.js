@@ -195,3 +195,16 @@ const alien1_5 = new Alien('Ali', "I'm Ali the alien!", 10, 50);
 
 alien1_5.attack();
 // output: "Now I'm doing a different thing, HA!"
+
+// ### CREATE OBJECT IN JAVASCRIPT ###
+// su dung factory pattern
+
+const createPerson = (firstName, lastName) => {
+  return {
+    firstName,
+    lastName,
+    fullName() {
+      return `${this.firstName} ${this.lastName}`;
+    },
+  };
+};

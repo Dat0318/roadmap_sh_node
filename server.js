@@ -130,7 +130,7 @@ const weatherApp = () => {
     });
     return v + 1;
   }
-  
+
   const data = [];
   const params = [0, 1, 2];
   params.forEach(async (v) => {
@@ -145,7 +145,7 @@ const weatherApp = () => {
 const awaitForEach = async () => {
   const data = [];
   const params = [0, 1, 2];
-  
+
   async function testAsync(v) {
     await new Promise((resolve) => {
       setTimeout(resolve, 100);
@@ -160,13 +160,38 @@ const awaitForEach = async () => {
   }
   console.log(data);
 
-  const data_1 = await Promise.all(params.map(async (v) => {
-    const res = await testAsync(v);
-    return res;
-  }));
+  const data_1 = await Promise.all(
+    params.map(async (v) => {
+      const res = await testAsync(v);
+      return res;
+    })
+  );
   console.log(data_1);
-}
+};
 
-weatherApp();
-awaitForEach();
+// weatherApp();
+// awaitForEach();
 // run();
+
+const openLinks = () => {
+  const links = `
+  https://tuan200tokyo.blogspot.com/2022/10/blog13-tao-oi-tuong-trong-javascript.html
+
+  https://tuan200tokyo.blogspot.com/2022/10/blog14-chi-can-1-gio-la-ban-co-hoc-uoc.html
+  
+  https://tuan200tokyo.blogspot.com/2022/10/blog23-20-cau-hoi-thuong-gap-khi-phong.html
+  
+  https://tuan200tokyo.blogspot.com/2022/10/blog24-20-cau-hoi-thuong-gap-khi-phong.html
+  
+  https://tuan200tokyo.blogspot.com/2022/10/blog25-tat-ca-nhung-thu-ban-can-e-xay.html
+  `;
+
+  const arr = links
+    .split('\n')
+    .map((ele) => ele.replace(' ', ''))
+    .filter((ele) => !!ele.trim());
+
+  arr.forEach((ele) => window.open(ele));
+};
+
+openLinks();

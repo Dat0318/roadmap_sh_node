@@ -2,13 +2,17 @@
 
 https://tuan200tokyo.blogspot.com/2022/10/blog25-tat-ca-nhung-thu-ban-can-e-xay.html
 
-https://tuan200tokyo.blogspot.com/2022/10/blog24-tat-ca-nhung-thu-ban-can-e-xay.html
-
 https://tuan200tokyo.blogspot.com/2022/10/blog20-clean-code-va-mot-so-best.html
 
 https://tuan200tokyo.blogspot.com/2022/10/blog19-java-spring-batch-phan-biet-giua.html
 
 https://tuan200tokyo.blogspot.com/2022/10/blog18-tren-tay-nhanh-slf4j-logging.html
+
+=======================================================
+
+https://tuan200tokyo.blogspot.com/2022/10/blog24-tat-ca-nhung-thu-ban-can-e-xay.html
+
+https://tuan200tokyo.blogspot.com/2022/10/blog25-tat-ca-nhung-thu-ban-can-e-xay.html
 
 https://tuan200tokyo.blogspot.com/2022/10/blog17-lam-nao-e-chuyen-oi-mot-callback.html
 
@@ -27,17 +31,6 @@ https://tuan200tokyo.blogspot.com/2022/10/blog9-cach-test-ung-dung-bang-jest.htm
 https://tuan200tokyo.blogspot.com/2022/09/blog6-mo-un-trong-javascript-gioi-thieu.html
 
 https://tuan200tokyo.blogspot.com/2022/09/blog5-nguyen-mau-va-ke-thua-javascript.html
-
-=======================================================
-https://tuan200tokyo.blogspot.com/2022/10/blog13-tao-oi-tuong-trong-javascript.html
-
-https://tuan200tokyo.blogspot.com/2022/10/blog14-chi-can-1-gio-la-ban-co-hoc-uoc.html
-
-https://tuan200tokyo.blogspot.com/2022/10/blog23-20-cau-hoi-thuong-gap-khi-phong.html
-
-https://tuan200tokyo.blogspot.com/2022/10/blog24-20-cau-hoi-thuong-gap-khi-phong.html
-
-https://tuan200tokyo.blogspot.com/2022/10/blog25-tat-ca-nhung-thu-ban-can-e-xay.html
 
 =======================================================
 
@@ -66,3 +59,11 @@ https://tuan200tokyo.blogspot.com/2022/09/2-so-tay-kien-thuc-quan-trong-nhat-ve.
 https://tuan200tokyo.blogspot.com/2022/09/blog3-mot-so-mo-hinh-lap-trinh-pho-bien.html
 
 https://tuan200tokyo.blogspot.com/2022/09/blog4-oop-lap-trinh-huong-oi-tuong.html
+
+https://tuan200tokyo.blogspot.com/2022/10/blog13-tao-oi-tuong-trong-javascript.html
+
+https://tuan200tokyo.blogspot.com/2022/10/blog14-chi-can-1-gio-la-ban-co-hoc-uoc.html
+
+https://tuan200tokyo.blogspot.com/2022/10/blog23-20-cau-hoi-thuong-gap-khi-phong.html
+
+https://tuan200tokyo.blogspot.com/2022/10/blog24-20-cau-hoi-thuong-gap-khi-phong.html
