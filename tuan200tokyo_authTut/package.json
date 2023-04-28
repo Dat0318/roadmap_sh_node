@@ -1,0 +1,17 @@
+{
+  "name": "tuan200tokyo_authtut",
+  "version": "1.0.0",
+  "description": "`` cd db npm run json:server",
+  "main": "webpack.config.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "supertest": "^6.3.3"
+  }
+}

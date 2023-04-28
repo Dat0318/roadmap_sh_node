@@ -1,6 +1,6 @@
 //npm modules
 // ./node_modules/nodemon/bin/nodemon.js --ignore sessions tuan200tokyo_authTut/server/server.js
-
+// "build": "webpack"
 import express from 'express';
 import { v4 as uuid } from 'uuid';
 import session from 'express-session';
@@ -8,8 +8,12 @@ import sessionStore from 'session-file-store';
 import bodyParser from 'body-parser';
 import passport from 'passport';
 import { Strategy as LocalStrategy } from 'passport-local';
+import http from 'http';
 import axios from 'axios';
+import logger from 'morgan';
 import bcrypt from 'bcrypt-nodejs';
+// import './cron.js';
+// import './redis.js';
 
 const users = [{ id: '2f24vvg', email: 'test@test.com', password: 'password' }];
 
@@ -67,6 +71,7 @@ app.set('view engine', 'pug');
 // add & configure middleware
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
+app.use(logger('dev'));
 app.use(
   session({
     genid: (req) => uuid(), // use UUIDs for session IDs
@@ -82,7 +87,11 @@ app.use(passport.session());
 
 // create the homepage route at '/'
 app.get('/', (req, res) => {
-  res.send(`You hit home page! ${req.sessionID}\n`);
+  try {
+    res.status(200).json({ greeting: 'Hello there!' });
+  } catch (err) {
+    res.status(500).send(err);
+  }
 });
 
 //create the login get and post routes
@@ -117,4 +126,50 @@ app.get('/authrequired', (req, res) => {
   }
 });
 
-app.listen(port, () => console.log(`Listening on localhost:${port}`));
+/* Endpoint 2 */
+app.get('/isPalindrome', async (req, res) => {
+  try {
+    const string = req.body.string;
+    let result = true;
+    let left = 0;
+    let right = string.length - 1;
+
+    while (left < right && result) {
+      if (string[left] === string[right]) {
+        left += 1;
+        right -= 1;
+      } else result = false;
+    }
+
+    res.status(200).json({ result: result });
+  } catch (err) {
+    res.status(500).send(err);
+  }
+});
+
+/* Endpoint 3 */
+app.get('/twoSum', async (req, res) => {
+  try {
+    const nums = JSON.parse(req.body.nums);
+    const target = JSON.parse(req.body.target);
+
+    let result = false;
+
+    for (let i = 0; i < nums.length; i++) {
+      const neededNum = target - nums[i];
+      if (nums.indexOf(neededNum) !== -1 && nums.indexOf(neededNum) !== i)
+        result = [nums[i], nums[nums.indexOf(neededNum)]];
+    }
+
+    res.status(200).json({ result: result });
+  } catch (err) {
+    res.status(500).send(err);
+  }
+});
+
+// app.listen(port, () => console.log(`Listening on localhost:${port}`));
+const server = http.createServer(app);
+
+export default server;
+server.listen(port, () => console.log(`Listening on localhost:${port}`));
+server.on('error', (err) => console.error(err));

@@ -52,6 +52,10 @@ https://tuan200tokyo.blogspot.com/2023/04/blog232-using-security-scanners-and.ht
 
 https://tuan200tokyo.blogspot.com/2023/04/blog236-securely-deploying-nodejs.html
 
+### event loop in javascript
+
+https://tuan200tokyo.blogspot.com/2022/10/blog15-javascript-closures-giai-thich.html
+
 ### securely deploying node js
 
 https://tuan200tokyo.blogspot.com/2023/04/blog236-securely-deploying-nodejs.html
