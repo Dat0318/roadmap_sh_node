@@ -1,19 +1,14 @@
-<!DOCTYPE html>
-<html>
+<%# --- Các tham số --- layout: home | category | article | oops | admin action: view | add | edit data : Data { ... }
+  %>
 
-<head>
-  <title>
-    <%= title %>
-  </title>
-  <link rel='stylesheet' href='/stylesheets/style.css' />
-</head>
+  <% const makeHTML=function(layout) { if (layout=="home" ) return include("./layout/home", { action, data }); if
+    (layout=="category" ) return include("./layout/category/index", { action, data }); if (layout=="article" ) return
+    include("./layout/article/index", { action, data }); if (layout=="admin" ) return include("./layout/admin", {
+    action, data }); if (layout=="oops" ) return include("./layout/oops", { action, data }); if ("any-other-case")
+    return `<h1>Unsupported layout</h1>`;
+    }; // makeHTML
 
-<body>
-  <h1>
-    <%= title %>
-  </h1>
-  <p>Welcome to <%= title %>
-  </p>
-</body>
+    var HTMLcode = makeHTML(layout);
+    %>
 
-</html>
+    <%- HTMLcode %>

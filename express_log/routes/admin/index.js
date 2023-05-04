@@ -1,9 +1,7 @@
-var express = require('express');
-var router = express.Router();
+const express = require("express");
+const router = express.Router();
 
-router.use('/view', require('./action/view.js'));
-router.use('/add', require('./action/add.js'));
-router.use('/edit', require('./action/edit.js'));
-router.use('/delete', require('./action/delete.js'));
+router.use("/login", require("./action/login"));
+router.use("/logout", require("./action/logout"));
 
 module.exports = router;

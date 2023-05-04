@@ -1,0 +1,6 @@
+@import "./component/base.css";
+@import "./component/topnav.css";
+@import "./component/header.css";
+@import "./component/main.css";
+@import "./component/article.css";
+@import "./component/login.css";

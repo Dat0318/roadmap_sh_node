@@ -22,6 +22,7 @@ const Category = class extends Map {
     in_source = new Category(),
     out_target = new Category()
   ) {
+    console.log(out_target instanceof Map)
     for (var entry of in_source) {
       var [key, value] = entry;
       out_target.set(key, value);

@@ -21,10 +21,29 @@ app.use(cookieParser());
 app.use(lessMiddleware(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'public')));
 
+app.use("/api", require("./routes/api/index"));
+app.use(require("./routes/session-filter"));
+
 // app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/', require('./routes/home.js'));
 app.use('/article', require('./routes/article/index.js'));
+app.use("/category", require("./routes/category/index"));
+
+app.get("*", async (request, response) => {
+  response.render("index.ejs", {
+    layout: "article",
+    action: "add",
+    data: require("./data")
+  });
+}); // app.get
+
+app.post("*", (request, response) => {
+  response.json(request.body);
+})
+
+app.use("/admin", require("./routes/admin/index"));
+app.use(require("./routes/oops"));
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {

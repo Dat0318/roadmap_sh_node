@@ -1,0 +1,38 @@
+#main {
+   color: black;
+   background: white;
+   border-bottom: 1px solid lightgray;
+}
+
+#main {
+   padding: 45px 0;
+}
+
+.entry {
+   padding: 27px 0;
+}
+
+.entry:not(:first-child) {
+   border-top: 1px solid lightgray;
+}
+
+.entry h2 {
+   font-size: 1.618em;
+   line-height: 1.2;
+}
+
+.entry p {
+   margin: 18px 0;
+}
+
+.entry a {
+   color: black;
+
+   display: inline-block;
+   height: 42px;
+   line-height: 42px;
+}
+
+.entry a:hover {
+   text-decoration: none;
+}

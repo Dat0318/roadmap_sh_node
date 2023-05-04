@@ -1,5 +1,5 @@
 const express = require("express");
-const Data = require("../../../view/type/Data");
+const Data = require("../../../views/type/Data");
 const getDataForTopnav = require("../../sub-procedure/get-data-for-topnav");
 const getDataForArticle = require("../../sub-procedure/get-data-for-article");
 const Article = require("../../../database/type/Article");

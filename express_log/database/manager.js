@@ -1,6 +1,9 @@
 const Article = require("./type/Article");
 const Category = require("./type/Category");
 const ArticleJoinCategory = require("./type/ArticleJoinCategory");
+const fsPromises = require("fs/promises");
+const path = require("path");
+const pathToDataFolder = path.join(__dirname, "data");
 
 const articleProcedure = new Map()
    .set("insert", require("./procedure/Article/insert--async-throw"))
@@ -25,6 +28,24 @@ const storedProcedure = new Map()
    .set(Article.name, articleProcedure)
    .set(Category.name, categoryProcedure)
    .set(ArticleJoinCategory.name, articleJoinCategoryProcedure);
+
+
+const queryAllArticles = async function () {
+   fsPromises
+      .opendir(pathToDataFolder)
+      .then(async function (dir) {
+         for await (var dirEnt of dir) {
+            console.log(dirEnt.name);
+         } // for await
+      })
+      .catch(function (error) {
+         console.error(error);
+      });
+}; // queryAllArticles
+
+// module.exports = {
+//    queryAllArticles
+// };
 
 exports.execute = async (
    typeName, procedureName,

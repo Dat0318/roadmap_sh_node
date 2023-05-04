@@ -1,0 +1,153 @@
+#article {
+   color: black;
+   background: white;
+
+   padding: 72px 0;
+}
+
+#article h1 {
+   font-size: 2.618em;
+}
+
+#article h1 + span {
+   color: lightgray;
+
+   display: block;
+   margin: 9px 0 18px;
+}
+
+#article h2 {
+   font-size: 1.618em;
+}
+
+#article h3 {
+   font-size: 1em;
+}
+
+#article p {
+   margin: 27px 0;
+}
+
+#article a {
+   color: royalblue;
+}
+
+#article blockquote {
+   background: whitesmoke;
+   border-left: 6px solid lightgray;
+
+   padding: 3px 18px;
+   margin: 27px 0;
+
+   font-size: 21px;
+   font-style: italic;
+}
+
+#article img {
+   display: block;
+   max-width: 100%;
+   height: auto;
+   margin: 0 auto;
+}
+
+#article code {
+   background: whitesmoke;
+   display: inline-block;
+   padding: 3px 6px;
+
+   font-family: "Noto Mono", "Consolas", "Menlo", monospace;
+   font-size: 15px;
+}
+
+#article pre {
+   background: whitesmoke;
+
+   display: block;
+   width: 100%;
+   margin: 36px 0;
+   max-height: 480px;
+   overflow-y: scroll;
+}
+
+#article pre > code {
+   display: block;
+   padding: 72px 18px 27px;
+
+   position: relative;
+
+   font-family: "Noto Mono", "Consolas", "Menlo", monospace;
+   font-size: 0.618em;
+   line-height: 1.618;
+   overflow-x: scroll;
+}
+
+#article pre > code::before {
+   content: ""  attr(class);
+
+   color: white;
+   background: gray;
+
+   display: inline-block;
+   padding: 9px 18px;
+
+   position: absolute;
+   top: 0;
+   left: 0;
+}
+
+#article [name="title"] {
+   border: none;
+   border-bottom: 1px solid lightgray;
+
+   display: block;
+   width: 100%;
+   padding: 0 18px;
+
+   font-size: 2.618em;
+}
+
+#article [name="content"] {
+   border: 1px solid lightgray;
+
+   display: block;
+   width: 100%;
+   height: 1080px;
+   padding: 9px 18px;
+   resize: none;
+   
+   font-size: 21px;
+}
+
+#article [name="title"],
+#article [name="keywords"],
+#article [name="content"] {
+   margin: 27px 0;
+}
+
+#article [name="title"]::placeholder,
+#article [name="keywords"]::placeholder,
+#article [name="content"]::placeholder {
+   color: lightgray;
+}
+
+#article [name="keywords"],
+#article [name="category-id"],
+#article [type="submit"] {
+   background: whitesmoke;
+   border: none;
+   border-bottom: 1px solid lightgray;
+
+   display: inline-block;
+   height: 45px;
+   padding: 0 18px;
+   margin-right: 24px;
+
+   cursor: pointer;
+}
+
+#article [name="keywords"] {
+   background: white;
+
+   width: 100%;
+   max-width: 450px;
+}
