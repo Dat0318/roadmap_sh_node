@@ -1,0 +1,20 @@
+<form id="article" action="<%= data.get("endpoint") %>" method="post">
+   <div class="container">
+      <input type="text" name="title" value="Bài Viết Mới" />
+      
+      <input type="text" name="keywords" placeholder="Từ khóa liên quan..." />
+      
+      <select name="category-id">
+         <option> Danh Mục </option>
+      <% for (var category of data.get("category-list")) { %>
+         <option value="<%= category.get("@id") %>">
+            <%= category.get("name") %>
+         </option>
+      <% } %>
+      </select>
+
+      <button type="submit"> Đăng bài </button>
+
+      <textarea name="content" placeholder="Nội dung bài viết..."></textarea>
+   </div><!-- .container -->
+</form>

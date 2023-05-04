@@ -1,0 +1,15 @@
+<nav id="topnav">
+   <a class="logo" href="/">
+      <%= data.get("logo-text") %>
+   </a>
+   
+<% for (var category of data.get("category-list")) { %>
+   <a class="nav-link" href="<%= category.get("url") %>">
+      <%= category.get("name") %>
+   </a>
+<% } %>
+   
+   <a class="writer" href="<%= data.get("topnav-endpoint") %>">
+      <%= data.get("topnav-action") %>
+   </a>
+</nav><!-- #topnav -->

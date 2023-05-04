@@ -9,7 +9,7 @@ https://viblo.asia/s/chinh-phuc-kubernetes-tu-so-0-GJ59jLJaKX2?page=2
 ## viblo
 
 https://viblo.asia/tags/nodejs/series?page=2
-https://viblo.asia/s/under-nodejs-tim-hieu-ve-v8-engine-dbZN76ValYM
+
 https://viblo.asia/s/huong-dan-co-ban-tu-hoc-lap-trinh-web-mot-cach-that-tu-nhien-Wj53OQQP56m
 https://viblo.asia/s/nodejs-thuc-chien-bq5QL88ElD8
 https://viblo.asia/s/tu-tao-blockchain-va-cryptocurrency-b85og8V452G
@@ -76,3 +76,5 @@ https://tuan200tokyo.blogspot.com/2022/10/blog20-clean-code-va-mot-so-best.html
 https://tuan200tokyo.blogspot.com/2022/10/blog19-java-spring-batch-phan-biet-giua.html
 
 https://tuan200tokyo.blogspot.com/2022/10/blog18-tren-tay-nhanh-slf4j-logging.html
+
+https://viblo.asia/s/under-nodejs-tim-hieu-ve-v8-engine-dbZN76ValYM

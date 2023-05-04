@@ -1,0 +1,21 @@
+<%#
+   --- Các tham số ---
+
+   action: view | edit
+   data  : Map { title }
+%>
+
+<% 
+   const makeHTML = function(actionType) {
+      if (actionType == "view")
+         return include("./action/view", { data });
+      if (actionType == "edit")
+         return include("./action/edit", { data });
+      if ("any-other-case")
+         return `<h1>Unsupported layout</h1>`;
+   }; // makeHTML
+
+   var HTMLcode = makeHTML(action);
+%>
+
+<%- HTMLcode %>

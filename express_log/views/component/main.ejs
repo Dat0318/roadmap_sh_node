@@ -1,0 +1,13 @@
+<main id="main">
+   <div class="container">
+
+   <% for (var entry of data.get("entry-list")) { %>
+      <section class="entry">
+         <h2> <%= entry.get("title") %> </h2>
+         <p> <%- entry.get("excerpt") %> </p>
+         <a href="<%= entry.get("url") %>"> Đọc tiếp </a>
+      </section>
+   <% } %>
+
+   </div><!-- .container -->
+</main>

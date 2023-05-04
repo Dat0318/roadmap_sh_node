@@ -1,0 +1,8 @@
+<article id="article">
+   <div class="container">
+      <h1> <%= data.get("article").get("title") %> </h1>
+      <span> <%= data.get("article").get("edited-datetime") %> </span>
+
+      <%- data.get("article").get("content") %>
+   </div><!-- .container -->
+</article>
