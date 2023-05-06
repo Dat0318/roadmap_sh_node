@@ -10,13 +10,6 @@ https://viblo.asia/s/chinh-phuc-kubernetes-tu-so-0-GJ59jLJaKX2?page=2
 
 https://viblo.asia/tags/nodejs/series?page=2
 
-https://viblo.asia/s/huong-dan-co-ban-tu-hoc-lap-trinh-web-mot-cach-that-tu-nhien-Wj53OQQP56m
-https://viblo.asia/s/nodejs-thuc-chien-bq5QL88ElD8
-https://viblo.asia/s/tu-tao-blockchain-va-cryptocurrency-b85og8V452G
-https://viblo.asia/s/chuyen-anh-tho-xay-va-write-heavy-application-24lJDz46KPM
-https://viblo.asia/s/tutorial-nestjs-aGK7jP3A5j2
-https://viblo.asia/p/tao-single-page-app-giong-medium-bang-reactjsredux-ket-hop-voi-nodejs-Az45bnO65xY
-
 ## free code camp
 
 https://www.freecodecamp.org/news/search/?query=node%20js
@@ -78,3 +71,15 @@ https://tuan200tokyo.blogspot.com/2022/10/blog19-java-spring-batch-phan-biet-giu
 https://tuan200tokyo.blogspot.com/2022/10/blog18-tren-tay-nhanh-slf4j-logging.html
 
 https://viblo.asia/s/under-nodejs-tim-hieu-ve-v8-engine-dbZN76ValYM
+
+https://viblo.asia/s/huong-dan-co-ban-tu-hoc-lap-trinh-web-mot-cach-that-tu-nhien-Wj53OQQP56m
+
+https://viblo.asia/s/nodejs-thuc-chien-bq5QL88ElD8
+
+https://viblo.asia/s/tu-tao-blockchain-va-cryptocurrency-b85og8V452G
+
+https://viblo.asia/s/chuyen-anh-tho-xay-va-write-heavy-application-24lJDz46KPM
+
+https://viblo.asia/s/tutorial-nestjs-aGK7jP3A5j2
+
+https://viblo.asia/p/tao-single-page-app-giong-medium-bang-reactjsredux-ket-hop-voi-nodejs-Az45bnO65xY
