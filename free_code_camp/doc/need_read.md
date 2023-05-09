@@ -1,14 +1,20 @@
 ## https://tuan200tokyo.blogspot.com/
 
+https://viblo.asia/tags/vue
+https://viblo.asia/tags/typescript
 Cron job & Queue: node-cron và kue
 
 =======================================================
 https://viblo.asia/s/chinh-phuc-kubernetes-tu-so-0-GJ59jLJaKX2?page=2
+https://viblo.asia/s/series-hoc-docker-cicd-tu-co-ban-den-ap-dung-vao-thuc-te-jeZ103QgKWz
 =======================================================
 
 ## viblo
 
-https://viblo.asia/tags/nodejs/series?page=2
+https://viblo.asia/tags/nodejs/series?page=3 ===> NodeJS & Beyond <====
+
+https://viblo.asia/s/nodejs-can-ban-cho-nguoi-moi-bat-dau-7LKXNqXrlV4
+https://viblo.asia/s/nodejs-beyond-z45bxjvNZxY
 
 ## free code camp
 
@@ -83,3 +89,5 @@ https://viblo.asia/s/chuyen-anh-tho-xay-va-write-heavy-application-24lJDz46KPM
 https://viblo.asia/s/tutorial-nestjs-aGK7jP3A5j2
 
 https://viblo.asia/p/tao-single-page-app-giong-medium-bang-reactjsredux-ket-hop-voi-nodejs-Az45bnO65xY
+
+https://viblo.asia/s/pmleB8G95rd
