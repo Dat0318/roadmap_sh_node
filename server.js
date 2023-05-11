@@ -175,13 +175,17 @@ const awaitForEach = async () => {
 
 const openLinks = () => {
   const links = `
-  https://tuan200tokyo.blogspot.com/2022/10/blog25-tat-ca-nhung-thu-ban-can-e-xay.html
-
-  https://tuan200tokyo.blogspot.com/2022/10/blog20-clean-code-va-mot-so-best.html
-
-  https://tuan200tokyo.blogspot.com/2022/10/blog19-java-spring-batch-phan-biet-giua.html
-
-  https://tuan200tokyo.blogspot.com/2022/10/blog18-tren-tay-nhanh-slf4j-logging.html
+  https://viblo.asia/s/xay-dung-ung-dung-web-voi-nodejs-express-framework-angularjs-3vKjRgeVK2R
+  https://viblo.asia/s/validate-data-voi-json-schema-jeZ107j8KWz
+  https://viblo.asia/s/nghich-ngom-cung-puppeteer-dbZN7QXalYM
+  https://viblo.asia/s/hoc-cach-lam-app-bang-nodejs-voi-react-jy5VB2P35ra
+  https://viblo.asia/s/thu-tao-blockchain-va-tien-ao-bitcoin-bang-html-va-javascript-GJ59j07aKX2
+  https://viblo.asia/s/chatbot-the-lazy-way-aGK7jNGB5j2
+  https://viblo.asia/s/tu-php-sang-nodejs-bq5QL7EElD8
+  https://viblo.asia/s/xay-dung-ung-dung-don-gian-voi-angularjs-nodejs-va-mysql-pmleBzNm5rd
+  https://viblo.asia/s/minh-da-lam-be-ca-thong-minh-nhu-the-nao-eVKByjnY5kW
+  https://viblo.asia/s/nodejs-and-its-weird-component-jy5VB2mb5ra
+  https://viblo.asia/s/turtorial-nodejs-7LKXNqbDlV4
   `;
 
   const arr = links

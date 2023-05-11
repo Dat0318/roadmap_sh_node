@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vite + TS</title>
+
+  <script src="../node_modules/angular/angular.js"></script>
+  <script src="../node_modules/angular-animate/angular-animate.js"></script>
+  <script src="../node_modules/angular-sanitize/angular-sanitize.js"></script>
+  <script src="../node_modules/angular-drag-and-drop-lists/angular-drag-and-drop-lists.js"></script>
+  <script src="../node_modules/lodash/lodash.js"></script>
+  <link href="../node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../node_modules/bootstrap3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../node_modules/font-awesome/css/font-awesome.css" rel="stylesheet">
+</head>
+
+<body ng-app="myApp" ng-controller="kanBanCtrl as ctrl">
+  <!-- <div id="app"></div> -->
+  <app-root></app-root>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-3" ng-repeat="list in ctrl.taskList">
+        <div class="panel panel-{{list.class}}">
+          <div class="panel-heading list-header" ng-bind="list.label"></div>
+          <div class="panel-body task-list">
+            <ul dnd-list dnd-drop="ctrl.onDrop(list, item, index)">
+              <li ng-repeat="task in list.tasks" dnd-draggable="ctrl.getSelectedTasksIncluding(list, task)"
+                dnd-dragstart="ctrl.onDragstart(list, event)" dnd-moved="ctrl.onMoved(list)"
+                dnd-dragend="list.dragging = false" dnd-selected="task.selected = !task.selected"
+                ng-class="{'selected': task.selected}" ng-hide="list.dragging && task.selected">
+                <i class="fa" aria-hidden="true" ng-class="{'fa-hand-o-right': list.label === 'TO DO', 'fa-cogs': list.label === 'DOING',
+                      'fa-exclamation-circle': list.label === 'PENDING', 'fa-check-square-o': list.label === 'DONE'}">
+                </i>
+                <span ng-bind="task.name"></span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="/src/main.ts"></script>
+</body>
+
+</html>

@@ -5,16 +5,18 @@ https://viblo.asia/tags/typescript
 Cron job & Queue: node-cron và kue
 
 =======================================================
+https://viblo.asia/u/mih2t9x
+https://viblo.asia/u/chungminhtu/series
+https://viblo.asia/u/quanlightning17/series
+https://viblo.asia/u/ruacondepzaj/series
 https://viblo.asia/s/chinh-phuc-kubernetes-tu-so-0-GJ59jLJaKX2?page=2
 https://viblo.asia/s/series-hoc-docker-cicd-tu-co-ban-den-ap-dung-vao-thuc-te-jeZ103QgKWz
+https://viblo.asia/p/tu-phat-trien-toi-trien-khai-phan-2-frontend-vuejs-spa-ssr-ByEZkN8AKQ0
 =======================================================
 
 ## viblo
 
-https://viblo.asia/tags/nodejs/series?page=3 ===> NodeJS & Beyond <====
-
-https://viblo.asia/s/nodejs-can-ban-cho-nguoi-moi-bat-dau-7LKXNqXrlV4
-https://viblo.asia/s/nodejs-beyond-z45bxjvNZxY
+https://viblo.asia/s/minh-da-lam-be-ca-thong-minh-nhu-the-nao-eVKByjnY5kW
 
 ## free code camp
 
@@ -91,3 +93,29 @@ https://viblo.asia/s/tutorial-nestjs-aGK7jP3A5j2
 https://viblo.asia/p/tao-single-page-app-giong-medium-bang-reactjsredux-ket-hop-voi-nodejs-Az45bnO65xY
 
 https://viblo.asia/s/pmleB8G95rd
+
+https://viblo.asia/s/nodejs-can-ban-cho-nguoi-moi-bat-dau-7LKXNqXrlV4
+
+https://viblo.asia/s/nodejs-beyond-z45bxjvNZxY
+
+https://viblo.asia/s/xay-dung-cac-ung-dung-khong-may-chu-voi-nodejs-aws-lambda-api-gateway-serverless-framework-va-dynamodb-aGK7jNNM5j2
+
+https://viblo.asia/s/xay-dung-ung-dung-web-voi-nodejs-express-framework-angularjs-3vKjRgeVK2R
+
+https://viblo.asia/s/validate-data-voi-json-schema-jeZ107j8KWz
+
+https://viblo.asia/s/nghich-ngom-cung-puppeteer-dbZN7QXalYM
+
+https://viblo.asia/s/hoc-cach-lam-app-bang-nodejs-voi-react-jy5VB2P35ra
+
+https://viblo.asia/s/thu-tao-blockchain-va-tien-ao-bitcoin-bang-html-va-javascript-GJ59j07aKX2
+
+https://viblo.asia/s/chatbot-the-lazy-way-aGK7jNGB5j2
+
+https://viblo.asia/s/tu-php-sang-nodejs-bq5QL7EElD8
+
+https://viblo.asia/s/xay-dung-ung-dung-don-gian-voi-angularjs-nodejs-va-mysql-pmleBzNm5rd
+
+https://viblo.asia/s/nodejs-and-its-weird-component-jy5VB2mb5ra
+
+https://viblo.asia/s/turtorial-nodejs-7LKXNqbDlV4
