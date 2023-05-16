@@ -1,0 +1,97 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.slide-fade-enter-active {
+  transition: all 0.3s ease;
+}
+
+.slide-fade-leave-active {
+  transition: all 0.8s cubic-bezier(1, 0.5, 0.8, 1);
+}
+
+.slide-fade-enter, .slide-fade-leave-to
+/* .slide-fade-leave-active below version 2.1.8 */ {
+  transform: translateX(10px);
+  opacity: 0;
+}
+
+.searchable-container {
+  margin: 20px 0 0 0;
+}
+.searchable-container label.btn-default.active {
+  background-color: #007ba7;
+  color: #fff;
+}
+.searchable-container label.btn-default {
+  width: 90%;
+  border: 1px solid #efefef;
+  margin: 5px;
+  box-shadow: 5px 8px 8px 0 #ccc;
+}
+.searchable-container label .bizcontent {
+  width: 100%;
+}
+.searchable-container .btn-group {
+  width: 90%;
+}
+.searchable-container .btn span.glyphicon {
+  opacity: 0;
+}
+
+.searchable-container .btn.active span.glyphicon {
+  opacity: 1;
+}
+
+.tasks {
+  transition: all 1s;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.list-complete-enter, .list-complete-leave-to
+  /* .list-complete-leave-active below version 2.1.8 */ {
+  opacity: 0;
+  transform: translateY(30px);
+}
+.list-complete-leave-active {
+  position: absolute;
+}
+
+.row {
+  padding-left: 122px;
+}

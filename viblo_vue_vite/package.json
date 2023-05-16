@@ -1,0 +1,22 @@
+{
+  "name": "viblo_vue_vite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^9.21.0",
+    "vue": "^3.3.1",
+    "vue-demi": "^0.11.0-beta.1",
+    "vuefire": "^3.1.0",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "vite": "^4.3.2"
+  }
+}

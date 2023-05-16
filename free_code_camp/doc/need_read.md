@@ -6,23 +6,46 @@ Cron job & Queue: node-cron và kue
 
 =======================================================
 https://viblo.asia/u/mih2t9x
-https://viblo.asia/u/chungminhtu/series
-https://viblo.asia/u/quanlightning17/series
 https://viblo.asia/u/ruacondepzaj/series
 https://viblo.asia/s/chinh-phuc-kubernetes-tu-so-0-GJ59jLJaKX2?page=2
 https://viblo.asia/s/series-hoc-docker-cicd-tu-co-ban-den-ap-dung-vao-thuc-te-jeZ103QgKWz
 https://viblo.asia/p/tu-phat-trien-toi-trien-khai-phan-2-frontend-vuejs-spa-ssr-ByEZkN8AKQ0
+https://viblo.asia/s/2018-cung-nhau-hoc-docker-Wj53Omjb56m
 =======================================================
 
 ## viblo
 
-https://viblo.asia/s/minh-da-lam-be-ca-thong-minh-nhu-the-nao-eVKByjnY5kW
+https://viblo.asia/p/tay-trang-lam-nen-mot-trang-web-ca-nhan-chuyen-nghiep-khong-ton-mot-xu-phan-2-ByEZk91W5Q0
+
+## viblo laravel vue js
+
+template vue 2: https://github.com/petervmeijgaard/vue-2-boilerplate/blob/master/src/store/modules/auth/actions.js
+
+https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-1-Az45bWnLKxY
+https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-2-vue-vuex-LzD5dbLEZjY
+https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-vuejs-gGJ59xmDlX2
+https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-nuxtjs-LzD5dwm4ljY
+https://viblo.asia/p/vai-dieu-chua-biet-ve-watcher-trong-vuejs-3Q75wGnG5Wb
 
 ## free code camp
 
 https://www.freecodecamp.org/news/search/?query=node%20js
 https://www.freecodecamp.org/news/free-8-hour-node-express-course/
 https://www.freecodecamp.org/learn/back-end-development-and-apis/
+
+## Kipalog
+
+https://kipalog.com/
+
+https://kipalog.kaopiz.com/posts/Modern-Web-Architecture
+https://kipalog.kaopiz.com/posts/Capacity-Reservation-in-AWS
+https://kipalog.kaopiz.com/posts/AWS-Savings-Plans-vs-Reserved-Instances
+https://kipalog.kaopiz.com/posts/Lac-loi-giua-ma-tran-cac-loai-instance-type-cua-AWS
+https://kipalog.kaopiz.com/posts/Khai-quat-va-de-hieu-ve-cac-noi-dung-trong-bai-thi-AWS-SAA
+https://kipalog.kaopiz.com/posts/Mot-vai-notes-ve-Amazon-Kinesis
+https://kipalog.kaopiz.com/posts/Pass-AWS-DVA-trong-vong-mot-not-nhac
+https://kipalog.kaopiz.com/posts/Tom-tat-noi-dung-on-thi-AWS-SAA--P2----EC2
+https://kipalog.kaopiz.com/posts/Tom-tat-noi-dung-on-thi-AWS-SAA--P1----IAM---S3
 
 ## DONE
 
@@ -119,3 +142,67 @@ https://viblo.asia/s/xay-dung-ung-dung-don-gian-voi-angularjs-nodejs-va-mysql-pm
 https://viblo.asia/s/nodejs-and-its-weird-component-jy5VB2mb5ra
 
 https://viblo.asia/s/turtorial-nodejs-7LKXNqbDlV4
+
+https://viblo.asia/s/minh-da-lam-be-ca-thong-minh-nhu-the-nao-eVKByjnY5kW
+
+https://kipalog.kaopiz.com/posts/Manage-or-die-
+
+https://kipalog.kaopiz.com/posts/Muon-neo-tim-nguoi---Developer-va-nhung-bai-hoc-xuong-mau
+
+https://kipalog.kaopiz.com/posts/Tu-dong-hoa-front-end-vs-Laravel-Mix-trong-Laravel-P1
+
+https://kipalog.kaopiz.com/posts/Viec-can-lam-duy-nhat-de-dua-du-an-den-thanh-cong
+
+https://kipalog.kaopiz.com/posts/Doc-di-se-to-chu-de
+
+https://kipalog.kaopiz.com/posts/Nevercode-CI---Ngay-buon-thang-nho-nam-thuong------
+
+https://kipalog.kaopiz.com/posts/Bao-mat-cho-web-API-the-nao-cho-tot-
+
+https://kipalog.kaopiz.com/posts/Viet-code-nghe-thuat--de-tro-thanh-Pro---Phan-2
+
+https://kipalog.kaopiz.com/posts/Async-Non-Blocking-trong-JS-voi-ES6--phan-1
+
+https://kipalog.kaopiz.com/posts/Nghe-thuat-viet-code-dep--Don-gian--de-doc-hoa-bieu-thuc
+
+https://kipalog.kaopiz.com/posts/Dung-khoc-khi-buoc-chan-vao-KAOPIZ
+
+https://kipalog.kaopiz.com/posts/Ky-thuat-de-testcase-khong-bi-bo-sot
+
+https://kipalog.kaopiz.com/posts/Toi-tiep-can-Nhat-Ban-bat-dau-tu-hoi-tho
+
+https://kipalog.kaopiz.com/posts/Mat-khau-da-thay-doi-cuoc-doi-toi-nhu-the-nao-
+
+https://kipalog.kaopiz.com/posts/Upload-Large-File-to-AWS-S3-with-Multipart--Presignurl-from-Clientside
+
+https://kipalog.kaopiz.com/posts/Multiple-file-upload-into-Amazon-s3-bucket
+
+https://kipalog.kaopiz.com/posts/Kinh-nghiem-thiet-ke-luong-xu-ly-cho-cac-chuc-nang-thanh-toan-credit-card---apple-pay
+
+https://kipalog.kaopiz.com/posts/Hay-tin-minh--Tu-tin-dang-ki-thi-FE---
+
+https://kipalog.kaopiz.com/posts/Tang-ban-10-bo-UI-mien-phi-de-tang-toc-qua-trinh-thiet-ke
+
+https://kipalog.kaopiz.com/posts/Scope-Creep---Qua-cau-tuyet
+
+https://kipalog.kaopiz.com/posts/Laravel-Model-Events
+
+https://kipalog.kaopiz.com/posts/ISO--Duoc-va-mat-voi-quy-trinh
+
+https://kipalog.kaopiz.com/posts/Nay-anh-ban-Lap-trinh-vien--neu-muon-len-trinh-thi-hay-viet-code-cho-sach
+
+https://kipalog.kaopiz.com/posts/Authorization-trong-Laravel
+
+https://kipalog.kaopiz.com/posts/Da-ngon-ngu-trong-Laravel
+
+https://kipalog.kaopiz.com/posts/Tu-tao-php-console-app-Artisan-giong-Laravel
+
+https://kipalog.kaopiz.com/posts/Cac-mo-hinh-database-nen-biet
+
+https://kipalog.kaopiz.com/posts/Laravel-Mix-without-Laravel
+
+https://kipalog.kaopiz.com/posts/Validation-trong-Laravel
+
+https://kipalog.kaopiz.com/posts/Design-Patterns-la-gi
+
+https://kipacast.info/team.html

@@ -175,17 +175,22 @@ const awaitForEach = async () => {
 
 const openLinks = () => {
   const links = `
-  https://viblo.asia/s/xay-dung-ung-dung-web-voi-nodejs-express-framework-angularjs-3vKjRgeVK2R
-  https://viblo.asia/s/validate-data-voi-json-schema-jeZ107j8KWz
-  https://viblo.asia/s/nghich-ngom-cung-puppeteer-dbZN7QXalYM
-  https://viblo.asia/s/hoc-cach-lam-app-bang-nodejs-voi-react-jy5VB2P35ra
-  https://viblo.asia/s/thu-tao-blockchain-va-tien-ao-bitcoin-bang-html-va-javascript-GJ59j07aKX2
-  https://viblo.asia/s/chatbot-the-lazy-way-aGK7jNGB5j2
-  https://viblo.asia/s/tu-php-sang-nodejs-bq5QL7EElD8
-  https://viblo.asia/s/xay-dung-ung-dung-don-gian-voi-angularjs-nodejs-va-mysql-pmleBzNm5rd
-  https://viblo.asia/s/minh-da-lam-be-ca-thong-minh-nhu-the-nao-eVKByjnY5kW
-  https://viblo.asia/s/nodejs-and-its-weird-component-jy5VB2mb5ra
-  https://viblo.asia/s/turtorial-nodejs-7LKXNqbDlV4
+  https://kipalog.kaopiz.com/posts/Upload-Large-File-to-AWS-S3-with-Multipart--Presignurl-from-Clientside
+  https://kipalog.kaopiz.com/posts/Multiple-file-upload-into-Amazon-s3-bucket
+  https://kipalog.kaopiz.com/posts/Kinh-nghiem-thiet-ke-luong-xu-ly-cho-cac-chuc-nang-thanh-toan-credit-card---apple-pay
+  https://kipalog.kaopiz.com/posts/Hay-tin-minh--Tu-tin-dang-ki-thi-FE---
+  https://kipalog.kaopiz.com/posts/Tang-ban-10-bo-UI-mien-phi-de-tang-toc-qua-trinh-thiet-ke
+  https://kipalog.kaopiz.com/posts/Scope-Creep---Qua-cau-tuyet
+  https://kipalog.kaopiz.com/posts/Laravel-Model-Events
+  https://kipalog.kaopiz.com/posts/ISO--Duoc-va-mat-voi-quy-trinh
+  https://kipalog.kaopiz.com/posts/Nay-anh-ban-Lap-trinh-vien--neu-muon-len-trinh-thi-hay-viet-code-cho-sach
+  https://kipalog.kaopiz.com/posts/Authorization-trong-Laravel
+  https://kipalog.kaopiz.com/posts/Da-ngon-ngu-trong-Laravel
+  https://kipalog.kaopiz.com/posts/Tu-tao-php-console-app-Artisan-giong-Laravel
+  https://kipalog.kaopiz.com/posts/Cac-mo-hinh-database-nen-biet
+  https://kipalog.kaopiz.com/posts/Laravel-Mix-without-Laravel
+  https://kipalog.kaopiz.com/posts/Validation-trong-Laravel
+  https://kipalog.kaopiz.com/posts/Design-Patterns-la-gi
   `;
 
   const arr = links
