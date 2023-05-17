@@ -1,12 +1,93 @@
 ## https://tuan200tokyo.blogspot.com/
 
+https://viblo.asia/tags?sort=followers&type=none&page=7
+
+https://viblo.asia/tags/typescript?page=3
+https://viblo.asia/tags/git/series
+https://viblo.asia/tags/javascript/series
+https://viblo.asia/tags/css/series
+https://viblo.asia/tags/docker/series
+https://viblo.asia/tags/reactjs/series
+https://viblo.asia/tags/amazon-web-services/series
+https://viblo.asia/tags/mysql/series
+https://viblo.asia/tags/net/series
+
+https://viblo.asia/tags/devops/series
+https://viblo.asia/tags/agile/series
+https://viblo.asia/tags/linux/series
+https://viblo.asia/tags/php/series
+https://viblo.asia/tags/sql/series
+https://viblo.asia/tags/mongodb/series
+https://viblo.asia/tags/firebase/series
+https://viblo.asia/tags/react-native/series
+https://viblo.asia/tags/laravel/series
+https://viblo.asia/tags/ubuntu/series
+https://viblo.asia/tags/docker-compose/series
+https://viblo.asia/tags/nosql/series
+https://viblo.asia/tags/nginx/series
+https://viblo.asia/tags/aspnet/series
+https://viblo.asia/tags/elasticsearch/series
+https://viblo.asia/tags/scss/series
+https://viblo.asia/tags/wordpress/series
+https://viblo.asia/tags/postgresql/series
+https://viblo.asia/tags/design-principle/series
+https://viblo.asia/tags/heroku/series
+https://viblo.asia/tags/express/series
+https://viblo.asia/tags/websocket/series
+https://viblo.asia/tags/seo/series
+https://viblo.asia/tags/sass/series
+https://viblo.asia/tags/redis/series
+https://viblo.asia/tags/centos/series
+https://viblo.asia/tags/functionalprogramming/series
+https://viblo.asia/tags/composer/series
+https://viblo.asia/tags/opencv/series
+https://viblo.asia/tags/webpack/series
+https://viblo.asia/tags/ssh/series
+https://viblo.asia/tags/mac-os-x/series
+https://viblo.asia/tags/unix/series
+https://viblo.asia/tags/vim/series
+https://viblo.asia/tags/swift/series
+https://viblo.asia/tags/jenkins/series
+
+https://viblo.asia/tags/front-end
+https://viblo.asia/tags/terminal
+https://viblo.asia/tags/frontend
+https://viblo.asia/tags/tutorial
+https://viblo.asia/tags/regular-expression
+https://viblo.asia/tags/googleapi
+https://viblo.asia/tags/es6
+https://viblo.asia/tags/rest
+https://viblo.asia/tags/web-crawler
+https://viblo.asia/tags/ux-design
+https://viblo.asia/tags/chrome-extension
+https://viblo.asia/tags/solid
+https://viblo.asia/tags/react
+https://viblo.asia/tags/front-end-developer
+https://viblo.asia/tags/cloudcomputing
+https://viblo.asia/tags/realtime
+https://viblo.asia/tags/graphql
 https://viblo.asia/tags/vue
-https://viblo.asia/tags/typescript
+https://viblo.asia/tags/orm
+https://viblo.asia/tags/crawl-data
+https://viblo.asia/tags/nuxtjs
+https://viblo.asia/tags/web-performance
+https://viblo.asia/tags/aws
+https://viblo.asia/tags/jwt
+https://viblo.asia/tags/k8s
+https://viblo.asia/tags/functional-programming
+https://viblo.asia/tags/web-design
+https://viblo.asia/tags/cicd
+https://viblo.asia/tags/system-design
+https://viblo.asia/tags/cleancode
+https://viblo.asia/tags/datastructure
+https://viblo.asia/tags/nestjs
+https://viblo.asia/tags/chrome
+https://viblo.asia/tags/postman
+https://viblo.asia/tags/nextjs
+
 Cron job & Queue: node-cron và kue
 
 =======================================================
-https://viblo.asia/u/mih2t9x
-https://viblo.asia/u/ruacondepzaj/series
 https://viblo.asia/s/chinh-phuc-kubernetes-tu-so-0-GJ59jLJaKX2?page=2
 https://viblo.asia/s/series-hoc-docker-cicd-tu-co-ban-den-ap-dung-vao-thuc-te-jeZ103QgKWz
 https://viblo.asia/p/tu-phat-trien-toi-trien-khai-phan-2-frontend-vuejs-spa-ssr-ByEZkN8AKQ0
@@ -17,12 +98,51 @@ https://viblo.asia/s/2018-cung-nhau-hoc-docker-Wj53Omjb56m
 
 https://viblo.asia/p/tay-trang-lam-nen-mot-trang-web-ca-nhan-chuyen-nghiep-khong-ton-mot-xu-phan-2-ByEZk91W5Q0
 
+https://viblo.asia/s/storybook-essentials-2oKLnqWWJQO
+https://viblo.asia/s/150-bai-viet-ngan-ve-lap-trinh-DVK2jD0wKLj
+https://beautyoncode.com/
+https://viblo.asia/s/hoc-typescript-can-ban-zD5dB8GYZjY
+https://viblo.asia/s/hoc-es6-can-ban-rLZDX44JZk0
+https://viblo.asia/s/framework-nestjs-yEZkg8PYZQ0
+https://viblo.asia/s/su-dung-typescript-de-tao-api-bao-mat-voi-nodejs-va-express-P0lPmrNv5ox
+https://viblo.asia/s/nhung-dieu-nho-nhat-khi-lap-trinh-javascript-AyK8VqnWlxX
+https://viblo.asia/s/tim-hieu-ve-typescript-rLZDXoDeZk0
+
+https://viblo.asia/p/tai-sao-ban-nen-chon-typescript-thay-vi-javascript-EoW4oxYrJml
+https://viblo.asia/p/so-sanh-nho-giua-typescript-va-javascript-aAY4qvnDJPw
+https://viblo.asia/p/toi-viet-cai-package-atltvenv-nhu-the-nao-phan-2-obA4630BJKv
+https://viblo.asia/p/typescript-utility-types-pho-bien-018J29Ee4YK
+https://viblo.asia/p/hieu-ve-khai-niem-the-constructor-of-the-class-trong-typescript-AZoJjXAOVY7
+https://viblo.asia/p/generics-trong-typescript-WR5JRmOz4Gv
+https://viblo.asia/p/tich-hop-redux-toolkit-vao-react-voi-typescript-r1QLxQDgVAw
+https://viblo.asia/p/chuyen-type-tu-json-sau-khi-fetch-api-5OXLAoxv4Gr
+https://viblo.asia/p/xu-ly-request-va-refresh-token-hieu-qua-trong-react-js-voi-axios-interceptors-gwd43kXK4X9
+https://viblo.asia/p/cach-dang-nhap-sso-keycloak-voi-reactjs-va-typescript-38X4E52j4N2
+https://viblo.asia/p/tao-rest-api-tren-nodejs-voi-express-va-prisma-su-dung-typescript-naQZRPnj5vx
+https://viblo.asia/p/interface-funtion-trong-typescript-p1-OeVKBjyEKkW
+https://viblo.asia/p/modules-trong-typescript-Qpmlez3k5rd
+https://viblo.asia/p/dependency-injection-trong-typescript-aWj53m1eZ6m
+
+https://viblo.asia/p/su-dung-generics-trong-typescript-QpmlezGN5rd
+https://viblo.asia/p/su-dung-abstract-classes-trong-typescript-924lJg0Y5PM
+https://viblo.asia/p/su-dung-static-methods-va-properties-trong-typescript-bWrZnQ9nKxw
+https://viblo.asia/p/su-dung-inheritance-ke-thua-trong-typescript-3Q75wNzJlWb
+https://viblo.asia/p/su-dung-getters-va-setters-trong-typescript-bWrZnAJnKxw
+https://viblo.asia/p/su-dung-access-modifiers-trong-typescript-maGK7rxx5j2
+https://viblo.asia/p/su-dung-class-trong-typescript-bJzKmAbDK9N
+https://viblo.asia/p/su-dung-function-overloadings-trong-typescript-Az45bRvz5xY
+https://viblo.asia/p/su-dung-functions-trong-typescript-Qbq5QRz4KD8
+https://viblo.asia/p/su-dung-rest-parameters-trong-typescript-maGK7rnO5j2
+https://viblo.asia/p/su-dung-default-parameters-trong-typescript-924lJRkWlPM
+https://viblo.asia/p/su-dung-interface-trong-typescript-07LKXRXDlV4
+
 ## viblo laravel vue js
 
+https://viblo.asia/tags/vue
 template vue 2: https://github.com/petervmeijgaard/vue-2-boilerplate/blob/master/src/store/modules/auth/actions.js
 
 https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-1-Az45bWnLKxY
-https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-2-vue-vuex-LzD5dbLEZjY
+https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-2-vue-vuex-LzD5dbLEZjY0
 https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-vuejs-gGJ59xmDlX2
 https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-nuxtjs-LzD5dwm4ljY
 https://viblo.asia/p/vai-dieu-chua-biet-ve-watcher-trong-vuejs-3Q75wGnG5Wb
@@ -33,19 +153,10 @@ https://www.freecodecamp.org/news/search/?query=node%20js
 https://www.freecodecamp.org/news/free-8-hour-node-express-course/
 https://www.freecodecamp.org/learn/back-end-development-and-apis/
 
-## Kipalog
+## Kipalog === read leter
 
+https://viblo.asia/u/mih2t9x
 https://kipalog.com/
-
-https://kipalog.kaopiz.com/posts/Modern-Web-Architecture
-https://kipalog.kaopiz.com/posts/Capacity-Reservation-in-AWS
-https://kipalog.kaopiz.com/posts/AWS-Savings-Plans-vs-Reserved-Instances
-https://kipalog.kaopiz.com/posts/Lac-loi-giua-ma-tran-cac-loai-instance-type-cua-AWS
-https://kipalog.kaopiz.com/posts/Khai-quat-va-de-hieu-ve-cac-noi-dung-trong-bai-thi-AWS-SAA
-https://kipalog.kaopiz.com/posts/Mot-vai-notes-ve-Amazon-Kinesis
-https://kipalog.kaopiz.com/posts/Pass-AWS-DVA-trong-vong-mot-not-nhac
-https://kipalog.kaopiz.com/posts/Tom-tat-noi-dung-on-thi-AWS-SAA--P2----EC2
-https://kipalog.kaopiz.com/posts/Tom-tat-noi-dung-on-thi-AWS-SAA--P1----IAM---S3
 
 ## DONE
 
@@ -206,3 +317,21 @@ https://kipalog.kaopiz.com/posts/Validation-trong-Laravel
 https://kipalog.kaopiz.com/posts/Design-Patterns-la-gi
 
 https://kipacast.info/team.html
+
+https://kipalog.kaopiz.com/posts/Modern-Web-Architecture
+
+https://kipalog.kaopiz.com/posts/Capacity-Reservation-in-AWS
+
+https://kipalog.kaopiz.com/posts/AWS-Savings-Plans-vs-Reserved-Instances
+
+https://kipalog.kaopiz.com/posts/Lac-loi-giua-ma-tran-cac-loai-instance-type-cua-AWS
+
+https://kipalog.kaopiz.com/posts/Khai-quat-va-de-hieu-ve-cac-noi-dung-trong-bai-thi-AWS-SAA
+
+https://kipalog.kaopiz.com/posts/Mot-vai-notes-ve-Amazon-Kinesis
+
+https://kipalog.kaopiz.com/posts/Pass-AWS-DVA-trong-vong-mot-not-nhac
+
+https://kipalog.kaopiz.com/posts/Tom-tat-noi-dung-on-thi-AWS-SAA--P2----EC2
+
+https://kipalog.kaopiz.com/posts/Tom-tat-noi-dung-on-thi-AWS-SAA--P1----IAM---S3
