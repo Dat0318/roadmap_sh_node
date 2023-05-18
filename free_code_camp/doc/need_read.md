@@ -100,7 +100,7 @@ https://viblo.asia/p/tay-trang-lam-nen-mot-trang-web-ca-nhan-chuyen-nghiep-khong
 
 https://viblo.asia/s/storybook-essentials-2oKLnqWWJQO
 https://viblo.asia/s/150-bai-viet-ngan-ve-lap-trinh-DVK2jD0wKLj
-https://beautyoncode.com/
+https://viblo.asia/u/BeautyOnCode/series
 https://viblo.asia/s/hoc-typescript-can-ban-zD5dB8GYZjY
 https://viblo.asia/s/hoc-es6-can-ban-rLZDX44JZk0
 https://viblo.asia/s/framework-nestjs-yEZkg8PYZQ0
@@ -108,33 +108,7 @@ https://viblo.asia/s/su-dung-typescript-de-tao-api-bao-mat-voi-nodejs-va-express
 https://viblo.asia/s/nhung-dieu-nho-nhat-khi-lap-trinh-javascript-AyK8VqnWlxX
 https://viblo.asia/s/tim-hieu-ve-typescript-rLZDXoDeZk0
 
-https://viblo.asia/p/tai-sao-ban-nen-chon-typescript-thay-vi-javascript-EoW4oxYrJml
-https://viblo.asia/p/so-sanh-nho-giua-typescript-va-javascript-aAY4qvnDJPw
-https://viblo.asia/p/toi-viet-cai-package-atltvenv-nhu-the-nao-phan-2-obA4630BJKv
-https://viblo.asia/p/typescript-utility-types-pho-bien-018J29Ee4YK
-https://viblo.asia/p/hieu-ve-khai-niem-the-constructor-of-the-class-trong-typescript-AZoJjXAOVY7
-https://viblo.asia/p/generics-trong-typescript-WR5JRmOz4Gv
-https://viblo.asia/p/tich-hop-redux-toolkit-vao-react-voi-typescript-r1QLxQDgVAw
-https://viblo.asia/p/chuyen-type-tu-json-sau-khi-fetch-api-5OXLAoxv4Gr
-https://viblo.asia/p/xu-ly-request-va-refresh-token-hieu-qua-trong-react-js-voi-axios-interceptors-gwd43kXK4X9
-https://viblo.asia/p/cach-dang-nhap-sso-keycloak-voi-reactjs-va-typescript-38X4E52j4N2
-https://viblo.asia/p/tao-rest-api-tren-nodejs-voi-express-va-prisma-su-dung-typescript-naQZRPnj5vx
-https://viblo.asia/p/interface-funtion-trong-typescript-p1-OeVKBjyEKkW
-https://viblo.asia/p/modules-trong-typescript-Qpmlez3k5rd
-https://viblo.asia/p/dependency-injection-trong-typescript-aWj53m1eZ6m
-
-https://viblo.asia/p/su-dung-generics-trong-typescript-QpmlezGN5rd
-https://viblo.asia/p/su-dung-abstract-classes-trong-typescript-924lJg0Y5PM
-https://viblo.asia/p/su-dung-static-methods-va-properties-trong-typescript-bWrZnQ9nKxw
-https://viblo.asia/p/su-dung-inheritance-ke-thua-trong-typescript-3Q75wNzJlWb
-https://viblo.asia/p/su-dung-getters-va-setters-trong-typescript-bWrZnAJnKxw
-https://viblo.asia/p/su-dung-access-modifiers-trong-typescript-maGK7rxx5j2
-https://viblo.asia/p/su-dung-class-trong-typescript-bJzKmAbDK9N
-https://viblo.asia/p/su-dung-function-overloadings-trong-typescript-Az45bRvz5xY
-https://viblo.asia/p/su-dung-functions-trong-typescript-Qbq5QRz4KD8
-https://viblo.asia/p/su-dung-rest-parameters-trong-typescript-maGK7rnO5j2
-https://viblo.asia/p/su-dung-default-parameters-trong-typescript-924lJRkWlPM
-https://viblo.asia/p/su-dung-interface-trong-typescript-07LKXRXDlV4
+https://viblo.asia/p/cac-bai-viet-ngan-phan-11-EvbLbbd1Lnk
 
 ## viblo laravel vue js
 
@@ -157,6 +131,17 @@ https://www.freecodecamp.org/learn/back-end-development-and-apis/
 
 https://viblo.asia/u/mih2t9x
 https://kipalog.com/
+
+## POSTCAST
+
+https://beautyoncode.com/podcast/
+https://www.viettech.group/
+https://hung.dev/posts/clean-code-1
+https://viblo.asia/p/devops-nhung-cuon-sach-nen-doc-de-tro-thanh-devops-cho-nguoi-moi-bat-dau-YWOZrAqNKQ0
+https://devopsvn.tech/cac-ban-duoc-mentor
+https://www.linkedin.com/posts/nguyenlonghaisharing_qu%C3%A1-b%E1%BA%ADn-%C4%91%E1%BB%83-kh%C3%B4ng-th%E1%BB%83-th%C3%A0nh-c%C3%B4ng-b%E1%BA%ADn-r%E1%BB%99n-activity-6956878997511168000-csHp/
+https://ktmt.github.io/blog/archives/
+Tôi đi code dạo, Codeaholicguy, Huyền Chip, The Full Snack(Huy Trần), Ngọc Hiếu(tác giả podcast hieu.tv), Ask Tester(Huỳnh Công Thành), Việt Huỳnh Blog(cựu tổng giám đốc KMS Technology), Giáo Sư Cẩn
 
 ## DONE
 
@@ -335,3 +320,42 @@ https://kipalog.kaopiz.com/posts/Pass-AWS-DVA-trong-vong-mot-not-nhac
 https://kipalog.kaopiz.com/posts/Tom-tat-noi-dung-on-thi-AWS-SAA--P2----EC2
 
 https://kipalog.kaopiz.com/posts/Tom-tat-noi-dung-on-thi-AWS-SAA--P1----IAM---S3
+
+https://viblo.asia/p/su-dung-generics-trong-typescript-QpmlezGN5rd
+
+https://viblo.asia/p/su-dung-abstract-classes-trong-typescript-924lJg0Y5PM
+
+https://viblo.asia/p/su-dung-static-methods-va-properties-trong-typescript-bWrZnQ9nKxw
+
+https://viblo.asia/p/su-dung-inheritance-ke-thua-trong-typescript-3Q75wNzJlWb
+
+https://viblo.asia/p/su-dung-getters-va-setters-trong-typescript-bWrZnAJnKxw
+
+https://viblo.asia/p/su-dung-access-modifiers-trong-typescript-maGK7rxx5j2
+
+https://viblo.asia/p/su-dung-class-trong-typescript-bJzKmAbDK9N
+
+https://viblo.asia/p/su-dung-function-overloadings-trong-typescript-Az45bRvz5xY
+
+https://viblo.asia/p/su-dung-functions-trong-typescript-Qbq5QRz4KD8
+
+https://viblo.asia/p/su-dung-rest-parameters-trong-typescript-maGK7rnO5j2
+
+https://viblo.asia/p/su-dung-default-parameters-trong-typescript-924lJRkWlPM
+
+https://viblo.asia/p/su-dung-interface-trong-typescript-07LKXRXDlV4
+
+https://viblo.asia/p/tai-sao-ban-nen-chon-typescript-thay-vi-javascript-EoW4oxYrJml
+https://viblo.asia/p/so-sanh-nho-giua-typescript-va-javascript-aAY4qvnDJPw
+https://viblo.asia/p/toi-viet-cai-package-atltvenv-nhu-the-nao-phan-2-obA4630BJKv
+https://viblo.asia/p/typescript-utility-types-pho-bien-018J29Ee4YK
+https://viblo.asia/p/hieu-ve-khai-niem-the-constructor-of-the-class-trong-typescript-AZoJjXAOVY7
+https://viblo.asia/p/generics-trong-typescript-WR5JRmOz4Gv
+https://viblo.asia/p/tich-hop-redux-toolkit-vao-react-voi-typescript-r1QLxQDgVAw
+https://viblo.asia/p/chuyen-type-tu-json-sau-khi-fetch-api-5OXLAoxv4Gr
+https://viblo.asia/p/xu-ly-request-va-refresh-token-hieu-qua-trong-react-js-voi-axios-interceptors-gwd43kXK4X9
+https://viblo.asia/p/cach-dang-nhap-sso-keycloak-voi-reactjs-va-typescript-38X4E52j4N2
+https://viblo.asia/p/tao-rest-api-tren-nodejs-voi-express-va-prisma-su-dung-typescript-naQZRPnj5vx
+https://viblo.asia/p/interface-funtion-trong-typescript-p1-OeVKBjyEKkW
+https://viblo.asia/p/modules-trong-typescript-Qpmlez3k5rd
+https://viblo.asia/p/dependency-injection-trong-typescript-aWj53m1eZ6m

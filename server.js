@@ -175,20 +175,6 @@ const awaitForEach = async () => {
 
 const openLinks = () => {
   const links = `
-  https://viblo.asia/p/tai-sao-ban-nen-chon-typescript-thay-vi-javascript-EoW4oxYrJml
-  https://viblo.asia/p/so-sanh-nho-giua-typescript-va-javascript-aAY4qvnDJPw
-  https://viblo.asia/p/toi-viet-cai-package-atltvenv-nhu-the-nao-phan-2-obA4630BJKv
-  https://viblo.asia/p/typescript-utility-types-pho-bien-018J29Ee4YK
-  https://viblo.asia/p/hieu-ve-khai-niem-the-constructor-of-the-class-trong-typescript-AZoJjXAOVY7
-  https://viblo.asia/p/generics-trong-typescript-WR5JRmOz4Gv
-  https://viblo.asia/p/tich-hop-redux-toolkit-vao-react-voi-typescript-r1QLxQDgVAw
-  https://viblo.asia/p/chuyen-type-tu-json-sau-khi-fetch-api-5OXLAoxv4Gr
-  https://viblo.asia/p/xu-ly-request-va-refresh-token-hieu-qua-trong-react-js-voi-axios-interceptors-gwd43kXK4X9
-  https://viblo.asia/p/cach-dang-nhap-sso-keycloak-voi-reactjs-va-typescript-38X4E52j4N2
-  https://viblo.asia/p/tao-rest-api-tren-nodejs-voi-express-va-prisma-su-dung-typescript-naQZRPnj5vx
-  https://viblo.asia/p/interface-funtion-trong-typescript-p1-OeVKBjyEKkW
-  https://viblo.asia/p/modules-trong-typescript-Qpmlez3k5rd
-  https://viblo.asia/p/dependency-injection-trong-typescript-aWj53m1eZ6m
   `;
 
   const arr = links
