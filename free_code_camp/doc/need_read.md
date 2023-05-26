@@ -1,8 +1,11 @@
 ## https://tuan200tokyo.blogspot.com/
 
+https://viblo.asia/p/con-duong-minh-dang-di-de-tro-thanh-fullstack-web-developer-maGK7VWx5j2
+
+## https://viblo.asia/p/tay-trang-lam-nen-mot-trang-web-ca-nhan-chuyen-nghiep-khong-ton-mot-xu-phan-2-ByEZk91W5Q0
+
 https://viblo.asia/tags?sort=followers&type=none&page=7
 
-https://viblo.asia/tags/typescript?page=3
 https://viblo.asia/tags/git/series
 https://viblo.asia/tags/javascript/series
 https://viblo.asia/tags/css/series
@@ -49,66 +52,52 @@ https://viblo.asia/tags/vim/series
 https://viblo.asia/tags/swift/series
 https://viblo.asia/tags/jenkins/series
 
-https://viblo.asia/tags/front-end
-https://viblo.asia/tags/terminal
-https://viblo.asia/tags/frontend
-https://viblo.asia/tags/tutorial
-https://viblo.asia/tags/regular-expression
-https://viblo.asia/tags/googleapi
-https://viblo.asia/tags/es6
-https://viblo.asia/tags/rest
-https://viblo.asia/tags/web-crawler
-https://viblo.asia/tags/ux-design
-https://viblo.asia/tags/chrome-extension
-https://viblo.asia/tags/solid
-https://viblo.asia/tags/react
-https://viblo.asia/tags/front-end-developer
-https://viblo.asia/tags/cloudcomputing
-https://viblo.asia/tags/realtime
-https://viblo.asia/tags/graphql
-https://viblo.asia/tags/vue
-https://viblo.asia/tags/orm
-https://viblo.asia/tags/crawl-data
-https://viblo.asia/tags/nuxtjs
-https://viblo.asia/tags/web-performance
-https://viblo.asia/tags/aws
-https://viblo.asia/tags/jwt
-https://viblo.asia/tags/k8s
-https://viblo.asia/tags/functional-programming
-https://viblo.asia/tags/web-design
-https://viblo.asia/tags/cicd
-https://viblo.asia/tags/system-design
-https://viblo.asia/tags/cleancode
-https://viblo.asia/tags/datastructure
-https://viblo.asia/tags/nestjs
-https://viblo.asia/tags/chrome
-https://viblo.asia/tags/postman
-https://viblo.asia/tags/nextjs
+https://viblo.asia/tags/front-end/series
+https://viblo.asia/tags/terminal/series
+https://viblo.asia/tags/frontend/series
+https://viblo.asia/tags/tutorial/series
+https://viblo.asia/tags/regular-expression/series
+https://viblo.asia/tags/googleapi/series
+https://viblo.asia/tags/es6/series
+https://viblo.asia/tags/rest/series
+https://viblo.asia/tags/web-crawler/series
+https://viblo.asia/tags/ux-design/series
+https://viblo.asia/tags/chrome-extension/series
+https://viblo.asia/tags/solid/series
+https://viblo.asia/tags/react/series
+https://viblo.asia/tags/front-end-developer/series
+https://viblo.asia/tags/cloudcomputing/series
+https://viblo.asia/tags/realtime/series
+https://viblo.asia/tags/graphql/series
+https://viblo.asia/tags/vue/series
+https://viblo.asia/tags/orm/series
+https://viblo.asia/tags/crawl-data/series
+https://viblo.asia/tags/nuxtjs/series
+https://viblo.asia/tags/web-performance/series
+https://viblo.asia/tags/aws/series
+https://viblo.asia/tags/jwt/series
+https://viblo.asia/tags/k8s/series
+https://viblo.asia/tags/functional-programming/series
+https://viblo.asia/tags/web-design/series
+https://viblo.asia/tags/cicd/series
+https://viblo.asia/tags/system-design/series
+https://viblo.asia/tags/cleancode/series
+https://viblo.asia/tags/datastructure/series
+https://viblo.asia/tags/nestjs/series
+https://viblo.asia/tags/chrome/series
+https://viblo.asia/tags/postman/series
+https://viblo.asia/tags/nextjs/series
 
 Cron job & Queue: node-cron và kue
 
 =======================================================
+https://viblo.asia/s/jeZ103QgKWz
+https://viblo.asia/u/maitrungduc1410/series
 https://viblo.asia/s/chinh-phuc-kubernetes-tu-so-0-GJ59jLJaKX2?page=2
 https://viblo.asia/s/series-hoc-docker-cicd-tu-co-ban-den-ap-dung-vao-thuc-te-jeZ103QgKWz
 https://viblo.asia/p/tu-phat-trien-toi-trien-khai-phan-2-frontend-vuejs-spa-ssr-ByEZkN8AKQ0
 https://viblo.asia/s/2018-cung-nhau-hoc-docker-Wj53Omjb56m
 =======================================================
-
-## viblo
-
-https://viblo.asia/p/tay-trang-lam-nen-mot-trang-web-ca-nhan-chuyen-nghiep-khong-ton-mot-xu-phan-2-ByEZk91W5Q0
-
-https://viblo.asia/s/storybook-essentials-2oKLnqWWJQO
-https://viblo.asia/s/150-bai-viet-ngan-ve-lap-trinh-DVK2jD0wKLj
-https://viblo.asia/u/BeautyOnCode/series
-https://viblo.asia/s/hoc-typescript-can-ban-zD5dB8GYZjY
-https://viblo.asia/s/hoc-es6-can-ban-rLZDX44JZk0
-https://viblo.asia/s/framework-nestjs-yEZkg8PYZQ0
-https://viblo.asia/s/su-dung-typescript-de-tao-api-bao-mat-voi-nodejs-va-express-P0lPmrNv5ox
-https://viblo.asia/s/nhung-dieu-nho-nhat-khi-lap-trinh-javascript-AyK8VqnWlxX
-https://viblo.asia/s/tim-hieu-ve-typescript-rLZDXoDeZk0
-
-https://viblo.asia/p/cac-bai-viet-ngan-phan-11-EvbLbbd1Lnk
 
 ## viblo laravel vue js
 
@@ -127,10 +116,15 @@ https://www.freecodecamp.org/news/search/?query=node%20js
 https://www.freecodecamp.org/news/free-8-hour-node-express-course/
 https://www.freecodecamp.org/learn/back-end-development-and-apis/
 
+======== YOUTUBE =========
+https://www.youtube.com/watch?v=8mAITcNt710&feature=youtu.be
+https://www.youtube.com/watch?v=Ktb33USxsZA&list=PL53G8L1GDrrmz1BFI8baHwJOyMZvTv2vI
+
 ## Kipalog === read leter
 
-https://viblo.asia/u/mih2t9x
 https://kipalog.com/
+https://huyenchip.com/vn/
+https://dev.to/said7388/top-20-reactjs-interview-questions-3a0m
 
 ## POSTCAST
 
@@ -140,10 +134,36 @@ https://hung.dev/posts/clean-code-1
 https://viblo.asia/p/devops-nhung-cuon-sach-nen-doc-de-tro-thanh-devops-cho-nguoi-moi-bat-dau-YWOZrAqNKQ0
 https://devopsvn.tech/cac-ban-duoc-mentor
 https://www.linkedin.com/posts/nguyenlonghaisharing_qu%C3%A1-b%E1%BA%ADn-%C4%91%E1%BB%83-kh%C3%B4ng-th%E1%BB%83-th%C3%A0nh-c%C3%B4ng-b%E1%BA%ADn-r%E1%BB%99n-activity-6956878997511168000-csHp/
+https://www.notion.so/Top-Resources-for-SQL-Bootcamp-38a39207d09a4dc19492ca8e8c64e0ae
 https://ktmt.github.io/blog/archives/
+https://vasanthk.gitbooks.io/react-bits/content/patterns/21.context-wrapper.html
+https://medium.com/frontend-canteen/with-these-articles-you-will-not-be-confused-when-learning-typescript-d96a5c99e229
 Tôi đi code dạo, Codeaholicguy, Huyền Chip, The Full Snack(Huy Trần), Ngọc Hiếu(tác giả podcast hieu.tv), Ask Tester(Huỳnh Công Thành), Việt Huỳnh Blog(cựu tổng giám đốc KMS Technology), Giáo Sư Cẩn
 
+## viblo
+
+https://viblo.asia/tags/nestjs/series
+https://viblo.asia/tags/chrome/series
+https://viblo.asia/tags/postman/series
+https://viblo.asia/tags/nextjs/series
+
+https://viblo.asia/s/reactjs-nang-cao-68Z00npQZkG
+https://viblo.asia/s/nextjs-thuc-chien-qPoL7ezN4vk
+https://viblo.asia/p/cung-minh-tao-boilerplate-cho-du-an-nextjs-v12-phan-1-mui-v5-emotion-cache-va-axios-hooks-GyZJZnk2Jjm
+https://viblo.asia/p/cung-minh-tao-boilerplate-cho-du-an-nextjs-v12-phan-1-mui-v5-emotion-cache-va-axios-hooks-GyZJZnk2Jjm
+https://viblo.asia/p/cung-minh-tao-boilerplate-cho-du-an-nextjs-v12-phan-2-i18n-va-nextauthjs-zOQJwQYkVMP
+https://viblo.asia/s/fe-framework-review-PwlVmRq045Z
+https://viblo.asia/s/nextjs-2022-hoc-nextjs-tu-dau-4x5xp7a15BM
+https://viblo.asia/s/series-ve-nextjs-JzKmg8yEl9N
+https://viblo.asia/s/cac-bai-tutorial-nodejs-P856j78G5Y3
+
 ## DONE
+
+https://viblo.asia/tags/typescript?page=3
+https://viblo.asia/u/mih2t9x
+https://viblo.asia/s/tim-hieu-ve-typescript-rLZDXoDeZk0
+
+=====================================================================================
 
 https://tuan200tokyo.blogspot.com/2022/10/blog12-cach-commnet-trong-file-json.html
 
@@ -359,3 +379,12 @@ https://viblo.asia/p/tao-rest-api-tren-nodejs-voi-express-va-prisma-su-dung-type
 https://viblo.asia/p/interface-funtion-trong-typescript-p1-OeVKBjyEKkW
 https://viblo.asia/p/modules-trong-typescript-Qpmlez3k5rd
 https://viblo.asia/p/dependency-injection-trong-typescript-aWj53m1eZ6m
+
+https://viblo.asia/s/storybook-essentials-2oKLnqWWJQO
+https://viblo.asia/s/150-bai-viet-ngan-ve-lap-trinh-DVK2jD0wKLj
+https://viblo.asia/u/BeautyOnCode/series
+https://viblo.asia/s/hoc-typescript-can-ban-zD5dB8GYZjY
+https://viblo.asia/s/hoc-es6-can-ban-rLZDX44JZk0
+https://viblo.asia/s/framework-nestjs-yEZkg8PYZQ0
+https://viblo.asia/s/su-dung-typescript-de-tao-api-bao-mat-voi-nodejs-va-express-P0lPmrNv5ox
+https://viblo.asia/s/nhung-dieu-nho-nhat-khi-lap-trinh-javascript-AyK8VqnWlxX
