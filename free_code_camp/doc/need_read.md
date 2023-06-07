@@ -142,26 +142,27 @@ Tôi đi code dạo, Codeaholicguy, Huyền Chip, The Full Snack(Huy Trần), Ng
 
 ## viblo
 
-https://viblo.asia/tags/nestjs/series
 https://viblo.asia/tags/chrome/series
 https://viblo.asia/tags/postman/series
 https://viblo.asia/tags/nextjs/series
 
-https://viblo.asia/s/reactjs-nang-cao-68Z00npQZkG
-https://viblo.asia/s/nextjs-thuc-chien-qPoL7ezN4vk
-https://viblo.asia/p/cung-minh-tao-boilerplate-cho-du-an-nextjs-v12-phan-1-mui-v5-emotion-cache-va-axios-hooks-GyZJZnk2Jjm
-https://viblo.asia/p/cung-minh-tao-boilerplate-cho-du-an-nextjs-v12-phan-1-mui-v5-emotion-cache-va-axios-hooks-GyZJZnk2Jjm
-https://viblo.asia/p/cung-minh-tao-boilerplate-cho-du-an-nextjs-v12-phan-2-i18n-va-nextauthjs-zOQJwQYkVMP
-https://viblo.asia/s/fe-framework-review-PwlVmRq045Z
-https://viblo.asia/s/nextjs-2022-hoc-nextjs-tu-dau-4x5xp7a15BM
-https://viblo.asia/s/series-ve-nextjs-JzKmg8yEl9N
-https://viblo.asia/s/cac-bai-tutorial-nodejs-P856j78G5Y3
+https://viblo.asia/u/ntngoc96wd << cần máy để làm tutorial
+https://viblo.asia/p/kubernetes-series-bai-2-kubernetes-pod-thanh-phan-de-chay-container-YWOZr3QElQ0
 
 ## DONE
 
 https://viblo.asia/tags/typescript?page=3
 https://viblo.asia/u/mih2t9x
 https://viblo.asia/s/tim-hieu-ve-typescript-rLZDXoDeZk0
+https://viblo.asia/s/reactjs-nang-cao-68Z00npQZkG
+https://viblo.asia/s/nextjs-thuc-chien-qPoL7ezN4vk
+https://viblo.asia/p/cung-minh-tao-boilerplate-cho-du-an-nextjs-v12-phan-1-mui-v5-emotion-cache-va-axios-hooks-GyZJZnk2Jjm
+https://viblo.asia/p/cung-minh-tao-boilerplate-cho-du-an-nextjs-v12-phan-2-i18n-va-nextauthjs-zOQJwQYkVMP
+https://viblo.asia/s/fe-framework-review-PwlVmRq045Z
+https://viblo.asia/s/nextjs-2022-hoc-nextjs-tu-dau-4x5xp7a15BM
+https://viblo.asia/s/series-ve-nextjs-JzKmg8yEl9N
+https://viblo.asia/s/cac-bai-tutorial-nodejs-P856j78G5Y3
+https://viblo.asia/tags/nestjs/series
 
 =====================================================================================
 
