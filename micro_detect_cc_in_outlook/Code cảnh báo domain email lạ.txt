@@ -1,0 +1,58 @@
+Option Explicit
+Private WithEvents inboxItems As Outlook.Items
+Private Sub Application_Startup()
+  Dim outlookApp As Outlook.Application
+  Dim objectNS As Outlook.NameSpace
+  
+  Set outlookApp = Outlook.Application
+  Set objectNS = outlookApp.GetNamespace("MAPI")
+  Set inboxItems = objectNS.GetDefaultFolder(olFolderInbox).Items
+End Sub
+Private Sub inboxItems_ItemAdd(ByVal Item As Object)
+Dim mpfInbox As Outlook.Folder
+Dim obj As Outlook.MailItem
+Set mpfInbox = Application.GetNamespace("MAPI").GetDefaultFolder(olFolderInbox)
+
+Dim olNS As NameSpace
+Dim strSubFolder As String
+Dim olFolder As Folder
+Dim olSubFolder As Folder
+Dim bExists As Boolean
+Set olNS = GetNamespace("MAPI")
+Set olFolder = olNS.GetDefaultFolder(olFolderInbox)
+strSubFolder = "Warning..! Strange Domain Email"
+For Each olSubFolder In olFolder.Folders
+    If olSubFolder.Name = strSubFolder Then
+        bExists = True
+        Exit For
+    End If
+Next olSubFolder
+If Not bExists Then
+    Set olSubFolder = olFolder.Folders.Add(strSubFolder)
+End If
+  
+Dim arrDomain As Variant
+
+'' Add Trusted Domain Email here
+arrDomain = Array("@vin3s.vn", "o=vincomjsc")
+
+Dim i As Integer
+Dim StrangeDomain As Boolean
+StrangeDomain = False
+
+For i = LBound(arrDomain) To UBound(arrDomain)
+    If arrDomain(i) <> "" Then
+        If InStr(UCase(Item.SenderEmailAddress), UCase(arrDomain(i))) > 0 Then
+            StrangeDomain = False
+            Exit For
+        Else
+            StrangeDomain = True
+        End If
+    End If
+Next i
+
+If StrangeDomain = True Then
+    Item.Move olSubFolder
+End If
+
+End Sub

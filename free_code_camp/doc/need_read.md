@@ -147,10 +147,10 @@ https://viblo.asia/tags/postman/series
 https://viblo.asia/tags/nextjs/series
 
 https://viblo.asia/u/ntngoc96wd << cần máy để làm tutorial
-https://viblo.asia/p/kubernetes-series-bai-2-kubernetes-pod-thanh-phan-de-chay-container-YWOZr3QElQ0
 
 ## DONE
 
+https://viblo.asia/p/kubernetes-series-bai-2-kubernetes-pod-thanh-phan-de-chay-container-YWOZr3QElQ0
 https://viblo.asia/tags/typescript?page=3
 https://viblo.asia/u/mih2t9x
 https://viblo.asia/s/tim-hieu-ve-typescript-rLZDXoDeZk0

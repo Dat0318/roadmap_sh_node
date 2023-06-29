@@ -1,0 +1,7 @@
+Private Sub Application_ItemSend(ByVal Item As Object, Cancel As Boolean)
+Dim prompt As String
+If Item.CC <> "" Then
+    MsgBox "Not allow CC"
+    Cancel = True
+End If
+End Sub
