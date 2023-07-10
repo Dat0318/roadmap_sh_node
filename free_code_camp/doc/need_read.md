@@ -83,14 +83,10 @@ https://viblo.asia/tags/cicd/series
 https://viblo.asia/tags/system-design/series
 https://viblo.asia/tags/cleancode/series
 https://viblo.asia/tags/datastructure/series
-https://viblo.asia/tags/nestjs/series
-https://viblo.asia/tags/chrome/series
-https://viblo.asia/tags/postman/series
-https://viblo.asia/tags/nextjs/series
 
 Cron job & Queue: node-cron và kue
 
-=======================================================
+======================================================= Need Home PC
 https://viblo.asia/s/jeZ103QgKWz
 https://viblo.asia/u/maitrungduc1410/series
 https://viblo.asia/s/chinh-phuc-kubernetes-tu-so-0-GJ59jLJaKX2?page=2
@@ -126,8 +122,18 @@ https://kipalog.com/
 https://huyenchip.com/vn/
 https://dev.to/said7388/top-20-reactjs-interview-questions-3a0m
 
-## POSTCAST
+## viblo <<<<<<<<<<<<<<<<<<<<===========================================<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+https://viblo.asia/u/ntngoc96wd << cần máy để làm tutorial
+
+## DONE
+
+https://viblo.asia/tags/nestjs/series
+https://viblo.asia/tags/chrome/series
+https://viblo.asia/tags/postman/series
+https://viblo.asia/tags/nextjs/series
+
+=== POSTCAST ===
 https://beautyoncode.com/podcast/
 https://www.viettech.group/
 https://hung.dev/posts/clean-code-1
@@ -139,17 +145,7 @@ https://ktmt.github.io/blog/archives/
 https://vasanthk.gitbooks.io/react-bits/content/patterns/21.context-wrapper.html
 https://medium.com/frontend-canteen/with-these-articles-you-will-not-be-confused-when-learning-typescript-d96a5c99e229
 Tôi đi code dạo, Codeaholicguy, Huyền Chip, The Full Snack(Huy Trần), Ngọc Hiếu(tác giả podcast hieu.tv), Ask Tester(Huỳnh Công Thành), Việt Huỳnh Blog(cựu tổng giám đốc KMS Technology), Giáo Sư Cẩn
-
-## viblo
-
-https://viblo.asia/tags/chrome/series
-https://viblo.asia/tags/postman/series
-https://viblo.asia/tags/nextjs/series
-
-https://viblo.asia/u/ntngoc96wd << cần máy để làm tutorial
-
-## DONE
-
+=== POSTCAST:END ===
 https://viblo.asia/p/kubernetes-series-bai-2-kubernetes-pod-thanh-phan-de-chay-container-YWOZr3QElQ0
 https://viblo.asia/tags/typescript?page=3
 https://viblo.asia/u/mih2t9x
