@@ -66,6 +66,10 @@ https://viblo.asia/u/ntngoc96wd
 https://viblo.asia/s/k8s-basic-kubernetes-danh-cho-nguoi-moi-bat-dau-pgjLN088432
 https://viblo.asia/p/amazon-api-gateway-http-api-to-aws-simple-queue-service-sqs-to-lambda-vlZL9NKvVQK
 https://viblo.asia/p/aws-cdk-la-gi-vlZL9EoBLQK
+
+=== AWS CERTIFICATE ===
+https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
+=== AWS CERTIFICATE: END ===
 =======================================================
 
 ## viblo laravel vue js
@@ -110,20 +114,21 @@ https://viblo.asia/tags/vue/series
 https://viblo.asia/tags/nuxtjs/series
 https://viblo.asia/tags/jwt/series
 https://viblo.asia/tags/k8s/series
+
+## DONE
+
 https://viblo.asia/p/aws-ec2-ebs-snapshot-ami-efs-m68Z0o8dKkG
 https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
 https://viblo.asia/p/100-ngay-hoc-devops-ngay-1-V3m5Wx7WKO7
 https://viblo.asia/p/aws-lab-thu-tao-1-aws-ec2-va-deploy-1-ung-dung-rails-Ljy5VYrVlra
 https://viblo.asia/p/aws-ec2-ebs-snapshot-ami-efs-m68Z0o8dKkG
 https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
+
 https://viblo.asia/p/task-scheduling-va-bai-toan-su-luoi-cua-cac-developers-924lJDV0KPM
 https://viblo.asia/p/hibernate-caching-bai-1-first-level-cache-07LKXw3r5V4
 https://viblo.asia/s/bigdata-machine-learning-analytic-realtime-monitoring-yEZkg8D4ZQ0
 https://viblo.asia/p/tim-hieu-graphql-phan-1-graphql-vs-rest-api-924lJYG6ZPM
 https://viblo.asia/p/graphql-for-dummies-part-1-introduction-4dbZNEdgKYM
-
-## DONE
-
 https://viblo.asia/tags/front-end-developer/series
 https://viblo.asia/tags/cloudcomputing/series
 https://viblo.asia/tags/realtime/series
