@@ -52,38 +52,6 @@ https://viblo.asia/tags/vim/series
 https://viblo.asia/tags/swift/series
 https://viblo.asia/tags/jenkins/series
 
-https://viblo.asia/tags/front-end/series
-https://viblo.asia/tags/terminal/series
-https://viblo.asia/tags/frontend/series
-https://viblo.asia/tags/tutorial/series
-https://viblo.asia/tags/regular-expression/series
-https://viblo.asia/tags/googleapi/series
-https://viblo.asia/tags/es6/series
-https://viblo.asia/tags/rest/series
-https://viblo.asia/tags/web-crawler/series
-https://viblo.asia/tags/ux-design/series
-https://viblo.asia/tags/chrome-extension/series
-https://viblo.asia/tags/solid/series
-https://viblo.asia/tags/react/series
-https://viblo.asia/tags/front-end-developer/series
-https://viblo.asia/tags/cloudcomputing/series
-https://viblo.asia/tags/realtime/series
-https://viblo.asia/tags/graphql/series
-https://viblo.asia/tags/vue/series
-https://viblo.asia/tags/orm/series
-https://viblo.asia/tags/crawl-data/series
-https://viblo.asia/tags/nuxtjs/series
-https://viblo.asia/tags/web-performance/series
-https://viblo.asia/tags/aws/series
-https://viblo.asia/tags/jwt/series
-https://viblo.asia/tags/k8s/series
-https://viblo.asia/tags/functional-programming/series
-https://viblo.asia/tags/web-design/series
-https://viblo.asia/tags/cicd/series
-https://viblo.asia/tags/system-design/series
-https://viblo.asia/tags/cleancode/series
-https://viblo.asia/tags/datastructure/series
-
 Cron job & Queue: node-cron và kue
 
 ======================================================= Need Home PC
@@ -96,7 +64,8 @@ https://viblo.asia/s/2018-cung-nhau-hoc-docker-Wj53Omjb56m
 https://viblo.asia/u/ntngoc96wd
 
 https://viblo.asia/s/k8s-basic-kubernetes-danh-cho-nguoi-moi-bat-dau-pgjLN088432
-
+https://viblo.asia/p/amazon-api-gateway-http-api-to-aws-simple-queue-service-sqs-to-lambda-vlZL9NKvVQK
+https://viblo.asia/p/aws-cdk-la-gi-vlZL9EoBLQK
 =======================================================
 
 ## viblo laravel vue js
@@ -120,16 +89,48 @@ https://www.freecodecamp.org/learn/back-end-development-and-apis/
 https://www.youtube.com/watch?v=8mAITcNt710&feature=youtu.be
 https://www.youtube.com/watch?v=Ktb33USxsZA&list=PL53G8L1GDrrmz1BFI8baHwJOyMZvTv2vI
 
-## Kipalog === read leter
-
-https://kipalog.com/
-https://huyenchip.com/vn/
-https://dev.to/said7388/top-20-reactjs-interview-questions-3a0m
-
 ## viblo <<<<<<<<<<<<<<<<<<<<===========================================<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+https://viblo.asia/tags/front-end/series
+https://viblo.asia/tags/terminal/series
+https://viblo.asia/tags/frontend/series
+https://viblo.asia/tags/tutorial/series
+https://viblo.asia/tags/regular-expression/series
+https://viblo.asia/tags/googleapi/series
+https://viblo.asia/tags/es6/series
+https://viblo.asia/tags/rest/series
+https://viblo.asia/tags/web-crawler/series
+https://viblo.asia/tags/ux-design/series
+https://viblo.asia/tags/chrome-extension/series
+https://viblo.asia/tags/solid/series
+https://viblo.asia/tags/react/series
+
+https://viblo.asia/tags/graphql/series
+https://viblo.asia/tags/vue/series
+https://viblo.asia/tags/nuxtjs/series
+https://viblo.asia/tags/jwt/series
+https://viblo.asia/tags/k8s/series
+https://viblo.asia/p/aws-ec2-ebs-snapshot-ami-efs-m68Z0o8dKkG
+https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
+https://viblo.asia/p/100-ngay-hoc-devops-ngay-1-V3m5Wx7WKO7
+https://viblo.asia/p/aws-lab-thu-tao-1-aws-ec2-va-deploy-1-ung-dung-rails-Ljy5VYrVlra
+https://viblo.asia/p/aws-ec2-ebs-snapshot-ami-efs-m68Z0o8dKkG
+https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
+https://viblo.asia/p/task-scheduling-va-bai-toan-su-luoi-cua-cac-developers-924lJDV0KPM
+https://viblo.asia/p/hibernate-caching-bai-1-first-level-cache-07LKXw3r5V4
+https://viblo.asia/s/bigdata-machine-learning-analytic-realtime-monitoring-yEZkg8D4ZQ0
+https://viblo.asia/p/tim-hieu-graphql-phan-1-graphql-vs-rest-api-924lJYG6ZPM
+https://viblo.asia/p/graphql-for-dummies-part-1-introduction-4dbZNEdgKYM
 
 ## DONE
 
+https://viblo.asia/tags/front-end-developer/series
+https://viblo.asia/tags/cloudcomputing/series
+https://viblo.asia/tags/realtime/series
+https://viblo.asia/tags/orm/series
+https://viblo.asia/tags/crawl-data/series
+https://viblo.asia/tags/web-performance/series
+https://viblo.asia/tags/aws/series
 https://viblo.asia/tags/functional-programming/series
 https://viblo.asia/tags/web-design/series
 https://viblo.asia/tags/cicd/series
@@ -140,6 +141,13 @@ https://viblo.asia/tags/nestjs/series
 https://viblo.asia/tags/chrome/series
 https://viblo.asia/tags/postman/series
 https://viblo.asia/tags/nextjs/series
+
+=== Kipalog READ LATER ===
+
+https://kipalog.com/
+https://huyenchip.com/vn/
+https://dev.to/said7388/top-20-reactjs-interview-questions-3a0m
+=== Kipalog: END ===
 
 === POSTCAST ===
 https://beautyoncode.com/podcast/
