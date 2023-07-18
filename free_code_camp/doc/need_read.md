@@ -48,7 +48,6 @@ https://viblo.asia/tags/webpack/series
 https://viblo.asia/tags/ssh/series
 https://viblo.asia/tags/mac-os-x/series
 https://viblo.asia/tags/unix/series
-https://viblo.asia/tags/vim/series
 https://viblo.asia/tags/swift/series
 https://viblo.asia/tags/jenkins/series
 
@@ -107,15 +106,16 @@ https://viblo.asia/tags/web-crawler/series
 https://viblo.asia/tags/ux-design/series
 https://viblo.asia/tags/chrome-extension/series
 https://viblo.asia/tags/solid/series
-https://viblo.asia/tags/react/series
+
+## DONE
 
 https://viblo.asia/tags/graphql/series
+https://viblo.asia/tags/react/series
 https://viblo.asia/tags/vue/series
 https://viblo.asia/tags/nuxtjs/series
 https://viblo.asia/tags/jwt/series
 https://viblo.asia/tags/k8s/series
-
-## DONE
+https://viblo.asia/tags/vim/series
 
 https://viblo.asia/p/aws-ec2-ebs-snapshot-ami-efs-m68Z0o8dKkG
 https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO

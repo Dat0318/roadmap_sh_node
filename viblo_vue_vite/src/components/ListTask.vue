@@ -53,7 +53,5 @@ export default {
 }
 </script>
 <style>
-.btn-group {
-  float: right;
-}
+.btn-group {}
 </style>

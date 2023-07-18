@@ -24,7 +24,7 @@ export default {
   },
   computed: {
     newTask() {
-      return this.$store.getters.newTask
+      return this.$store.getters.newTask;
     }
   }
 }

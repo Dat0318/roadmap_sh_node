@@ -29,7 +29,7 @@ export default {
   },
   computed: {
     completed() {
-      return this.$store.getters.completedTask
+      return this.$store.getters.completedTask;
     }
   }
 }

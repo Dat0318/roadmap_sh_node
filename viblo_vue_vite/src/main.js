@@ -2,6 +2,11 @@ import './style.css';
 import App from './App.vue';
 import { VueFire } from 'vuefire';
 import { createApp } from 'vue';
+import router from './routers/index';
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/js/bootstrap.bundle.js';
+import VueLazyload from 'vue-lazyload';
+
 // import Vuex from 'vuex';
 
 import FirebaseApp from './models/books';
@@ -16,11 +21,13 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 createApp(App)
+  .use(router)
+  .use(VueLazyload)
   .use(VueFire, {
     FirebaseApp,
     // add modules like VueFireAuth, ...
     modules: [],
   })
   // .use(Vuex)
-  // .use(store)
+  .use(store)
   .mount('#app');

@@ -17,4 +17,14 @@ export default {
   clearTask({ commit }) {
     commit('clearTask');
   },
+
+  addTaskItem({ commit }, newToDo) {
+    commit('addTaskItem', newToDo);
+  },
+  deleteToDo({ commit }, item) {
+    commit('deleteToDo', item);
+  },
+  doneEdit({ commit }, item) {
+    commit('doneEdit', item);
+  },
 };
