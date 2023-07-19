@@ -37,19 +37,6 @@ https://viblo.asia/tags/design-principle/series
 https://viblo.asia/tags/heroku/series
 https://viblo.asia/tags/express/series
 https://viblo.asia/tags/websocket/series
-https://viblo.asia/tags/seo/series
-https://viblo.asia/tags/sass/series
-https://viblo.asia/tags/redis/series
-https://viblo.asia/tags/centos/series
-https://viblo.asia/tags/functionalprogramming/series
-https://viblo.asia/tags/composer/series
-https://viblo.asia/tags/opencv/series
-https://viblo.asia/tags/webpack/series
-https://viblo.asia/tags/ssh/series
-https://viblo.asia/tags/mac-os-x/series
-https://viblo.asia/tags/unix/series
-https://viblo.asia/tags/swift/series
-https://viblo.asia/tags/jenkins/series
 
 Cron job & Queue: node-cron và kue
 
@@ -94,21 +81,35 @@ https://www.youtube.com/watch?v=Ktb33USxsZA&list=PL53G8L1GDrrmz1BFI8baHwJOyMZvTv
 
 ## viblo <<<<<<<<<<<<<<<<<<<<===========================================<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+https://viblo.asia/tags/seo/series
+https://viblo.asia/tags/sass/series
+https://viblo.asia/tags/redis/series
+https://viblo.asia/tags/centos/series
+https://viblo.asia/tags/functionalprogramming/series
+https://viblo.asia/tags/composer/series
+https://viblo.asia/tags/opencv/series
+https://viblo.asia/tags/webpack/series
+https://viblo.asia/tags/ssh/series
+https://viblo.asia/tags/mac-os-x/series
+https://viblo.asia/tags/unix/series
+https://viblo.asia/tags/swift/series
+https://viblo.asia/tags/jenkins/series
+
 https://viblo.asia/tags/front-end/series
 https://viblo.asia/tags/terminal/series
 https://viblo.asia/tags/frontend/series
 https://viblo.asia/tags/tutorial/series
 https://viblo.asia/tags/regular-expression/series
 https://viblo.asia/tags/googleapi/series
+
+## DONE
+
 https://viblo.asia/tags/es6/series
 https://viblo.asia/tags/rest/series
 https://viblo.asia/tags/web-crawler/series
 https://viblo.asia/tags/ux-design/series
 https://viblo.asia/tags/chrome-extension/series
 https://viblo.asia/tags/solid/series
-
-## DONE
-
 https://viblo.asia/tags/graphql/series
 https://viblo.asia/tags/react/series
 https://viblo.asia/tags/vue/series
