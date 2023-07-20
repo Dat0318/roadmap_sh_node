@@ -1,0 +1,52 @@
+// DropdownMenu
+button {
+  position: relative;
+  padding: 10px 20px;
+  background-color: white;
+  border: 1px solid black;
+  cursor: pointer;
+  transition: 0.3s;
+
+  &:focus {
+    outline: 0px;
+  }
+
+  &:hover {
+    background: #000;
+    color: white;
+  }
+
+  &.isActive {
+    background: #000;
+    color: white;
+  }
+}
+
+.dropdown {
+  position: relative;
+  width: fit-content;
+
+  &-list {
+    background: white;
+    margin-top: 5px;
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 4px;
+  }
+}
+
+// Item vue
+.item {
+  display: block;
+  width: 100%;
+  padding: 5px 10px;
+  transition: 0.3s;
+  position: relative;
+
+  &:hover {
+    background: black;
+    color: white;
+  }
+}

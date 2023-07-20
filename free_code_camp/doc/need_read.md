@@ -21,22 +21,6 @@ https://viblo.asia/tags/linux/series
 https://viblo.asia/tags/php/series
 https://viblo.asia/tags/sql/series
 https://viblo.asia/tags/mongodb/series
-https://viblo.asia/tags/firebase/series
-https://viblo.asia/tags/react-native/series
-https://viblo.asia/tags/laravel/series
-https://viblo.asia/tags/ubuntu/series
-https://viblo.asia/tags/docker-compose/series
-https://viblo.asia/tags/nosql/series
-https://viblo.asia/tags/nginx/series
-https://viblo.asia/tags/aspnet/series
-https://viblo.asia/tags/elasticsearch/series
-https://viblo.asia/tags/scss/series
-https://viblo.asia/tags/wordpress/series
-https://viblo.asia/tags/postgresql/series
-https://viblo.asia/tags/design-principle/series
-https://viblo.asia/tags/heroku/series
-https://viblo.asia/tags/express/series
-https://viblo.asia/tags/websocket/series
 
 Cron job & Queue: node-cron và kue
 
@@ -52,6 +36,8 @@ https://viblo.asia/u/ntngoc96wd
 https://viblo.asia/s/k8s-basic-kubernetes-danh-cho-nguoi-moi-bat-dau-pgjLN088432
 https://viblo.asia/p/amazon-api-gateway-http-api-to-aws-simple-queue-service-sqs-to-lambda-vlZL9NKvVQK
 https://viblo.asia/p/aws-cdk-la-gi-vlZL9EoBLQK
+https://viblo.asia/p/tu-phat-trien-toi-trien-khai-phan-2-frontend-vuejs-spa-ssr-ByEZkN8AKQ0
+https://viblo.asia/p/docker-chua-biet-gi-den-biet-dung-phan-1-lich-su-ByEZkWrEZQ0
 
 === AWS CERTIFICATE ===
 https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
@@ -81,6 +67,23 @@ https://www.youtube.com/watch?v=Ktb33USxsZA&list=PL53G8L1GDrrmz1BFI8baHwJOyMZvTv
 
 ## viblo <<<<<<<<<<<<<<<<<<<<===========================================<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+https://viblo.asia/tags/firebase/series
+https://viblo.asia/tags/react-native/series
+https://viblo.asia/tags/laravel/series
+https://viblo.asia/tags/ubuntu/series
+https://viblo.asia/tags/docker-compose/series
+https://viblo.asia/tags/nosql/series
+https://viblo.asia/tags/nginx/series
+https://viblo.asia/tags/aspnet/series
+https://viblo.asia/tags/elasticsearch/series
+https://viblo.asia/tags/scss/series
+https://viblo.asia/tags/wordpress/series
+https://viblo.asia/tags/postgresql/series
+https://viblo.asia/tags/design-principle/series
+https://viblo.asia/tags/heroku/series
+https://viblo.asia/tags/express/series
+https://viblo.asia/tags/websocket/series
+
 https://viblo.asia/tags/seo/series
 https://viblo.asia/tags/sass/series
 https://viblo.asia/tags/redis/series
@@ -95,15 +98,14 @@ https://viblo.asia/tags/unix/series
 https://viblo.asia/tags/swift/series
 https://viblo.asia/tags/jenkins/series
 
+## DONE
+
 https://viblo.asia/tags/front-end/series
 https://viblo.asia/tags/terminal/series
 https://viblo.asia/tags/frontend/series
 https://viblo.asia/tags/tutorial/series
 https://viblo.asia/tags/regular-expression/series
 https://viblo.asia/tags/googleapi/series
-
-## DONE
-
 https://viblo.asia/tags/es6/series
 https://viblo.asia/tags/rest/series
 https://viblo.asia/tags/web-crawler/series
