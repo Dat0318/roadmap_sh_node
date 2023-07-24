@@ -88,6 +88,9 @@ https://viblo.asia/tags/seo/series
 https://viblo.asia/tags/sass/series
 https://viblo.asia/tags/redis/series
 https://viblo.asia/tags/centos/series
+
+## DONE
+
 https://viblo.asia/tags/functionalprogramming/series
 https://viblo.asia/tags/composer/series
 https://viblo.asia/tags/opencv/series
@@ -97,9 +100,6 @@ https://viblo.asia/tags/mac-os-x/series
 https://viblo.asia/tags/unix/series
 https://viblo.asia/tags/swift/series
 https://viblo.asia/tags/jenkins/series
-
-## DONE
-
 https://viblo.asia/tags/front-end/series
 https://viblo.asia/tags/terminal/series
 https://viblo.asia/tags/frontend/series
