@@ -618,6 +618,9 @@ https://viblo.asia/p/tu-phat-trien-toi-trien-khai-phan-2-frontend-vuejs-spa-ssr-
 https://viblo.asia/p/viet-ung-dung-chat-realtime-voi-laravel-vuejs-redis-va-socketio-laravel-echo-Qpmle9Q9lrd
 https://viblo.asia/s/2018-cung-nhau-hoc-docker-Wj53Omjb56m
 https://viblo.asia/u/ntngoc96wd
+https://viblo.asia/p/002-hieu-ve-index-de-tang-performance-voi-postgresql-p1-3Q75wV3elWb
+https://viblo.asia/tags/laravel/series
+https://viblo.asia/tags/docker-compose/series
 
 https://viblo.asia/s/k8s-basic-kubernetes-danh-cho-nguoi-moi-bat-dau-pgjLN088432
 https://viblo.asia/p/amazon-api-gateway-http-api-to-aws-simple-queue-service-sqs-to-lambda-vlZL9NKvVQK
@@ -671,6 +674,8 @@ https://viblo.asia/tags/php/series
 https://viblo.asia/tags/sql/series
 https://viblo.asia/tags/mongodb/series
 
+## DONE
+
 https://viblo.asia/tags/firebase/series
 https://viblo.asia/tags/react-native/series
 https://viblo.asia/tags/laravel/series
@@ -690,8 +695,6 @@ https://viblo.asia/p/kubernetes-cac-khai-niem-co-ban-va-cach-khoi-tao-mot-kubern
 https://viblo.asia/p/hoc-wordpress-toan-tap-phan-1-OeVKB8GrlkW
 https://viblo.asia/s/css-va-nhung-dieu-thu-vi-GJ59jLYGKX2
 https://viblo.asia/s/nhung-kien-thuc-can-biet-khi-bat-dau-lam-mot-project-web-Wj53OmjP56m
-
-## DONE
 
 https://viblo.asia/tags/scss/series
 https://viblo.asia/tags/wordpress/series
