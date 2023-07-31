@@ -521,6 +521,62 @@ https://viblo.asia/tags/dialogflow/series
 https://viblo.asia/tags/data-centric/series
 https://viblo.asia/tags/collections/series
 
+Cron job & Queue: node-cron và kue
+
+======================================================= Need Home PC
+https://viblo.asia/s/jeZ103QgKWz
+https://viblo.asia/u/maitrungduc1410/series
+https://viblo.asia/s/chinh-phuc-kubernetes-tu-so-0-GJ59jLJaKX2
+https://viblo.asia/s/series-hoc-docker-cicd-tu-co-ban-den-ap-dung-vao-thuc-te-jeZ103QgKWz
+https://viblo.asia/p/tu-phat-trien-toi-trien-khai-phan-2-frontend-vuejs-spa-ssr-ByEZkN8AKQ0
+https://viblo.asia/p/viet-ung-dung-chat-realtime-voi-laravel-vuejs-redis-va-socketio-laravel-echo-Qpmle9Q9lrd
+https://viblo.asia/s/2018-cung-nhau-hoc-docker-Wj53Omjb56m
+https://viblo.asia/u/ntngoc96wd
+https://viblo.asia/p/002-hieu-ve-index-de-tang-performance-voi-postgresql-p1-3Q75wV3elWb
+https://viblo.asia/s/nestjs-thuc-chien-MkNLr3kaVgA
+https://viblo.asia/p/tang-toc-database-index-phan-4-index-cham-RnB5pOOrlPG
+https://viblo.asia/tags/laravel/series
+https://viblo.asia/tags/docker-compose/series
+https://viblo.asia/p/90-ngay-devops-ngay-1-gioi-thieu-38X4E5Ez4N2
+
+https://viblo.asia/s/k8s-basic-kubernetes-danh-cho-nguoi-moi-bat-dau-pgjLN088432
+https://viblo.asia/p/amazon-api-gateway-http-api-to-aws-simple-queue-service-sqs-to-lambda-vlZL9NKvVQK
+https://viblo.asia/p/aws-cdk-la-gi-vlZL9EoBLQK
+https://viblo.asia/p/tu-phat-trien-toi-trien-khai-phan-2-frontend-vuejs-spa-ssr-ByEZkN8AKQ0
+https://viblo.asia/p/docker-chua-biet-gi-den-biet-dung-phan-1-lich-su-ByEZkWrEZQ0
+
+https://viblo.asia/p/laravel-vo-long-phan-1-routing-co-ban-vyDZO7kPZwj
+https://viblo.asia/p/tim-hieu-ve-migration-trong-laravel-bWrZn1MpKxw
+https://viblo.asia/p/tim-hieu-ve-task-schedule-trong-laravel-07LKXjyElV4
+
+=== AWS CERTIFICATE ===
+https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
+=== AWS CERTIFICATE: END ===
+=======================================================
+
+## viblo laravel vue js
+
+https://viblo.asia/tags/vue
+template vue 2: https://github.com/petervmeijgaard/vue-2-boilerplate/blob/master/src/store/modules/auth/actions.js
+
+https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-1-Az45bWnLKxY
+https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-2-vue-vuex-LzD5dbLEZjY0
+https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-vuejs-gGJ59xmDlX2
+https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-nuxtjs-LzD5dwm4ljY
+https://viblo.asia/p/vai-dieu-chua-biet-ve-watcher-trong-vuejs-3Q75wGnG5Wb
+
+## free code camp
+
+https://www.freecodecamp.org/news/search/?query=node%20js
+https://www.freecodecamp.org/news/free-8-hour-node-express-course/
+https://www.freecodecamp.org/learn/back-end-development-and-apis/
+
+======== YOUTUBE =========
+https://www.youtube.com/watch?v=8mAITcNt710&feature=youtu.be
+https://www.youtube.com/watch?v=Ktb33USxsZA&list=PL53G8L1GDrrmz1BFI8baHwJOyMZvTv2vI
+
+## viblo <<<<<<<<<<<<<<<<<<<<===========================================<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 https://viblo.asia/tags/api-authentication/series
 https://viblo.asia/tags/debug-rxswift/series
 https://viblo.asia/tags/non-functionaltesting/series
@@ -607,54 +663,7 @@ https://viblo.asia/tags/aar/series
 https://viblo.asia/tags/udp/series
 https://viblo.asia/tags/ios-application-development/series
 
-Cron job & Queue: node-cron và kue
-
-======================================================= Need Home PC
-https://viblo.asia/s/jeZ103QgKWz
-https://viblo.asia/u/maitrungduc1410/series
-https://viblo.asia/s/chinh-phuc-kubernetes-tu-so-0-GJ59jLJaKX2
-https://viblo.asia/s/series-hoc-docker-cicd-tu-co-ban-den-ap-dung-vao-thuc-te-jeZ103QgKWz
-https://viblo.asia/p/tu-phat-trien-toi-trien-khai-phan-2-frontend-vuejs-spa-ssr-ByEZkN8AKQ0
-https://viblo.asia/p/viet-ung-dung-chat-realtime-voi-laravel-vuejs-redis-va-socketio-laravel-echo-Qpmle9Q9lrd
-https://viblo.asia/s/2018-cung-nhau-hoc-docker-Wj53Omjb56m
-https://viblo.asia/u/ntngoc96wd
-https://viblo.asia/p/002-hieu-ve-index-de-tang-performance-voi-postgresql-p1-3Q75wV3elWb
-https://viblo.asia/tags/laravel/series
-https://viblo.asia/tags/docker-compose/series
-
-https://viblo.asia/s/k8s-basic-kubernetes-danh-cho-nguoi-moi-bat-dau-pgjLN088432
-https://viblo.asia/p/amazon-api-gateway-http-api-to-aws-simple-queue-service-sqs-to-lambda-vlZL9NKvVQK
-https://viblo.asia/p/aws-cdk-la-gi-vlZL9EoBLQK
-https://viblo.asia/p/tu-phat-trien-toi-trien-khai-phan-2-frontend-vuejs-spa-ssr-ByEZkN8AKQ0
-https://viblo.asia/p/docker-chua-biet-gi-den-biet-dung-phan-1-lich-su-ByEZkWrEZQ0
-
-=== AWS CERTIFICATE ===
-https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
-=== AWS CERTIFICATE: END ===
-=======================================================
-
-## viblo laravel vue js
-
-https://viblo.asia/tags/vue
-template vue 2: https://github.com/petervmeijgaard/vue-2-boilerplate/blob/master/src/store/modules/auth/actions.js
-
-https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-1-Az45bWnLKxY
-https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-2-vue-vuex-LzD5dbLEZjY0
-https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-vuejs-gGJ59xmDlX2
-https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-nuxtjs-LzD5dwm4ljY
-https://viblo.asia/p/vai-dieu-chua-biet-ve-watcher-trong-vuejs-3Q75wGnG5Wb
-
-## free code camp
-
-https://www.freecodecamp.org/news/search/?query=node%20js
-https://www.freecodecamp.org/news/free-8-hour-node-express-course/
-https://www.freecodecamp.org/learn/back-end-development-and-apis/
-
-======== YOUTUBE =========
-https://www.youtube.com/watch?v=8mAITcNt710&feature=youtu.be
-https://www.youtube.com/watch?v=Ktb33USxsZA&list=PL53G8L1GDrrmz1BFI8baHwJOyMZvTv2vI
-
-## viblo <<<<<<<<<<<<<<<<<<<<===========================================<<<<<<<<<<<<<<<<<<<<<<<<<<<
+## DONE
 
 https://viblo.asia/tags?sort=followers&type=none&page=20
 
@@ -673,8 +682,6 @@ https://viblo.asia/tags/linux/series
 https://viblo.asia/tags/php/series
 https://viblo.asia/tags/sql/series
 https://viblo.asia/tags/mongodb/series
-
-## DONE
 
 https://viblo.asia/tags/firebase/series
 https://viblo.asia/tags/react-native/series
