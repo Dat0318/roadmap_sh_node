@@ -322,7 +322,6 @@ https://viblo.asia/s/apache-kafka-tu-zero-den-one-aGK7jPbA5j2
 https://viblo.asia/s/chatbots-are-cool-lets-build-a-chatbot-OVlYq8dzl8W
 https://viblo.asia/s/dich-sach-ebook-web-hacking-101-san-tien-thuong-tu-cac-lo-hong-bao-mat-web-yDZOPvdOlwj
 https://viblo.asia/s/flutter-cho-ca-nha-BQyJKzXQ4Me
-https://viblo.asia/s/javascript-es6-WrZngQrnlxw
 https://viblo.asia/s/odoo-developa-odoo-for-beginnar-P0lPmJBm5ox
 https://viblo.asia/s/thiet-ke-phan-mem-DVK2jDR2KLj
 https://viblo.asia/tags/adminlte/series
@@ -394,6 +393,7 @@ https://viblo.asia/tags/plugins/series
 https://viblo.asia/tags/prediction-learning/series
 https://viblo.asia/tags/server-monitoring/series
 https://viblo.asia/tags/web3js/series
+https://viblo.asia/s/javascript-co-ban-eVKByjkJ5kW
 
 ## DONE
 
