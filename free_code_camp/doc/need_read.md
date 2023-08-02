@@ -623,6 +623,11 @@ https://viblo.asia/tags/event-emitters-in-angular/series
 https://viblo.asia/tags/content-type/series
 https://viblo.asia/tags/prediction-learning/series
 https://viblo.asia/tags/swiftt/series
+
+## DONE
+
+https://viblo.asia/tags?sort=followers&type=none&page=20
+
 https://viblo.asia/tags/ky-nang-giao-tiep/series
 https://viblo.asia/tags/file-uploads/series
 https://viblo.asia/tags/function/series
@@ -662,10 +667,6 @@ https://viblo.asia/tags/decentralized/series
 https://viblo.asia/tags/aar/series
 https://viblo.asia/tags/udp/series
 https://viblo.asia/tags/ios-application-development/series
-
-## DONE
-
-https://viblo.asia/tags?sort=followers&type=none&page=20
 
 https://viblo.asia/tags/git/series
 https://viblo.asia/tags/javascript/series
