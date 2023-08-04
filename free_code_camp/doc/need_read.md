@@ -40,6 +40,17 @@ https://viblo.asia/p/laravel-vo-long-phan-1-routing-co-ban-vyDZO7kPZwj
 https://viblo.asia/p/tim-hieu-ve-migration-trong-laravel-bWrZn1MpKxw
 https://viblo.asia/p/tim-hieu-ve-task-schedule-trong-laravel-07LKXjyElV4
 
+https://viblo.asia/p/go-lang-p1-lap-trinh-golang-can-ban-cai-dat-viet-chuong-trinh-hello-word-yMnKMwmjl7P
+https://viblo.asia/p/basic-authentication-voi-golang-jvEla0AzZkw
+https://viblo.asia/p/performance-optimization-101-nhung-cau-hoi-co-ban-Qbq5Q9BE5D8
+https://viblo.asia/p/lam-backend-voi-java-spring-toi-nen-biet-nhung-gi-LzD5d9eoKjY
+
+https://learndocker.online/
+https://www.youtube.com/watch?v=yWCse8S2qsM
+
+https://viblo.asia/p/hoc-flutter-tu-co-ban-den-nang-cao-phan-1-lam-quen-co-nang-flutter-4dbZNJOvZYM
+https://viblo.asia/p/flutter-dependency-injection-trong-flutter-924lJGe65PM
+
 === AWS CERTIFICATE ===
 https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
 === AWS CERTIFICATE: END ===
@@ -348,6 +359,7 @@ https://viblo.asia/tags/haproxy/series
 https://viblo.asia/tags/hoc-python/series
 https://viblo.asia/tags/information-technology/series
 
+//////
 https://viblo.asia/tags/ios-development/series
 https://viblo.asia/tags/kinh-nghiem-phong-van/series
 https://viblo.asia/tags/learn-english/series
@@ -358,6 +370,10 @@ https://viblo.asia/tags/quarkus/series
 https://viblo.asia/tags/rabbitmq/series
 https://viblo.asia/tags/react-router/series
 
+https://viblo.asia/p/distributed-transaction-transactional-outbox-pattern-maGK7r695j2
+
+## DONE
+
 https://viblo.asia/tags/recurrent-neural-network/series
 https://viblo.asia/tags/scalability/series
 https://viblo.asia/tags/senior/series
@@ -367,7 +383,6 @@ https://viblo.asia/tags/springboot/series
 https://viblo.asia/tags/storyofsu/series
 https://viblo.asia/tags/swagger/series
 https://viblo.asia/tags/vps/series
-
 https://viblo.asia/tags/widget/series
 https://viblo.asia/tags/windows/series
 https://viblo.asia/tags/api-authentication/series
@@ -387,16 +402,12 @@ https://viblo.asia/tags/kien-thuc-nghiep-vu/series
 https://viblo.asia/tags/lap-trinh-golang/series
 https://viblo.asia/tags/login/series
 https://viblo.asia/tags/material-design/series
-
 https://viblo.asia/tags/non-functionaltesting/series
 https://viblo.asia/tags/plugins/series
 https://viblo.asia/tags/prediction-learning/series
 https://viblo.asia/tags/server-monitoring/series
 https://viblo.asia/tags/web3js/series
 https://viblo.asia/s/javascript-co-ban-eVKByjkJ5kW
-
-## DONE
-
 https://viblo.asia/tags/event/series
 https://viblo.asia/tags/regex/series
 https://viblo.asia/tags/concurrency/series
@@ -879,14 +890,12 @@ https://viblo.asia/tags/reactjs/series
 https://viblo.asia/tags/amazon-web-services/series
 https://viblo.asia/tags/mysql/series
 https://viblo.asia/tags/net/series
-
 https://viblo.asia/tags/devops/series
 https://viblo.asia/tags/agile/series
 https://viblo.asia/tags/linux/series
 https://viblo.asia/tags/php/series
 https://viblo.asia/tags/sql/series
 https://viblo.asia/tags/mongodb/series
-
 https://viblo.asia/tags/firebase/series
 https://viblo.asia/tags/react-native/series
 https://viblo.asia/tags/laravel/series
@@ -896,7 +905,6 @@ https://viblo.asia/tags/nosql/series
 https://viblo.asia/tags/nginx/series
 https://viblo.asia/tags/aspnet/series
 https://viblo.asia/tags/elasticsearch/series
-
 https://viblo.asia/p/hieu-ro-co-che-xu-li-dong-bo-va-bat-dong-bo-sync-vs-async-trong-javascript-p1-Qpmlep9nZrd
 https://viblo.asia/p/nodejs-bai-2-khoi-tao-server-va-ung-dung-dau-tien-YWOZr8JE5Q0
 https://viblo.asia/p/xay-dung-ung-dung-web-voi-nodejs-express-framework-angularjs-phan-1-naQZRwDqlvx
@@ -953,7 +961,6 @@ https://viblo.asia/p/100-ngay-hoc-devops-ngay-1-V3m5Wx7WKO7
 https://viblo.asia/p/aws-lab-thu-tao-1-aws-ec2-va-deploy-1-ung-dung-rails-Ljy5VYrVlra
 https://viblo.asia/p/aws-ec2-ebs-snapshot-ami-efs-m68Z0o8dKkG
 https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
-
 https://viblo.asia/p/task-scheduling-va-bai-toan-su-luoi-cua-cac-developers-924lJDV0KPM
 https://viblo.asia/p/hibernate-caching-bai-1-first-level-cache-07LKXw3r5V4
 https://viblo.asia/s/bigdata-machine-learning-analytic-realtime-monitoring-yEZkg8D4ZQ0
@@ -1129,7 +1136,6 @@ https://viblo.asia/p/tao-rest-api-tren-nodejs-voi-express-va-prisma-su-dung-type
 https://viblo.asia/p/interface-funtion-trong-typescript-p1-OeVKBjyEKkW
 https://viblo.asia/p/modules-trong-typescript-Qpmlez3k5rd
 https://viblo.asia/p/dependency-injection-trong-typescript-aWj53m1eZ6m
-
 https://viblo.asia/s/storybook-essentials-2oKLnqWWJQO
 https://viblo.asia/s/150-bai-viet-ngan-ve-lap-trinh-DVK2jD0wKLj
 https://viblo.asia/u/BeautyOnCode/series
