@@ -349,6 +349,7 @@ https://viblo.asia/tags/data-warehouse/series
 https://viblo.asia/tags/database-index/series
 https://viblo.asia/tags/database-performance/series
 
+//////
 https://viblo.asia/tags/eloquent/series
 https://viblo.asia/tags/etl/series
 https://viblo.asia/tags/flutter-architect/series
@@ -359,7 +360,8 @@ https://viblo.asia/tags/haproxy/series
 https://viblo.asia/tags/hoc-python/series
 https://viblo.asia/tags/information-technology/series
 
-//////
+## DONE
+
 https://viblo.asia/tags/ios-development/series
 https://viblo.asia/tags/kinh-nghiem-phong-van/series
 https://viblo.asia/tags/learn-english/series
@@ -371,9 +373,6 @@ https://viblo.asia/tags/rabbitmq/series
 https://viblo.asia/tags/react-router/series
 
 https://viblo.asia/p/distributed-transaction-transactional-outbox-pattern-maGK7r695j2
-
-## DONE
-
 https://viblo.asia/tags/recurrent-neural-network/series
 https://viblo.asia/tags/scalability/series
 https://viblo.asia/tags/senior/series
