@@ -330,6 +330,8 @@ https://viblo.asia/tags/tailwindcss/series
 https://viblo.asia/p/chi-tiet-ve-material-design-trong-android-google-phan-i-gDVK2kzrZLj
 https://viblo.asia/s/apache-kafka-tu-zero-den-one-aGK7jPbA5j2
 
+//////
+
 https://viblo.asia/s/chatbots-are-cool-lets-build-a-chatbot-OVlYq8dzl8W
 https://viblo.asia/s/dich-sach-ebook-web-hacking-101-san-tien-thuong-tu-cac-lo-hong-bao-mat-web-yDZOPvdOlwj
 https://viblo.asia/s/flutter-cho-ca-nha-BQyJKzXQ4Me
@@ -349,7 +351,8 @@ https://viblo.asia/tags/data-warehouse/series
 https://viblo.asia/tags/database-index/series
 https://viblo.asia/tags/database-performance/series
 
-//////
+## DONE
+
 https://viblo.asia/tags/eloquent/series
 https://viblo.asia/tags/etl/series
 https://viblo.asia/tags/flutter-architect/series
@@ -359,8 +362,6 @@ https://viblo.asia/tags/google-analytics/series
 https://viblo.asia/tags/haproxy/series
 https://viblo.asia/tags/hoc-python/series
 https://viblo.asia/tags/information-technology/series
-
-## DONE
 
 https://viblo.asia/tags/ios-development/series
 https://viblo.asia/tags/kinh-nghiem-phong-van/series
