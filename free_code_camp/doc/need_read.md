@@ -56,6 +56,11 @@ https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate
 === AWS CERTIFICATE: END ===
 =======================================================
 
+========================== MUST READ =============================
+https://viblo.asia/p/002-hieu-ve-index-de-tang-performance-voi-postgresql-p1-3Q75wV3elWb
+https://viblo.asia/p/chuong-1-introduction-3do-phuc-tap-thuat-toan-y37LdAQoVov
+==================================================================
+
 ## viblo laravel vue js
 
 https://viblo.asia/tags/vue
@@ -299,6 +304,9 @@ https://viblo.asia/tags/google-sheet/series
 https://viblo.asia/tags/hook/series
 https://viblo.asia/tags/hooks/series
 https://viblo.asia/tags/immutable/series
+//////
+
+## DONE
 
 https://viblo.asia/tags/index/series
 https://viblo.asia/tags/information-system-security-and-safety/series
@@ -309,7 +317,6 @@ https://viblo.asia/tags/keras-framework/series
 https://viblo.asia/tags/kubernetes-cluster/series
 https://viblo.asia/tags/machine-leaning/series
 https://viblo.asia/tags/mail/series
-
 https://viblo.asia/tags/middleware/series
 https://viblo.asia/tags/monitoring/series
 https://viblo.asia/tags/multithread/series
@@ -319,7 +326,6 @@ https://viblo.asia/tags/operating-system/series
 https://viblo.asia/tags/os/series
 https://viblo.asia/tags/penetration-testing/series
 https://viblo.asia/tags/pentest-web/series
-
 https://viblo.asia/tags/privilege-escalation/series
 https://viblo.asia/tags/qa-tools/series
 https://viblo.asia/tags/rasa/series
@@ -329,9 +335,6 @@ https://viblo.asia/tags/storage/series
 https://viblo.asia/tags/tailwindcss/series
 https://viblo.asia/p/chi-tiet-ve-material-design-trong-android-google-phan-i-gDVK2kzrZLj
 https://viblo.asia/s/apache-kafka-tu-zero-den-one-aGK7jPbA5j2
-
-//////
-
 https://viblo.asia/s/chatbots-are-cool-lets-build-a-chatbot-OVlYq8dzl8W
 https://viblo.asia/s/dich-sach-ebook-web-hacking-101-san-tien-thuong-tu-cac-lo-hong-bao-mat-web-yDZOPvdOlwj
 https://viblo.asia/s/flutter-cho-ca-nha-BQyJKzXQ4Me
@@ -340,7 +343,6 @@ https://viblo.asia/s/thiet-ke-phan-mem-DVK2jDR2KLj
 https://viblo.asia/tags/adminlte/series
 https://viblo.asia/tags/asm32/series
 https://viblo.asia/tags/assembly/series
-
 https://viblo.asia/tags/auto-layout/series
 https://viblo.asia/tags/bestperformance/series
 https://viblo.asia/tags/cau-truc-du-lieu/series
@@ -350,9 +352,6 @@ https://viblo.asia/tags/cyber-scurity/series
 https://viblo.asia/tags/data-warehouse/series
 https://viblo.asia/tags/database-index/series
 https://viblo.asia/tags/database-performance/series
-
-## DONE
-
 https://viblo.asia/tags/eloquent/series
 https://viblo.asia/tags/etl/series
 https://viblo.asia/tags/flutter-architect/series
