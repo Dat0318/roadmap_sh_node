@@ -59,6 +59,7 @@ https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate
 ========================== MUST READ =============================
 https://viblo.asia/p/002-hieu-ve-index-de-tang-performance-voi-postgresql-p1-3Q75wV3elWb
 https://viblo.asia/p/chuong-1-introduction-3do-phuc-tap-thuat-toan-y37LdAQoVov
+https://viblo.asia/p/tang-toc-database-phan-11-tim-kiem-theo-khoang-lon-hon-nho-hon-va-between-Qbq5QBbzKD8
 ==================================================================
 
 ## viblo laravel vue js
@@ -274,6 +275,7 @@ https://viblo.asia/tags/basic-security/series
 https://viblo.asia/tags/best-practice/series
 https://viblo.asia/tags/best-programmer/series
 https://viblo.asia/tags/blog/series
+//////
 
 https://viblo.asia/tags/browser/series
 https://viblo.asia/tags/cc/series
@@ -284,6 +286,15 @@ https://viblo.asia/tags/container/series
 https://viblo.asia/tags/data-engineer/series
 https://viblo.asia/tags/data-replication/series
 https://viblo.asia/tags/deeplearning/series
+
+https://viblo.asia/p/tang-toc-database-phan-11-tim-kiem-theo-khoang-lon-hon-nho-hon-va-between-Qbq5QBbzKD8
+https://viblo.asia/p/tim-hieu-ve-hooks-trong-react-p2-GrLZDkyEKk0
+https://viblo.asia/tags/distributed-system/series
+https://viblo.asia/tags/editor/series
+https://viblo.asia/tags/error/series
+https://viblo.asia/tags/fulltext-search/series
+
+## DONE
 
 https://viblo.asia/tags/deployment/series
 https://viblo.asia/tags/digital-marketing/series
@@ -304,10 +315,6 @@ https://viblo.asia/tags/google-sheet/series
 https://viblo.asia/tags/hook/series
 https://viblo.asia/tags/hooks/series
 https://viblo.asia/tags/immutable/series
-//////
-
-## DONE
-
 https://viblo.asia/tags/index/series
 https://viblo.asia/tags/information-system-security-and-safety/series
 https://viblo.asia/tags/internet-of-things/series
