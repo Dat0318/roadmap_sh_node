@@ -47,6 +47,7 @@ https://viblo.asia/p/lam-backend-voi-java-spring-toi-nen-biet-nhung-gi-LzD5d9eoK
 
 https://learndocker.online/
 https://www.youtube.com/watch?v=yWCse8S2qsM
+https://viblo.asia/s/aws-practice-series-4x5xp79q5BM
 
 https://viblo.asia/p/hoc-flutter-tu-co-ban-den-nang-cao-phan-1-lam-quen-co-nang-flutter-4dbZNJOvZYM
 https://viblo.asia/p/flutter-dependency-injection-trong-flutter-924lJGe65PM
@@ -246,6 +247,18 @@ https://viblo.asia/tags/pandas/series
 https://viblo.asia/tags/pm/series
 https://viblo.asia/tags/react-hook/series
 
+//////
+https://viblo.asia/p/hoc-spring-boot-bat-dau-tu-dau-6J3ZgN7WKmB
+https://viblo.asia/p/lam-the-nao-de-xay-dung-mot-recommender-system-rs-phan-1-aWj53V2Gl6m
+https://viblo.asia/p/serverless-series-golang-bai-1-serverless-va-aws-lambda-gAm5y71XZdb
+https://viblo.asia/s/terraform-series-3m5WB8JvlO7
+https://viblo.asia/tags/viblo/series
+https://viblo.asia/tags/vscode/series
+https://viblo.asia/tags/vue-router/series
+https://viblo.asia/tags/web-security/series
+
+## DONE
+
 https://viblo.asia/tags/reactnative/series
 https://viblo.asia/tags/recommender-system/series
 https://viblo.asia/tags/regex/series
@@ -265,18 +278,8 @@ https://viblo.asia/tags/viblo/series
 https://viblo.asia/tags/vscode/series
 https://viblo.asia/tags/vue-router/series
 https://viblo.asia/tags/web-security/series
-
-https://viblo.asia/s/tips-in-testing-bXP4WE0xL7G
-https://viblo.asia/tags/advance-python/series
-https://viblo.asia/tags/amazon/series
-https://viblo.asia/tags/automation-testing-tool/series
-https://viblo.asia/tags/axios/series
-https://viblo.asia/tags/basic-security/series
-https://viblo.asia/tags/best-practice/series
-https://viblo.asia/tags/best-programmer/series
-https://viblo.asia/tags/blog/series
-//////
-
+https://viblo.asia/p/tang-toc-database-phan-11-tim-kiem-theo-khoang-lon-hon-nho-hon-va-between-Qbq5QBbzKD8
+https://viblo.asia/p/tim-hieu-ve-hooks-trong-react-p2-GrLZDkyEKk0
 https://viblo.asia/tags/browser/series
 https://viblo.asia/tags/cc/series
 https://viblo.asia/tags/ceh/series
@@ -286,16 +289,6 @@ https://viblo.asia/tags/container/series
 https://viblo.asia/tags/data-engineer/series
 https://viblo.asia/tags/data-replication/series
 https://viblo.asia/tags/deeplearning/series
-
-https://viblo.asia/p/tang-toc-database-phan-11-tim-kiem-theo-khoang-lon-hon-nho-hon-va-between-Qbq5QBbzKD8
-https://viblo.asia/p/tim-hieu-ve-hooks-trong-react-p2-GrLZDkyEKk0
-https://viblo.asia/tags/distributed-system/series
-https://viblo.asia/tags/editor/series
-https://viblo.asia/tags/error/series
-https://viblo.asia/tags/fulltext-search/series
-
-## DONE
-
 https://viblo.asia/tags/deployment/series
 https://viblo.asia/tags/digital-marketing/series
 https://viblo.asia/tags/distributed-system/series
