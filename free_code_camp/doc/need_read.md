@@ -180,6 +180,7 @@ https://viblo.asia/tags/spring-mvc/series
 https://viblo.asia/tags/spring-security/series
 https://viblo.asia/tags/sql-injection/series
 https://viblo.asia/tags/test/series
+//////
 
 https://viblo.asia/tags/thuat-toan/series
 https://viblo.asia/tags/trick/series
@@ -189,6 +190,8 @@ https://viblo.asia/tags/unittest/series
 https://viblo.asia/tags/xu-ly-ngon-ngu-tu-nhien/series
 https://viblo.asia/tags/zsh/series
 https://viblo.asia/s/blockchain-cho-nguoi-moi-tim-hieu-2oKLnq8gJQO
+
+## DONE
 
 https://viblo.asia/s/series-react-hay-ho-W13VM9QQVY7
 https://viblo.asia/tags/200lab/series
@@ -210,7 +213,6 @@ https://viblo.asia/tags/convolutional-neural-network/series
 https://viblo.asia/tags/crawler/series
 https://viblo.asia/tags/cross-platform/series
 https://viblo.asia/tags/crud/series
-
 https://viblo.asia/tags/customview/series
 https://viblo.asia/tags/cyber-security/series
 https://viblo.asia/tags/dapp/series
@@ -230,11 +232,6 @@ https://viblo.asia/tags/gitlab-cicd/series
 https://viblo.asia/tags/grpc/series
 https://viblo.asia/tags/hackthebox/series
 https://viblo.asia/tags/https/series
-
-//////
-
-## DONE
-
 https://viblo.asia/tags/hyperledger-fabric/series
 https://viblo.asia/tags/i18n/series
 https://viblo.asia/tags/japanese/series
