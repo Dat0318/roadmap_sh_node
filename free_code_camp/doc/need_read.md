@@ -191,6 +191,18 @@ https://viblo.asia/tags/xu-ly-ngon-ngu-tu-nhien/series
 https://viblo.asia/tags/zsh/series
 https://viblo.asia/s/blockchain-cho-nguoi-moi-tim-hieu-2oKLnq8gJQO
 
+https://viblo.asia/p/basic-authentication-voi-golang-jvEla0AzZkw
+https://viblo.asia/tags/agile-tester/series
+https://viblo.asia/tags/background-jobs/series
+https://viblo.asia/tags/basic/series
+https://viblo.asia/tags/closure/series
+https://viblo.asia/tags/coding-standard/series
+https://viblo.asia/tags/competitive-programming/series
+https://viblo.asia/tags/component/series
+https://viblo.asia/tags/concurrency/series
+https://viblo.asia/tags/convolutional-neural-network/series
+https://viblo.asia/tags/crawler/series
+
 ## DONE
 
 https://viblo.asia/s/series-react-hay-ho-W13VM9QQVY7
