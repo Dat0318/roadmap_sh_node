@@ -124,6 +124,7 @@ https://viblo.asia/tags/dictionary/series
 https://viblo.asia/tags/dom/series
 https://viblo.asia/tags/dynamic-programming/series
 https://viblo.asia/tags/encryption/series
+//////
 
 https://viblo.asia/tags/es7/series
 https://viblo.asia/tags/event/series
@@ -150,6 +151,8 @@ https://viblo.asia/tags/marketing/series
 https://viblo.asia/tags/microservice/series
 https://viblo.asia/tags/migration/series
 
+## DONE
+
 https://viblo.asia/tags/mobile-app/series
 https://viblo.asia/tags/ms-sql-server/series
 https://viblo.asia/tags/mvvm/series
@@ -160,7 +163,6 @@ https://viblo.asia/tags/optimize/series
 https://viblo.asia/tags/pentest/series
 https://viblo.asia/tags/phong-van/series
 https://viblo.asia/tags/push-notification/series
-
 https://viblo.asia/tags/queue/series
 https://viblo.asia/tags/react-redux/series
 https://viblo.asia/tags/reactive-programming/series
@@ -170,7 +172,6 @@ https://viblo.asia/tags/responsive/series
 https://viblo.asia/tags/rxjava/series
 https://viblo.asia/tags/search/series
 https://viblo.asia/tags/server-linux/series
-
 https://viblo.asia/tags/serverless/series
 https://viblo.asia/tags/session/series
 https://viblo.asia/tags/sharpeducation/series
@@ -180,7 +181,6 @@ https://viblo.asia/tags/spring-mvc/series
 https://viblo.asia/tags/spring-security/series
 https://viblo.asia/tags/sql-injection/series
 https://viblo.asia/tags/test/series
-//////
 
 https://viblo.asia/tags/thuat-toan/series
 https://viblo.asia/tags/trick/series
@@ -190,21 +190,6 @@ https://viblo.asia/tags/unittest/series
 https://viblo.asia/tags/xu-ly-ngon-ngu-tu-nhien/series
 https://viblo.asia/tags/zsh/series
 https://viblo.asia/s/blockchain-cho-nguoi-moi-tim-hieu-2oKLnq8gJQO
-
-https://viblo.asia/p/basic-authentication-voi-golang-jvEla0AzZkw
-https://viblo.asia/tags/agile-tester/series
-https://viblo.asia/tags/background-jobs/series
-https://viblo.asia/tags/basic/series
-https://viblo.asia/tags/closure/series
-https://viblo.asia/tags/coding-standard/series
-https://viblo.asia/tags/competitive-programming/series
-https://viblo.asia/tags/component/series
-https://viblo.asia/tags/concurrency/series
-https://viblo.asia/tags/convolutional-neural-network/series
-https://viblo.asia/tags/crawler/series
-
-## DONE
-
 https://viblo.asia/s/series-react-hay-ho-W13VM9QQVY7
 https://viblo.asia/tags/200lab/series
 https://viblo.asia/tags/agile-tester/series
