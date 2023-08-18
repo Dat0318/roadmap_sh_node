@@ -65,6 +65,7 @@ https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate
 https://viblo.asia/p/002-hieu-ve-index-de-tang-performance-voi-postgresql-p1-3Q75wV3elWb
 https://viblo.asia/p/chuong-1-introduction-3do-phuc-tap-thuat-toan-y37LdAQoVov
 https://viblo.asia/p/tang-toc-database-phan-11-tim-kiem-theo-khoang-lon-hon-nho-hon-va-between-Qbq5QBbzKD8
+https://viblo.asia/p/004-hieu-ve-index-de-tang-performance-voi-postgresql-p3-ByEZkrB4KQ0
 ==================================================================
 
 ## viblo laravel vue js
@@ -90,6 +91,10 @@ https://www.youtube.com/watch?v=Ktb33USxsZA&list=PL53G8L1GDrrmz1BFI8baHwJOyMZvTv
 
 ## viblo <<<<<<<<<<<<<<<<<<<<===========================================<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+//////
+
+## DONE
+
 https://viblo.asia/p/6-nguyen-tac-de-chuyen-nghiep-hon-khi-ke-chuyen-bang-function-ham-yMnKMvvmZ7P
 https://viblo.asia/tags/abstract-class/series
 https://viblo.asia/tags/amazon-ec2/series
@@ -100,7 +105,6 @@ https://viblo.asia/tags/api-testing/series
 https://viblo.asia/tags/asynchronous/series
 https://viblo.asia/tags/autodeployment/series
 https://viblo.asia/tags/aws-lambda/series
-
 https://viblo.asia/tags/ba/series
 https://viblo.asia/tags/bash/series
 https://viblo.asia/tags/bi-kip-frontend/series
@@ -124,8 +128,6 @@ https://viblo.asia/tags/dictionary/series
 https://viblo.asia/tags/dom/series
 https://viblo.asia/tags/dynamic-programming/series
 https://viblo.asia/tags/encryption/series
-//////
-
 https://viblo.asia/tags/es7/series
 https://viblo.asia/tags/event/series
 https://viblo.asia/tags/express-node-js/series
@@ -138,7 +140,6 @@ https://viblo.asia/tags/google-cloud/series
 https://viblo.asia/tags/hack/series
 https://viblo.asia/tags/hacking/series
 https://viblo.asia/tags/image-processing/series
-
 https://viblo.asia/tags/javashow2022/series
 https://viblo.asia/tags/jmeter/series
 https://viblo.asia/tags/js/series
@@ -150,8 +151,6 @@ https://viblo.asia/tags/management/series
 https://viblo.asia/tags/marketing/series
 https://viblo.asia/tags/microservice/series
 https://viblo.asia/tags/migration/series
-
-## DONE
 
 https://viblo.asia/tags/mobile-app/series
 https://viblo.asia/tags/ms-sql-server/series
