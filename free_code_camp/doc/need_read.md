@@ -6,8 +6,6 @@ arr.forEach((ele, i) => (res[i] = `https://viblo.asia${ele.getAttribute('href')}
 console.log(res.join('##'));
 ```
 
-## https://tuan200tokyo.blogspot.com/
-
 https://viblo.asia/p/con-duong-minh-dang-di-de-tro-thanh-fullstack-web-developer-maGK7VWx5j2
 
 ## https://viblo.asia/p/tay-trang-lam-nen-mot-trang-web-ca-nhan-chuyen-nghiep-khong-ton-mot-xu-phan-2-ByEZk91W5Q0
@@ -29,17 +27,13 @@ https://viblo.asia/p/tang-toc-database-index-phan-4-index-cham-RnB5pOOrlPG
 https://viblo.asia/tags/laravel/series
 https://viblo.asia/tags/docker-compose/series
 https://viblo.asia/p/90-ngay-devops-ngay-1-gioi-thieu-38X4E5Ez4N2
-
 https://viblo.asia/s/k8s-basic-kubernetes-danh-cho-nguoi-moi-bat-dau-pgjLN088432
 https://viblo.asia/p/amazon-api-gateway-http-api-to-aws-simple-queue-service-sqs-to-lambda-vlZL9NKvVQK
 https://viblo.asia/p/aws-cdk-la-gi-vlZL9EoBLQK
-https://viblo.asia/p/tu-phat-trien-toi-trien-khai-phan-2-frontend-vuejs-spa-ssr-ByEZkN8AKQ0
 https://viblo.asia/p/docker-chua-biet-gi-den-biet-dung-phan-1-lich-su-ByEZkWrEZQ0
-
 https://viblo.asia/p/laravel-vo-long-phan-1-routing-co-ban-vyDZO7kPZwj
 https://viblo.asia/p/tim-hieu-ve-migration-trong-laravel-bWrZn1MpKxw
 https://viblo.asia/p/tim-hieu-ve-task-schedule-trong-laravel-07LKXjyElV4
-
 https://viblo.asia/p/go-lang-p1-lap-trinh-golang-can-ban-cai-dat-viet-chuong-trinh-hello-word-yMnKMwmjl7P
 https://viblo.asia/p/basic-authentication-voi-golang-jvEla0AzZkw
 https://viblo.asia/p/performance-optimization-101-nhung-cau-hoi-co-ban-Qbq5Q9BE5D8
@@ -59,13 +53,7 @@ https://viblo.asia/p/flutter-dependency-injection-trong-flutter-924lJGe65PM
 === AWS CERTIFICATE ===
 https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
 === AWS CERTIFICATE: END ===
-=======================================================
 
-========================== MUST READ =============================
-https://viblo.asia/p/002-hieu-ve-index-de-tang-performance-voi-postgresql-p1-3Q75wV3elWb
-https://viblo.asia/p/chuong-1-introduction-3do-phuc-tap-thuat-toan-y37LdAQoVov
-https://viblo.asia/p/tang-toc-database-phan-11-tim-kiem-theo-khoang-lon-hon-nho-hon-va-between-Qbq5QBbzKD8
-https://viblo.asia/p/004-hieu-ve-index-de-tang-performance-voi-postgresql-p3-ByEZkrB4KQ0
 ==================================================================
 
 ## viblo laravel vue js
@@ -74,10 +62,6 @@ https://viblo.asia/tags/vue
 template vue 2: https://github.com/petervmeijgaard/vue-2-boilerplate/blob/master/src/store/modules/auth/actions.js
 
 https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-1-Az45bWnLKxY
-https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-2-vue-vuex-LzD5dbLEZjY0
-https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-vuejs-gGJ59xmDlX2
-https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-nuxtjs-LzD5dwm4ljY
-https://viblo.asia/p/vai-dieu-chua-biet-ve-watcher-trong-vuejs-3Q75wGnG5Wb
 
 ## free code camp
 
@@ -94,6 +78,18 @@ https://www.youtube.com/watch?v=Ktb33USxsZA&list=PL53G8L1GDrrmz1BFI8baHwJOyMZvTv
 //////
 
 ## DONE
+
+========================== MUST READ =============================
+https://viblo.asia/p/chuong-1-introduction-3do-phuc-tap-thuat-toan-y37LdAQoVov
+https://viblo.asia/p/tang-toc-database-phan-11-tim-kiem-theo-khoang-lon-hon-nho-hon-va-between-Qbq5QBbzKD8
+https://viblo.asia/p/004-hieu-ve-index-de-tang-performance-voi-postgresql-p3-ByEZkrB4KQ0
+
+## https://tuan200tokyo.blogspot.com/
+
+https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-vuejs-gGJ59xmDlX2
+https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-nuxtjs-LzD5dwm4ljY
+https://viblo.asia/p/vai-dieu-chua-biet-ve-watcher-trong-vuejs-3Q75wGnG5Wb
+https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-2-vue-vuex-LzD5dbLEZjY0
 
 https://viblo.asia/p/6-nguyen-tac-de-chuyen-nghiep-hon-khi-ke-chuyen-bang-function-ham-yMnKMvvmZ7P
 https://viblo.asia/tags/abstract-class/series
