@@ -63,12 +63,6 @@ template vue 2: https://github.com/petervmeijgaard/vue-2-boilerplate/blob/master
 
 https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-1-Az45bWnLKxY
 
-## free code camp
-
-https://www.freecodecamp.org/news/search/?query=node%20js
-https://www.freecodecamp.org/news/free-8-hour-node-express-course/
-https://www.freecodecamp.org/learn/back-end-development-and-apis/
-
 ======== YOUTUBE =========
 https://www.youtube.com/watch?v=8mAITcNt710&feature=youtu.be
 https://www.youtube.com/watch?v=Ktb33USxsZA&list=PL53G8L1GDrrmz1BFI8baHwJOyMZvTv2vI
@@ -78,6 +72,11 @@ https://www.youtube.com/watch?v=Ktb33USxsZA&list=PL53G8L1GDrrmz1BFI8baHwJOyMZvTv
 //////
 
 ## DONE
+
+========================= free code camp =========================
+https://www.freecodecamp.org/news/search/?query=node%20js
+https://www.freecodecamp.org/news/free-8-hour-node-express-course/
+https://www.freecodecamp.org/learn/back-end-development-and-apis/
 
 ========================== MUST READ =============================
 https://viblo.asia/p/chuong-1-introduction-3do-phuc-tap-thuat-toan-y37LdAQoVov
