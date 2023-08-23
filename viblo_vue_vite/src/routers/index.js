@@ -2,13 +2,15 @@ import * as VueRouter from 'vue-router';
 import Home from '@containers/Home.vue';
 import About from '@containers/About.vue';
 import List from '@containers/List.vue';
+import Main from '@containers/Main/index.vue';
 import TodoList from '@containers/TodoList.vue';
 import AirportDetail from '@containers/AirportDetail.vue';
 import AirportDestinations from '@containers/AirportDestinations.vue';
 import NotFound from '@containers/NotFound.vue';
 
 const routes = [
-  { path: '/', component: Home },
+  { path: '/', component: Main },
+  { path: '/home', component: Home },
   { path: '/about', component: About },
   { path: '/list', component: List },
   { path: '/todo-list', component: TodoList },
