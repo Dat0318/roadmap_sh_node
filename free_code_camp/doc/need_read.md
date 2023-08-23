@@ -15,40 +15,40 @@ Cron job & Queue: node-cron và kue
 ======================================================= Need Home PC
 https://viblo.asia/s/jeZ103QgKWz
 https://viblo.asia/u/maitrungduc1410/series
+https://viblo.asia/s/2018-cung-nhau-hoc-docker-Wj53Omjb56m
 https://viblo.asia/s/chinh-phuc-kubernetes-tu-so-0-GJ59jLJaKX2
 https://viblo.asia/s/series-hoc-docker-cicd-tu-co-ban-den-ap-dung-vao-thuc-te-jeZ103QgKWz
 https://viblo.asia/p/tu-phat-trien-toi-trien-khai-phan-2-frontend-vuejs-spa-ssr-ByEZkN8AKQ0
 https://viblo.asia/p/viet-ung-dung-chat-realtime-voi-laravel-vuejs-redis-va-socketio-laravel-echo-Qpmle9Q9lrd
-https://viblo.asia/s/2018-cung-nhau-hoc-docker-Wj53Omjb56m
 https://viblo.asia/u/ntngoc96wd
-https://viblo.asia/p/002-hieu-ve-index-de-tang-performance-voi-postgresql-p1-3Q75wV3elWb
-https://viblo.asia/s/nestjs-thuc-chien-MkNLr3kaVgA
-https://viblo.asia/p/tang-toc-database-index-phan-4-index-cham-RnB5pOOrlPG
 https://viblo.asia/tags/laravel/series
 https://viblo.asia/tags/docker-compose/series
+https://viblo.asia/s/nestjs-thuc-chien-MkNLr3kaVgA
 https://viblo.asia/p/90-ngay-devops-ngay-1-gioi-thieu-38X4E5Ez4N2
+https://viblo.asia/p/tang-toc-database-index-phan-4-index-cham-RnB5pOOrlPG
 https://viblo.asia/s/k8s-basic-kubernetes-danh-cho-nguoi-moi-bat-dau-pgjLN088432
+https://viblo.asia/p/002-hieu-ve-index-de-tang-performance-voi-postgresql-p1-3Q75wV3elWb
 https://viblo.asia/p/amazon-api-gateway-http-api-to-aws-simple-queue-service-sqs-to-lambda-vlZL9NKvVQK
 https://viblo.asia/p/aws-cdk-la-gi-vlZL9EoBLQK
-https://viblo.asia/p/docker-chua-biet-gi-den-biet-dung-phan-1-lich-su-ByEZkWrEZQ0
-https://viblo.asia/p/laravel-vo-long-phan-1-routing-co-ban-vyDZO7kPZwj
-https://viblo.asia/p/tim-hieu-ve-migration-trong-laravel-bWrZn1MpKxw
-https://viblo.asia/p/tim-hieu-ve-task-schedule-trong-laravel-07LKXjyElV4
-https://viblo.asia/p/go-lang-p1-lap-trinh-golang-can-ban-cai-dat-viet-chuong-trinh-hello-word-yMnKMwmjl7P
 https://viblo.asia/p/basic-authentication-voi-golang-jvEla0AzZkw
+https://viblo.asia/p/tim-hieu-ve-migration-trong-laravel-bWrZn1MpKxw
+https://viblo.asia/p/laravel-vo-long-phan-1-routing-co-ban-vyDZO7kPZwj
+https://viblo.asia/p/tim-hieu-ve-task-schedule-trong-laravel-07LKXjyElV4
 https://viblo.asia/p/performance-optimization-101-nhung-cau-hoi-co-ban-Qbq5Q9BE5D8
+https://viblo.asia/p/docker-chua-biet-gi-den-biet-dung-phan-1-lich-su-ByEZkWrEZQ0
 https://viblo.asia/p/lam-backend-voi-java-spring-toi-nen-biet-nhung-gi-LzD5d9eoKjY
+https://viblo.asia/p/go-lang-p1-lap-trinh-golang-can-ban-cai-dat-viet-chuong-trinh-hello-word-yMnKMwmjl7P
 
 https://learndocker.online/
 https://www.youtube.com/watch?v=yWCse8S2qsM
+https://viblo.asia/s/terraform-series-3m5WB8JvlO7
 https://viblo.asia/s/aws-practice-series-4x5xp79q5BM
 https://viblo.asia/p/hoc-spring-boot-bat-dau-tu-dau-6J3ZgN7WKmB
 https://viblo.asia/p/lam-the-nao-de-xay-dung-mot-recommender-system-rs-phan-1-aWj53V2Gl6m
 https://viblo.asia/p/serverless-series-golang-bai-1-serverless-va-aws-lambda-gAm5y71XZdb
-https://viblo.asia/s/terraform-series-3m5WB8JvlO7
 
-https://viblo.asia/p/hoc-flutter-tu-co-ban-den-nang-cao-phan-1-lam-quen-co-nang-flutter-4dbZNJOvZYM
 https://viblo.asia/p/flutter-dependency-injection-trong-flutter-924lJGe65PM
+https://viblo.asia/p/hoc-flutter-tu-co-ban-den-nang-cao-phan-1-lam-quen-co-nang-flutter-4dbZNJOvZYM
 
 === AWS CERTIFICATE ===
 https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
@@ -69,8 +69,6 @@ https://www.youtube.com/watch?v=Ktb33USxsZA&list=PL53G8L1GDrrmz1BFI8baHwJOyMZvTv
 
 ## viblo <<<<<<<<<<<<<<<<<<<<===========================================<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-//////
-
 ## DONE
 
 ========================= free code camp =========================
@@ -80,17 +78,31 @@ https://www.freecodecamp.org/learn/back-end-development-and-apis/
 
 ========================== MUST READ =============================
 https://viblo.asia/p/chuong-1-introduction-3do-phuc-tap-thuat-toan-y37LdAQoVov
-https://viblo.asia/p/tang-toc-database-phan-11-tim-kiem-theo-khoang-lon-hon-nho-hon-va-between-Qbq5QBbzKD8
 https://viblo.asia/p/004-hieu-ve-index-de-tang-performance-voi-postgresql-p3-ByEZkrB4KQ0
+https://viblo.asia/p/tang-toc-database-phan-11-tim-kiem-theo-khoang-lon-hon-nho-hon-va-between-Qbq5QBbzKD8
 
 ## https://tuan200tokyo.blogspot.com/
 
+https://viblo.asia/s/javascript-co-ban-eVKByjkJ5kW
+https://viblo.asia/s/thiet-ke-phan-mem-DVK2jDR2KLj
+https://viblo.asia/s/flutter-cho-ca-nha-BQyJKzXQ4Me
+https://viblo.asia/s/series-react-hay-ho-W13VM9QQVY7
+https://viblo.asia/tags?sort=followers&type=none&page=20
+https://viblo.asia/s/apache-kafka-tu-zero-den-one-aGK7jPbA5j2
+https://viblo.asia/s/odoo-developa-odoo-for-beginnar-P0lPmJBm5ox
+https://viblo.asia/s/blockchain-cho-nguoi-moi-tim-hieu-2oKLnq8gJQO
+https://viblo.asia/s/chatbots-are-cool-lets-build-a-chatbot-OVlYq8dzl8W
+https://viblo.asia/s/dich-sach-ebook-web-hacking-101-san-tien-thuong-tu-cac-lo-hong-bao-mat-web-yDZOPvdOlwj
+https://viblo.asia/p/tim-hieu-ve-hooks-trong-react-p2-GrLZDkyEKk0
 https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-vuejs-gGJ59xmDlX2
 https://viblo.asia/p/mot-so-tips-nho-khi-su-dung-nuxtjs-LzD5dwm4ljY
 https://viblo.asia/p/vai-dieu-chua-biet-ve-watcher-trong-vuejs-3Q75wGnG5Wb
+https://viblo.asia/p/distributed-transaction-transactional-outbox-pattern-maGK7r695j2
+https://viblo.asia/p/chi-tiet-ve-material-design-trong-android-google-phan-i-gDVK2kzrZLj
+https://viblo.asia/p/6-nguyen-tac-de-chuyen-nghiep-hon-khi-ke-chuyen-bang-function-ham-yMnKMvvmZ7P
+https://viblo.asia/p/tang-toc-database-phan-11-tim-kiem-theo-khoang-lon-hon-nho-hon-va-between-Qbq5QBbzKD8
 https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-2-vue-vuex-LzD5dbLEZjY0
 
-https://viblo.asia/p/6-nguyen-tac-de-chuyen-nghiep-hon-khi-ke-chuyen-bang-function-ham-yMnKMvvmZ7P
 https://viblo.asia/tags/abstract-class/series
 https://viblo.asia/tags/amazon-ec2/series
 https://viblo.asia/tags/android-architecture/series
@@ -111,7 +123,6 @@ https://viblo.asia/tags/circleci/series
 https://viblo.asia/tags/cloud-computing/series
 https://viblo.asia/tags/command-line/series
 https://viblo.asia/tags/crypto/series
-
 https://viblo.asia/tags/data-analysis/series
 https://viblo.asia/tags/data-analyst/series
 https://viblo.asia/tags/data-mining/series
@@ -146,9 +157,6 @@ https://viblo.asia/tags/management/series
 https://viblo.asia/tags/marketing/series
 https://viblo.asia/tags/microservice/series
 https://viblo.asia/tags/migration/series
-
-## DONE
-
 https://viblo.asia/tags/mobile-app/series
 https://viblo.asia/tags/ms-sql-server/series
 https://viblo.asia/tags/mvvm/series
@@ -177,7 +185,6 @@ https://viblo.asia/tags/spring-mvc/series
 https://viblo.asia/tags/spring-security/series
 https://viblo.asia/tags/sql-injection/series
 https://viblo.asia/tags/test/series
-
 https://viblo.asia/tags/thuat-toan/series
 https://viblo.asia/tags/trick/series
 https://viblo.asia/tags/tricks/series
@@ -185,8 +192,6 @@ https://viblo.asia/tags/uml/series
 https://viblo.asia/tags/unittest/series
 https://viblo.asia/tags/xu-ly-ngon-ngu-tu-nhien/series
 https://viblo.asia/tags/zsh/series
-https://viblo.asia/s/blockchain-cho-nguoi-moi-tim-hieu-2oKLnq8gJQO
-https://viblo.asia/s/series-react-hay-ho-W13VM9QQVY7
 https://viblo.asia/tags/200lab/series
 https://viblo.asia/tags/agile-tester/series
 https://viblo.asia/tags/android-architecture-components/series
@@ -196,7 +201,6 @@ https://viblo.asia/tags/basic/series
 https://viblo.asia/tags/batch-processing/series
 https://viblo.asia/tags/blockchain-development/series
 https://viblo.asia/tags/c-programming/series
-
 https://viblo.asia/tags/closure/series
 https://viblo.asia/tags/coding-standard/series
 https://viblo.asia/tags/competitive-programming/series
@@ -215,7 +219,6 @@ https://viblo.asia/tags/design-partern/series
 https://viblo.asia/tags/developer/series
 https://viblo.asia/tags/expressjs/series
 https://viblo.asia/tags/extension/series
-
 https://viblo.asia/tags/face-recognition/series
 https://viblo.asia/tags/flexbox/series
 https://viblo.asia/tags/framework/series
@@ -234,7 +237,6 @@ https://viblo.asia/tags/javascipt/series
 https://viblo.asia/tags/khaibutdauxuan/series
 https://viblo.asia/tags/kunernetes/series
 https://viblo.asia/tags/leetcode/series
-
 https://viblo.asia/tags/load-balancing/series
 https://viblo.asia/tags/magento/series
 https://viblo.asia/tags/mindset/series
@@ -253,7 +255,6 @@ https://viblo.asia/tags/scrum-master/series
 https://viblo.asia/tags/selenium-webdriver/series
 https://viblo.asia/tags/sharpappmobile/series
 https://viblo.asia/tags/ssl/series
-
 https://viblo.asia/tags/tensorflow-tutorial/series
 https://viblo.asia/tags/terraform/series
 https://viblo.asia/tags/thu-thuat-css/series
@@ -263,8 +264,6 @@ https://viblo.asia/tags/viblo/series
 https://viblo.asia/tags/vscode/series
 https://viblo.asia/tags/vue-router/series
 https://viblo.asia/tags/web-security/series
-https://viblo.asia/p/tang-toc-database-phan-11-tim-kiem-theo-khoang-lon-hon-nho-hon-va-between-Qbq5QBbzKD8
-https://viblo.asia/p/tim-hieu-ve-hooks-trong-react-p2-GrLZDkyEKk0
 https://viblo.asia/tags/browser/series
 https://viblo.asia/tags/cc/series
 https://viblo.asia/tags/ceh/series
@@ -283,7 +282,6 @@ https://viblo.asia/tags/editor/series
 https://viblo.asia/tags/elastic-search/series
 https://viblo.asia/tags/error/series
 https://viblo.asia/tags/eslint/series
-
 https://viblo.asia/tags/ethereum-blockchain/series
 https://viblo.asia/tags/firebase-cloud-messaging/series
 https://viblo.asia/tags/flutterstatemanager/series
@@ -318,13 +316,6 @@ https://viblo.asia/tags/redux-thunk/series
 https://viblo.asia/tags/requirement/series
 https://viblo.asia/tags/storage/series
 https://viblo.asia/tags/tailwindcss/series
-https://viblo.asia/p/chi-tiet-ve-material-design-trong-android-google-phan-i-gDVK2kzrZLj
-https://viblo.asia/s/apache-kafka-tu-zero-den-one-aGK7jPbA5j2
-https://viblo.asia/s/chatbots-are-cool-lets-build-a-chatbot-OVlYq8dzl8W
-https://viblo.asia/s/dich-sach-ebook-web-hacking-101-san-tien-thuong-tu-cac-lo-hong-bao-mat-web-yDZOPvdOlwj
-https://viblo.asia/s/flutter-cho-ca-nha-BQyJKzXQ4Me
-https://viblo.asia/s/odoo-developa-odoo-for-beginnar-P0lPmJBm5ox
-https://viblo.asia/s/thiet-ke-phan-mem-DVK2jDR2KLj
 https://viblo.asia/tags/adminlte/series
 https://viblo.asia/tags/asm32/series
 https://viblo.asia/tags/assembly/series
@@ -346,7 +337,6 @@ https://viblo.asia/tags/google-analytics/series
 https://viblo.asia/tags/haproxy/series
 https://viblo.asia/tags/hoc-python/series
 https://viblo.asia/tags/information-technology/series
-
 https://viblo.asia/tags/ios-development/series
 https://viblo.asia/tags/kinh-nghiem-phong-van/series
 https://viblo.asia/tags/learn-english/series
@@ -356,8 +346,6 @@ https://viblo.asia/tags/proxy/series
 https://viblo.asia/tags/quarkus/series
 https://viblo.asia/tags/rabbitmq/series
 https://viblo.asia/tags/react-router/series
-
-https://viblo.asia/p/distributed-transaction-transactional-outbox-pattern-maGK7r695j2
 https://viblo.asia/tags/recurrent-neural-network/series
 https://viblo.asia/tags/scalability/series
 https://viblo.asia/tags/senior/series
@@ -376,7 +364,6 @@ https://viblo.asia/tags/designpatter/series
 https://viblo.asia/tags/dialogflow/series
 https://viblo.asia/tags/distributed-transaction/series
 https://viblo.asia/tags/file-uploads/series
-
 https://viblo.asia/tags/firefoxdevtools/series
 https://viblo.asia/tags/function/series
 https://viblo.asia/tags/gan/series
@@ -391,7 +378,6 @@ https://viblo.asia/tags/plugins/series
 https://viblo.asia/tags/prediction-learning/series
 https://viblo.asia/tags/server-monitoring/series
 https://viblo.asia/tags/web3js/series
-https://viblo.asia/s/javascript-co-ban-eVKByjkJ5kW
 https://viblo.asia/tags/event/series
 https://viblo.asia/tags/regex/series
 https://viblo.asia/tags/concurrency/series
@@ -434,7 +420,6 @@ https://viblo.asia/tags/data-visualization/series
 https://viblo.asia/tags/200lab/series
 https://viblo.asia/tags/grpc/series
 https://viblo.asia/tags/oracle-database/series
-
 https://viblo.asia/tags/japanese/series
 https://viblo.asia/tags/data-visualization/series
 https://viblo.asia/tags/typescrip/series
@@ -477,7 +462,6 @@ https://viblo.asia/tags/design-partern/series
 https://viblo.asia/tags/xamarin/series
 https://viblo.asia/tags/tensorflow-tutorial/series
 https://viblo.asia/tags/https/series
-
 https://viblo.asia/tags/vue3/series
 https://viblo.asia/tags/graphic/series
 https://viblo.asia/tags/crud/series
@@ -520,7 +504,6 @@ https://viblo.asia/tags/google-apps-script/series
 https://viblo.asia/tags/privilege-escalation/series
 https://viblo.asia/tags/jschart/series
 https://viblo.asia/tags/scraping/series
-
 https://viblo.asia/tags/data-replication/series
 https://viblo.asia/tags/axios/series
 https://viblo.asia/tags/undefined/series
@@ -563,7 +546,6 @@ https://viblo.asia/tags/reac-redux/series
 https://viblo.asia/tags/amazon/series
 https://viblo.asia/tags/jest/series
 https://viblo.asia/tags/java-8/series
-
 https://viblo.asia/tags/penetration-testing/series
 https://viblo.asia/tags/reac-redux/series
 https://viblo.asia/tags/manual-test/series
@@ -606,7 +588,6 @@ https://viblo.asia/tags/smartfox/series
 https://viblo.asia/tags/mathematicsandinformatics/series
 https://viblo.asia/tags/kiem-thu-hieu-nang/series
 https://viblo.asia/tags/data-engineer/series
-
 https://viblo.asia/tags/index/series
 https://viblo.asia/tags/webassembly/series
 https://viblo.asia/tags/requirement/series
@@ -649,8 +630,6 @@ https://viblo.asia/tags/cdp/series
 https://viblo.asia/tags/htmlseo/series
 https://viblo.asia/tags/kinh-nghiem-phong-van/series
 https://viblo.asia/tags/rasa/series
-
-https://viblo.asia/tags?sort=followers&type=none&page=20
 https://viblo.asia/tags/flutterstatemanager/series
 https://viblo.asia/tags/rasa/series
 https://viblo.asia/tags/widget/series
@@ -693,7 +672,6 @@ https://viblo.asia/tags/inheritance/series
 https://viblo.asia/tags/ios-development/series
 https://viblo.asia/tags/rabbitmq/series
 https://viblo.asia/tags/googleappscript/series
-
 https://viblo.asia/tags/scalability/series
 https://viblo.asia/tags/kinh-nghiem-phong-van/series
 https://viblo.asia/tags/cau-truc-du-lieu/series
@@ -736,7 +714,6 @@ https://viblo.asia/tags/graph-neural-network/series
 https://viblo.asia/tags/ansible/series
 https://viblo.asia/tags/database-performance/series
 https://viblo.asia/tags/shell-script/series
-
 https://viblo.asia/tags/auto-layout/series
 https://viblo.asia/tags/data-warehouse/series
 https://viblo.asia/tags/ansible/series
@@ -779,7 +756,6 @@ https://viblo.asia/tags/debug-rxswift/series
 https://viblo.asia/tags/dialogflow/series
 https://viblo.asia/tags/data-centric/series
 https://viblo.asia/tags/collections/series
-
 https://viblo.asia/tags/api-authentication/series
 https://viblo.asia/tags/debug-rxswift/series
 https://viblo.asia/tags/non-functionaltesting/series
@@ -814,7 +790,6 @@ https://viblo.asia/tags/sharpbusinessanalyst/series
 https://viblo.asia/tags/download-file/series
 https://viblo.asia/tags/auto-testing/series
 https://viblo.asia/tags/relation-extraction/series
-
 https://viblo.asia/tags/jsx/series
 https://viblo.asia/tags/file-uploads/series
 https://viblo.asia/tags/dialogflow/series
@@ -865,7 +840,6 @@ https://viblo.asia/tags/decentralized/series
 https://viblo.asia/tags/aar/series
 https://viblo.asia/tags/udp/series
 https://viblo.asia/tags/ios-application-development/series
-
 https://viblo.asia/tags/git/series
 https://viblo.asia/tags/javascript/series
 https://viblo.asia/tags/css/series
@@ -889,16 +863,6 @@ https://viblo.asia/tags/nosql/series
 https://viblo.asia/tags/nginx/series
 https://viblo.asia/tags/aspnet/series
 https://viblo.asia/tags/elasticsearch/series
-https://viblo.asia/p/hieu-ro-co-che-xu-li-dong-bo-va-bat-dong-bo-sync-vs-async-trong-javascript-p1-Qpmlep9nZrd
-https://viblo.asia/p/nodejs-bai-2-khoi-tao-server-va-ung-dung-dau-tien-YWOZr8JE5Q0
-https://viblo.asia/p/xay-dung-ung-dung-web-voi-nodejs-express-framework-angularjs-phan-1-naQZRwDqlvx
-https://viblo.asia/p/bai-hoc-so-1-lam-quen-voi-quarkus-java-framework-XL6lAeo4lek
-https://viblo.asia/p/001-co-nhung-cach-nao-de-toi-uu-sql-query-RnB5pVgrZPG
-https://viblo.asia/p/kubernetes-cac-khai-niem-co-ban-va-cach-khoi-tao-mot-kubernetes-cluster-Az45bD0NZxY
-https://viblo.asia/p/hoc-wordpress-toan-tap-phan-1-OeVKB8GrlkW
-https://viblo.asia/s/css-va-nhung-dieu-thu-vi-GJ59jLYGKX2
-https://viblo.asia/s/nhung-kien-thuc-can-biet-khi-bat-dau-lam-mot-project-web-Wj53OmjP56m
-
 https://viblo.asia/tags/scss/series
 https://viblo.asia/tags/wordpress/series
 https://viblo.asia/tags/postgresql/series
@@ -938,18 +902,6 @@ https://viblo.asia/tags/nuxtjs/series
 https://viblo.asia/tags/jwt/series
 https://viblo.asia/tags/k8s/series
 https://viblo.asia/tags/vim/series
-
-https://viblo.asia/p/aws-ec2-ebs-snapshot-ami-efs-m68Z0o8dKkG
-https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
-https://viblo.asia/p/100-ngay-hoc-devops-ngay-1-V3m5Wx7WKO7
-https://viblo.asia/p/aws-lab-thu-tao-1-aws-ec2-va-deploy-1-ung-dung-rails-Ljy5VYrVlra
-https://viblo.asia/p/aws-ec2-ebs-snapshot-ami-efs-m68Z0o8dKkG
-https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
-https://viblo.asia/p/task-scheduling-va-bai-toan-su-luoi-cua-cac-developers-924lJDV0KPM
-https://viblo.asia/p/hibernate-caching-bai-1-first-level-cache-07LKXw3r5V4
-https://viblo.asia/s/bigdata-machine-learning-analytic-realtime-monitoring-yEZkg8D4ZQ0
-https://viblo.asia/p/tim-hieu-graphql-phan-1-graphql-vs-rest-api-924lJYG6ZPM
-https://viblo.asia/p/graphql-for-dummies-part-1-introduction-4dbZNEdgKYM
 https://viblo.asia/tags/front-end-developer/series
 https://viblo.asia/tags/cloudcomputing/series
 https://viblo.asia/tags/realtime/series
@@ -967,43 +919,29 @@ https://viblo.asia/tags/nestjs/series
 https://viblo.asia/tags/chrome/series
 https://viblo.asia/tags/postman/series
 https://viblo.asia/tags/nextjs/series
+https://viblo.asia/tags/nestjs/series
+https://viblo.asia/tags/typescript?page=3
 
 === Kipalog READ LATER ===
-
 https://kipalog.com/
 https://huyenchip.com/vn/
 https://dev.to/said7388/top-20-reactjs-interview-questions-3a0m
 === Kipalog: END ===
 
 === POSTCAST ===
-https://beautyoncode.com/podcast/
 https://www.viettech.group/
+https://beautyoncode.com/podcast/
 https://hung.dev/posts/clean-code-1
-https://viblo.asia/p/devops-nhung-cuon-sach-nen-doc-de-tro-thanh-devops-cho-nguoi-moi-bat-dau-YWOZrAqNKQ0
-https://devopsvn.tech/cac-ban-duoc-mentor
-https://www.linkedin.com/posts/nguyenlonghaisharing_qu%C3%A1-b%E1%BA%ADn-%C4%91%E1%BB%83-kh%C3%B4ng-th%E1%BB%83-th%C3%A0nh-c%C3%B4ng-b%E1%BA%ADn-r%E1%BB%99n-activity-6956878997511168000-csHp/
-https://www.notion.so/Top-Resources-for-SQL-Bootcamp-38a39207d09a4dc19492ca8e8c64e0ae
 https://ktmt.github.io/blog/archives/
+https://devopsvn.tech/cac-ban-duoc-mentor
 https://vasanthk.gitbooks.io/react-bits/content/patterns/21.context-wrapper.html
+https://www.notion.so/Top-Resources-for-SQL-Bootcamp-38a39207d09a4dc19492ca8e8c64e0ae
+https://www.linkedin.com/posts/nguyenlonghaisharing_qu%C3%A1-b%E1%BA%ADn-%C4%91%E1%BB%83-kh%C3%B4ng-th%E1%BB%83-th%C3%A0nh-c%C3%B4ng-b%E1%BA%ADn-r%E1%BB%99n-activity-6956878997511168000-csHp/
 https://medium.com/frontend-canteen/with-these-articles-you-will-not-be-confused-when-learning-typescript-d96a5c99e229
 Tôi đi code dạo, Codeaholicguy, Huyền Chip, The Full Snack(Huy Trần), Ngọc Hiếu(tác giả podcast hieu.tv), Ask Tester(Huỳnh Công Thành), Việt Huỳnh Blog(cựu tổng giám đốc KMS Technology), Giáo Sư Cẩn
 === POSTCAST:END ===
 
-https://viblo.asia/p/kubernetes-series-bai-2-kubernetes-pod-thanh-phan-de-chay-container-YWOZr3QElQ0
-https://viblo.asia/tags/typescript?page=3
 https://viblo.asia/u/mih2t9x
-https://viblo.asia/s/tim-hieu-ve-typescript-rLZDXoDeZk0
-https://viblo.asia/s/reactjs-nang-cao-68Z00npQZkG
-https://viblo.asia/s/nextjs-thuc-chien-qPoL7ezN4vk
-https://viblo.asia/p/cung-minh-tao-boilerplate-cho-du-an-nextjs-v12-phan-1-mui-v5-emotion-cache-va-axios-hooks-GyZJZnk2Jjm
-https://viblo.asia/p/cung-minh-tao-boilerplate-cho-du-an-nextjs-v12-phan-2-i18n-va-nextauthjs-zOQJwQYkVMP
-https://viblo.asia/s/fe-framework-review-PwlVmRq045Z
-https://viblo.asia/s/nextjs-2022-hoc-nextjs-tu-dau-4x5xp7a15BM
-https://viblo.asia/s/series-ve-nextjs-JzKmg8yEl9N
-https://viblo.asia/s/cac-bai-tutorial-nodejs-P856j78G5Y3
-https://viblo.asia/tags/nestjs/series
-
-=====================================================================================
 
 https://tuan200tokyo.blogspot.com/2022/10/blog12-cach-commnet-trong-file-json.html
 https://tuan200tokyo.blogspot.com/2022/10/blog8-cach-cai-at-bien-javahome-tren.html
@@ -1031,6 +969,14 @@ https://tuan200tokyo.blogspot.com/2022/10/blog25-tat-ca-nhung-thu-ban-can-e-xay.
 https://tuan200tokyo.blogspot.com/2022/10/blog20-clean-code-va-mot-so-best.html
 https://tuan200tokyo.blogspot.com/2022/10/blog19-java-spring-batch-phan-biet-giua.html
 https://tuan200tokyo.blogspot.com/2022/10/blog18-tren-tay-nhanh-slf4j-logging.html
+
+https://viblo.asia/s/tim-hieu-ve-typescript-rLZDXoDeZk0
+https://viblo.asia/s/reactjs-nang-cao-68Z00npQZkG
+https://viblo.asia/s/nextjs-thuc-chien-qPoL7ezN4vk
+https://viblo.asia/s/fe-framework-review-PwlVmRq045Z
+https://viblo.asia/s/nextjs-2022-hoc-nextjs-tu-dau-4x5xp7a15BM
+https://viblo.asia/s/series-ve-nextjs-JzKmg8yEl9N
+https://viblo.asia/s/cac-bai-tutorial-nodejs-P856j78G5Y3
 https://viblo.asia/s/under-nodejs-tim-hieu-ve-v8-engine-dbZN76ValYM
 https://viblo.asia/s/huong-dan-co-ban-tu-hoc-lap-trinh-web-mot-cach-that-tu-nhien-Wj53OQQP56m
 https://viblo.asia/s/nodejs-thuc-chien-bq5QL88ElD8
@@ -1053,6 +999,67 @@ https://viblo.asia/s/xay-dung-ung-dung-don-gian-voi-angularjs-nodejs-va-mysql-pm
 https://viblo.asia/s/nodejs-and-its-weird-component-jy5VB2mb5ra
 https://viblo.asia/s/turtorial-nodejs-7LKXNqbDlV4
 https://viblo.asia/s/minh-da-lam-be-ca-thong-minh-nhu-the-nao-eVKByjnY5kW
+https://viblo.asia/s/storybook-essentials-2oKLnqWWJQO
+https://viblo.asia/s/150-bai-viet-ngan-ve-lap-trinh-DVK2jD0wKLj
+https://viblo.asia/u/BeautyOnCode/series
+https://viblo.asia/s/hoc-typescript-can-ban-zD5dB8GYZjY
+https://viblo.asia/s/hoc-es6-can-ban-rLZDX44JZk0
+https://viblo.asia/s/framework-nestjs-yEZkg8PYZQ0
+https://viblo.asia/s/su-dung-typescript-de-tao-api-bao-mat-voi-nodejs-va-express-P0lPmrNv5ox
+https://viblo.asia/s/nhung-dieu-nho-nhat-khi-lap-trinh-javascript-AyK8VqnWlxX
+https://viblo.asia/s/bigdata-machine-learning-analytic-realtime-monitoring-yEZkg8D4ZQ0
+https://viblo.asia/s/css-va-nhung-dieu-thu-vi-GJ59jLYGKX2
+https://viblo.asia/s/nhung-kien-thuc-can-biet-khi-bat-dau-lam-mot-project-web-Wj53OmjP56m
+
+https://viblo.asia/p/hieu-ro-co-che-xu-li-dong-bo-va-bat-dong-bo-sync-vs-async-trong-javascript-p1-Qpmlep9nZrd
+https://viblo.asia/p/nodejs-bai-2-khoi-tao-server-va-ung-dung-dau-tien-YWOZr8JE5Q0
+https://viblo.asia/p/xay-dung-ung-dung-web-voi-nodejs-express-framework-angularjs-phan-1-naQZRwDqlvx
+https://viblo.asia/p/bai-hoc-so-1-lam-quen-voi-quarkus-java-framework-XL6lAeo4lek
+https://viblo.asia/p/001-co-nhung-cach-nao-de-toi-uu-sql-query-RnB5pVgrZPG
+https://viblo.asia/p/kubernetes-cac-khai-niem-co-ban-va-cach-khoi-tao-mot-kubernetes-cluster-Az45bD0NZxY
+https://viblo.asia/p/hoc-wordpress-toan-tap-phan-1-OeVKB8GrlkW
+https://viblo.asia/p/aws-ec2-ebs-snapshot-ami-efs-m68Z0o8dKkG
+https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
+https://viblo.asia/p/100-ngay-hoc-devops-ngay-1-V3m5Wx7WKO7
+https://viblo.asia/p/aws-lab-thu-tao-1-aws-ec2-va-deploy-1-ung-dung-rails-Ljy5VYrVlra
+https://viblo.asia/p/aws-ec2-ebs-snapshot-ami-efs-m68Z0o8dKkG
+https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate-eW65GRMalDO
+https://viblo.asia/p/task-scheduling-va-bai-toan-su-luoi-cua-cac-developers-924lJDV0KPM
+https://viblo.asia/p/hibernate-caching-bai-1-first-level-cache-07LKXw3r5V4
+https://viblo.asia/p/tim-hieu-graphql-phan-1-graphql-vs-rest-api-924lJYG6ZPM
+https://viblo.asia/p/graphql-for-dummies-part-1-introduction-4dbZNEdgKYM
+https://viblo.asia/p/devops-nhung-cuon-sach-nen-doc-de-tro-thanh-devops-cho-nguoi-moi-bat-dau-YWOZrAqNKQ0
+https://viblo.asia/p/kubernetes-series-bai-2-kubernetes-pod-thanh-phan-de-chay-container-YWOZr3QElQ0
+https://viblo.asia/p/cung-minh-tao-boilerplate-cho-du-an-nextjs-v12-phan-1-mui-v5-emotion-cache-va-axios-hooks-GyZJZnk2Jjm
+https://viblo.asia/p/cung-minh-tao-boilerplate-cho-du-an-nextjs-v12-phan-2-i18n-va-nextauthjs-zOQJwQYkVMP
+https://viblo.asia/p/su-dung-generics-trong-typescript-QpmlezGN5rd
+https://viblo.asia/p/su-dung-abstract-classes-trong-typescript-924lJg0Y5PM
+https://viblo.asia/p/su-dung-static-methods-va-properties-trong-typescript-bWrZnQ9nKxw
+https://viblo.asia/p/su-dung-inheritance-ke-thua-trong-typescript-3Q75wNzJlWb
+https://viblo.asia/p/su-dung-getters-va-setters-trong-typescript-bWrZnAJnKxw
+https://viblo.asia/p/su-dung-access-modifiers-trong-typescript-maGK7rxx5j2
+https://viblo.asia/p/su-dung-class-trong-typescript-bJzKmAbDK9N
+https://viblo.asia/p/su-dung-function-overloadings-trong-typescript-Az45bRvz5xY
+https://viblo.asia/p/su-dung-functions-trong-typescript-Qbq5QRz4KD8
+https://viblo.asia/p/su-dung-rest-parameters-trong-typescript-maGK7rnO5j2
+https://viblo.asia/p/su-dung-default-parameters-trong-typescript-924lJRkWlPM
+https://viblo.asia/p/su-dung-interface-trong-typescript-07LKXRXDlV4
+https://viblo.asia/p/tai-sao-ban-nen-chon-typescript-thay-vi-javascript-EoW4oxYrJml
+https://viblo.asia/p/so-sanh-nho-giua-typescript-va-javascript-aAY4qvnDJPw
+https://viblo.asia/p/toi-viet-cai-package-atltvenv-nhu-the-nao-phan-2-obA4630BJKv
+https://viblo.asia/p/typescript-utility-types-pho-bien-018J29Ee4YK
+https://viblo.asia/p/hieu-ve-khai-niem-the-constructor-of-the-class-trong-typescript-AZoJjXAOVY7
+https://viblo.asia/p/generics-trong-typescript-WR5JRmOz4Gv
+https://viblo.asia/p/tich-hop-redux-toolkit-vao-react-voi-typescript-r1QLxQDgVAw
+https://viblo.asia/p/chuyen-type-tu-json-sau-khi-fetch-api-5OXLAoxv4Gr
+https://viblo.asia/p/xu-ly-request-va-refresh-token-hieu-qua-trong-react-js-voi-axios-interceptors-gwd43kXK4X9
+https://viblo.asia/p/cach-dang-nhap-sso-keycloak-voi-reactjs-va-typescript-38X4E52j4N2
+https://viblo.asia/p/tao-rest-api-tren-nodejs-voi-express-va-prisma-su-dung-typescript-naQZRPnj5vx
+https://viblo.asia/p/interface-funtion-trong-typescript-p1-OeVKBjyEKkW
+https://viblo.asia/p/modules-trong-typescript-Qpmlez3k5rd
+https://viblo.asia/p/dependency-injection-trong-typescript-aWj53m1eZ6m
+
+https://kipacast.info/team.html
 https://kipalog.kaopiz.com/posts/Manage-or-die-
 https://kipalog.kaopiz.com/posts/Muon-neo-tim-nguoi---Developer-va-nhung-bai-hoc-xuong-mau
 https://kipalog.kaopiz.com/posts/Tu-dong-hoa-front-end-vs-Laravel-Mix-trong-Laravel-P1
@@ -1083,7 +1090,6 @@ https://kipalog.kaopiz.com/posts/Cac-mo-hinh-database-nen-biet
 https://kipalog.kaopiz.com/posts/Laravel-Mix-without-Laravel
 https://kipalog.kaopiz.com/posts/Validation-trong-Laravel
 https://kipalog.kaopiz.com/posts/Design-Patterns-la-gi
-https://kipacast.info/team.html
 https://kipalog.kaopiz.com/posts/Modern-Web-Architecture
 https://kipalog.kaopiz.com/posts/Capacity-Reservation-in-AWS
 https://kipalog.kaopiz.com/posts/AWS-Savings-Plans-vs-Reserved-Instances
@@ -1093,38 +1099,3 @@ https://kipalog.kaopiz.com/posts/Mot-vai-notes-ve-Amazon-Kinesis
 https://kipalog.kaopiz.com/posts/Pass-AWS-DVA-trong-vong-mot-not-nhac
 https://kipalog.kaopiz.com/posts/Tom-tat-noi-dung-on-thi-AWS-SAA--P2----EC2
 https://kipalog.kaopiz.com/posts/Tom-tat-noi-dung-on-thi-AWS-SAA--P1----IAM---S
-https://viblo.asia/p/su-dung-generics-trong-typescript-QpmlezGN5rd
-https://viblo.asia/p/su-dung-abstract-classes-trong-typescript-924lJg0Y5PM
-https://viblo.asia/p/su-dung-static-methods-va-properties-trong-typescript-bWrZnQ9nKxw
-https://viblo.asia/p/su-dung-inheritance-ke-thua-trong-typescript-3Q75wNzJlWb
-https://viblo.asia/p/su-dung-getters-va-setters-trong-typescript-bWrZnAJnKxw
-https://viblo.asia/p/su-dung-access-modifiers-trong-typescript-maGK7rxx5j2
-https://viblo.asia/p/su-dung-class-trong-typescript-bJzKmAbDK9N
-https://viblo.asia/p/su-dung-function-overloadings-trong-typescript-Az45bRvz5xY
-https://viblo.asia/p/su-dung-functions-trong-typescript-Qbq5QRz4KD8
-https://viblo.asia/p/su-dung-rest-parameters-trong-typescript-maGK7rnO5j2
-https://viblo.asia/p/su-dung-default-parameters-trong-typescript-924lJRkWlPM
-https://viblo.asia/p/su-dung-interface-trong-typescript-07LKXRXDlV4
-
-https://viblo.asia/p/tai-sao-ban-nen-chon-typescript-thay-vi-javascript-EoW4oxYrJml
-https://viblo.asia/p/so-sanh-nho-giua-typescript-va-javascript-aAY4qvnDJPw
-https://viblo.asia/p/toi-viet-cai-package-atltvenv-nhu-the-nao-phan-2-obA4630BJKv
-https://viblo.asia/p/typescript-utility-types-pho-bien-018J29Ee4YK
-https://viblo.asia/p/hieu-ve-khai-niem-the-constructor-of-the-class-trong-typescript-AZoJjXAOVY7
-https://viblo.asia/p/generics-trong-typescript-WR5JRmOz4Gv
-https://viblo.asia/p/tich-hop-redux-toolkit-vao-react-voi-typescript-r1QLxQDgVAw
-https://viblo.asia/p/chuyen-type-tu-json-sau-khi-fetch-api-5OXLAoxv4Gr
-https://viblo.asia/p/xu-ly-request-va-refresh-token-hieu-qua-trong-react-js-voi-axios-interceptors-gwd43kXK4X9
-https://viblo.asia/p/cach-dang-nhap-sso-keycloak-voi-reactjs-va-typescript-38X4E52j4N2
-https://viblo.asia/p/tao-rest-api-tren-nodejs-voi-express-va-prisma-su-dung-typescript-naQZRPnj5vx
-https://viblo.asia/p/interface-funtion-trong-typescript-p1-OeVKBjyEKkW
-https://viblo.asia/p/modules-trong-typescript-Qpmlez3k5rd
-https://viblo.asia/p/dependency-injection-trong-typescript-aWj53m1eZ6m
-https://viblo.asia/s/storybook-essentials-2oKLnqWWJQO
-https://viblo.asia/s/150-bai-viet-ngan-ve-lap-trinh-DVK2jD0wKLj
-https://viblo.asia/u/BeautyOnCode/series
-https://viblo.asia/s/hoc-typescript-can-ban-zD5dB8GYZjY
-https://viblo.asia/s/hoc-es6-can-ban-rLZDX44JZk0
-https://viblo.asia/s/framework-nestjs-yEZkg8PYZQ0
-https://viblo.asia/s/su-dung-typescript-de-tao-api-bao-mat-voi-nodejs-va-express-P0lPmrNv5ox
-https://viblo.asia/s/nhung-dieu-nho-nhat-khi-lap-trinh-javascript-AyK8VqnWlxX
