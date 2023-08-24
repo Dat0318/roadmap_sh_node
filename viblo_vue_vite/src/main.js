@@ -6,6 +6,7 @@ import router from './routers/index';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.bundle.js';
 import VueLazyload from 'vue-lazyload';
+import i18n from './assets/lang/index';
 
 // import Vuex from 'vuex';
 
@@ -21,6 +22,7 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 createApp(App)
+  .use(i18n)
   .use(router)
   .use(VueLazyload)
   .use(VueFire, {

@@ -9,14 +9,14 @@
 }
 
 body {
-  overflow: hidden;
+  min-height: 100vh;
   background: #f2f2f2;
 }
 
 .page {
   position: relative;
-  min-height: 100vh;
-  min-width: 100vw;
+  // min-width: 100vw;
+  // min-height: 100vh;
   // background-image: url(https://i.ibb.co/4fMB4tr/background-demo.png);
   background-size: 100% auto;
   background-repeat: no-repeat;

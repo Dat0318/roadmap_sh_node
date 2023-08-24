@@ -8,6 +8,17 @@ console.log(res.join('##'));
 
 https://viblo.asia/p/con-duong-minh-dang-di-de-tro-thanh-fullstack-web-developer-maGK7VWx5j2
 
+```
+– Anh có biết SOLID không? Vậy nguyên lý Dependency Inversion là gì? Anh có thể kể tên và giải thích 1 Design Pattern thoả mãn nguyên lý Dependency Inversion không?
+– Anh có hay sử dụng Design Pattern không? Tại không lại không dùng Global Constant mà lại phải dùng Singleon?
+– Anh có biết TDD không? Tạo sao phải dùng Mocking. Khi nào thì dùng, khi nào thì không?
+– Theo anh thì hệ thống lớn là gì? Hệ thống phức tạp là gì?
+– Vai trò trong dự án của anh là gì? Anh ở những vai trò đó trong bao lâu,
+– Anh có bao giờ phải Maintain dự án không? Chiến lược của anh khi phải Maintain 1 dự án là gì? Anh đã áp dụng các Refactoring Pattern nào?.
+– Anh có biết về Agile không? Đã làm việc với Scrum chưa? Trong Scrum anh tham gia với vai trò gì?
+– Trong nhóm trước kia của anh có hay xảy ra xung đột không? Anh vượt qua nó như thế nào?
+```
+
 ## https://viblo.asia/p/tay-trang-lam-nen-mot-trang-web-ca-nhan-chuyen-nghiep-khong-ton-mot-xu-phan-2-ByEZk91W5Q0
 
 Cron job & Queue: node-cron và kue
@@ -56,11 +67,6 @@ https://viblo.asia/p/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate
 
 ==================================================================
 
-## viblo laravel vue js
-
-https://viblo.asia/tags/vue
-template vue 2: https://github.com/petervmeijgaard/vue-2-boilerplate/blob/master/src/store/modules/auth/actions.js
-
 https://viblo.asia/p/cung-xay-dung-website-laravel-vuejs-chi-tiet-cho-nguoi-moi-hoc-phan-1-Az45bWnLKxY
 
 ======== YOUTUBE =========
@@ -82,6 +88,11 @@ https://viblo.asia/p/004-hieu-ve-index-de-tang-performance-voi-postgresql-p3-ByE
 https://viblo.asia/p/tang-toc-database-phan-11-tim-kiem-theo-khoang-lon-hon-nho-hon-va-between-Qbq5QBbzKD8
 
 ## https://tuan200tokyo.blogspot.com/
+
+viblo laravel vue js
+https://viblo.asia/tags/vue
+https://viblo.asia/p/mot-so-vuejs-resources-mien-phi-danh-cho-nguoi-moi-bat-dau-QpmlexAMZrd
+BOILERPLATE VUE 2: https://github.com/petervmeijgaard/vue-2-boilerplate/blob/master/src/store/modules/auth/actions.js
 
 https://viblo.asia/s/javascript-co-ban-eVKByjkJ5kW
 https://viblo.asia/s/thiet-ke-phan-mem-DVK2jDR2KLj

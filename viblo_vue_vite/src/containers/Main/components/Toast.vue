@@ -3,7 +3,6 @@ import './styles.scss';
 </script>
 
 <template>
-  {{ console.log('isOnline: ', isOnline, isShow) }}
   <div :class="['wrapper', isShow ? 'show' : 'hide']">
     <ClientOnly>
       <div :class="[{ offline: !isOnline }, isShow ? 'show' : 'hide', 'toast']">

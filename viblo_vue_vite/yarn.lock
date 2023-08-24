@@ -1188,6 +1188,11 @@ vue-demi@latest:
   resolved "https://registry.npmjs.org/vue-demi/-/vue-demi-0.14.1.tgz"
   integrity sha512-rt+yuCtXvscYot9SQQj3WKZJVSriPNqVkpVBNEHPzSgBv7QIYzsS410VqVgvx8f9AAPgjg+XPKvmV3vOqqkJQQ==
 
+vue-i18n-lite@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/vue-i18n-lite/-/vue-i18n-lite-1.0.2.tgz#20a35ae1499f727b258e05a047d1e2f50eeff121"
+  integrity sha512-2eaYIPQb4oY8LbhjDJExpZJvVAu2E8dxwQ9sI+x5EbEVw86oDSEXGvAQrdAT5j4WeICuq9RPAJTNhrBknzAp8Q==
+
 vue-lazyload@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/vue-lazyload/-/vue-lazyload-3.0.0.tgz#37529064da6ba774e969cc9d86b5418e230b16d4"

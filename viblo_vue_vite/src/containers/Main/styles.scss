@@ -1,4 +1,13 @@
 .full {
   width: 100vw;
-  height: 100vh;
+
+  .item {
+    margin: 10px auto;
+  }
+
+  .format_json {
+    max-width: 50%;
+    text-align: left;
+    margin: 0 auto;
+  }
 }
