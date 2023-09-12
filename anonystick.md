@@ -591,6 +591,8 @@ https://anonystick.com/blog-developer/higher-order-functions-in-javascript-20190
 https://anonystick.com/blog-developer/javascript-currying-in-javascript-2019050935248071
 https://anonystick.com/blog-developer/9-meo-huu-ich-de-viet-javascript-ngan-gon-va-hieu-qua-hon-201905083721570
 
+====================================== DONE ======================================
+
 https://anonystick.com/blog-developer/khi-nao-ban-bat-kha-chien-bai-2021083042201385
 https://anonystick.com/blog-developer/vi-sao-coder-khong-hai-long-toan-tu-thay-vao-do-la-toan-tu-2020101987302679
 https://anonystick.com/blog-developer/apache-php-fpm-va-nginx-php-fpm-2020042497996504
@@ -621,6 +623,7 @@ https://anonystick.com/blog-developer/falsy-values-javascript-la-gi-cach-remove-
 https://anonystick.com/blog-developer/troi-sinh-ra-for-loop-sao-con-sinh-arrayforeach-trong-javascript-201904139453960
 https://anonystick.com/blog-developer/javascript-reduce-nang-cao-arrayprototypereduce-tutorial-2019041273772614
 https://anonystick.com/blog-developer/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q
+
 https://anonystick.com/blog-developer/ban-co-that-su-hieu-ve-stack-va-queue-trong-cau-truc-du-lieu-javascript-He0OW1R4
 https://anonystick.com/blog-developer/javascript-converting-from-text-to-speech-with-javascript-doc-sach-online-ch1vzywp
 https://anonystick.com/blog-developer/javascript-developer-javascript-nen-biet-nhung-method-arrays-nao-trong-javascript-x0ZB3R6E
@@ -648,9 +651,6 @@ https://anonystick.com/blog-developer/nodejs-resize-image-trong-nodejs-su-dung-m
 https://anonystick.com/blog-developer/objectassign-co-the-lam-nhung-gi-voi-object-javascript-PPqgJNrs
 https://anonystick.com/blog-developer/su-khac-nhau-giua-authentication-va-authorization-KAcMD6ba
 https://anonystick.com/blog-developer/5-cach-de-thuc-hien-cac-yeu-cau-http-http-request-trong-nodejs-DoAYfVbr
-
-====================================== DONE ======================================
-
 https://anonystick.com/blog-developer/firebase-huong-dan-login-bang-tai-khoan-google-facebook-su-dung-firebase-tren-website-g67mjfqq
 https://anonystick.com/blog-developer/khi-nao-nen-su-dung-firebase-CfbXzrBy
 https://anonystick.com/blog-developer/share-huong-dan-tao-ssh-key-cho-vps-bao-mat-an-toan-bv172ET0
