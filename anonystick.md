@@ -648,9 +648,14 @@ https://anonystick.com/blog-developer/nodejs-resize-image-trong-nodejs-su-dung-m
 https://anonystick.com/blog-developer/objectassign-co-the-lam-nhung-gi-voi-object-javascript-PPqgJNrs
 https://anonystick.com/blog-developer/su-khac-nhau-giua-authentication-va-authorization-KAcMD6ba
 https://anonystick.com/blog-developer/5-cach-de-thuc-hien-cac-yeu-cau-http-http-request-trong-nodejs-DoAYfVbr
+
+====================================== DONE ======================================
+
 https://anonystick.com/blog-developer/firebase-huong-dan-login-bang-tai-khoan-google-facebook-su-dung-firebase-tren-website-g67mjfqq
 https://anonystick.com/blog-developer/khi-nao-nen-su-dung-firebase-CfbXzrBy
 https://anonystick.com/blog-developer/share-huong-dan-tao-ssh-key-cho-vps-bao-mat-an-toan-bv172ET0
 https://anonystick.com/blog-developer/hien-thi-su-kien-user-is-writing-or-typing-trong-ung-dung-chat-voi-firebase-SzpENc0O
 https://anonystick.com/blog-developer/nhung-tinh-nang-javascript-hien-dai-nen-su-dung-hang-ngay-de-giai-quyet-totp2-S5elcQ86
 https://anonystick.com/blog-developer/nhung-tinh-nang-javascript-hien-dai-nen-su-dung-hang-ngay-de-giai-quyet-totp1-QMZGjW8A
+
+==================================================================================
