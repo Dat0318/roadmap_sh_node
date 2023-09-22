@@ -17,6 +17,12 @@ const urlParams = new URLSearchParams(window.location.search),
 window.location.href = window.location.href.replace(page - 1, page);
 ```
 
+================================DOCUMENT=====================================
+
+https://anonystick.com/blog-developer/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q
+
+=====================================================================
+
 https://anonystick.com/blog-developer/10-loi-javascript-pho-bien-uncaught-typeerror-cannot-read-property-2023040139774504
 https://anonystick.com/blog-developer/8-sai-lam-can-tranh-khi-la-mot-lap-trinh-vien-2020100350575
 https://anonystick.com/blog-developer/api-la-gi-giai-thich-cho-vo-nen-khong-the-dai-dong-top-cau-hoi-phong-van-backend-2022082216184254
@@ -591,6 +597,31 @@ https://anonystick.com/blog-developer/higher-order-functions-in-javascript-20190
 https://anonystick.com/blog-developer/javascript-currying-in-javascript-2019050935248071
 https://anonystick.com/blog-developer/9-meo-huu-ich-de-viet-javascript-ngan-gon-va-hieu-qua-hon-201905083721570
 
+```
+https://anonystick.com/blog-developer/33-concepts-ma-moi-developer-javascript-deu-phai-biet-201905073796713
+https://anonystick.com/blog-developer/7-thu-thuat-javascript-huu-ich-2019050237405473
+https://anonystick.com/blog-developer/apache-php-fpm-va-nginx-php-fpm-2020042497996504
+https://anonystick.com/blog-developer/biet-roi-kho-lam-noi-mai-class-es6-nhung-su-that-van-chua-biet-2019042520823808
+https://anonystick.com/blog-developer/defer-va-async-hieu-qua-khi-load-javascript-2019050164359113
+https://anonystick.com/blog-developer/developer-javascript-nen-dung-lai-forin-ngay-bay-gio-2019042725015209
+https://anonystick.com/blog-developer/event-loop-javascript-cung-giong-nhu-mot-nha-hang-pizza-20190503441197
+https://anonystick.com/blog-developer/golobal-const-va-objectfreeze-trong-javascript-2019042650544299
+https://anonystick.com/blog-developer/handbook-bi-kip-hoc-javascript-tu-begin-den-master-2019042290753541
+https://anonystick.com/blog-developer/javascript-developer-hon-nhau-o-performance-201904308748112
+https://anonystick.com/blog-developer/javascript-developer-hon-nhau-o-performance-201904308748112
+https://anonystick.com/blog-developer/khi-nao-ban-bat-kha-chien-bai-2021083042201385
+https://anonystick.com/blog-developer/lo-trinh-hoc-tap-javacsript-den-reactjs-2019050482101853
+https://anonystick.com/blog-developer/series-callback-javascript-asynchronous-javascript-cheatsheet-2019042430245802
+https://anonystick.com/blog-developer/series-es6-vs-react-lam-ro-ve-es6-va-react-native-phan-1-2019041762302290
+https://anonystick.com/blog-developer/series-es6-vs-react-lam-ro-ve-es6-va-react-native-phan-2-2019041899849698
+https://anonystick.com/blog-developer/tai-sao-su-dung-trong-javascript-de-so-sanh-2019050339279652
+https://anonystick.com/blog-developer/tu-hoc-javascript-truong-hop-nao-su-dung-map-filter-reduce-trong-javascript-zzlYN6YR.jsx
+https://anonystick.com/blog-developer/unit-test-la-gi-gioi-thieu-ve-unit-test-va-vi-du-2019050676625622
+https://anonystick.com/blog-developer/vi-sao-coder-khong-hai-long-toan-tu-thay-vao-do-la-toan-tu-2020101987302679
+https://api-myvingroup.cloudvst.net/dev/v1/app/backend/swagger/index.html
+
+```
+
 ====================================== DONE ======================================
 
 https://anonystick.com/blog-developer/khi-nao-ban-bat-kha-chien-bai-2021083042201385
@@ -622,7 +653,6 @@ https://anonystick.com/blog-developer/begin-javascript-hieu-ro-splice-split-va-s
 https://anonystick.com/blog-developer/falsy-values-javascript-la-gi-cach-remove-falsy-values-trong-array-javascript-2019041587287077
 https://anonystick.com/blog-developer/troi-sinh-ra-for-loop-sao-con-sinh-arrayforeach-trong-javascript-201904139453960
 https://anonystick.com/blog-developer/javascript-reduce-nang-cao-arrayprototypereduce-tutorial-2019041273772614
-https://anonystick.com/blog-developer/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q
 
 https://anonystick.com/blog-developer/ban-co-that-su-hieu-ve-stack-va-queue-trong-cau-truc-du-lieu-javascript-He0OW1R4
 https://anonystick.com/blog-developer/javascript-converting-from-text-to-speech-with-javascript-doc-sach-online-ch1vzywp
