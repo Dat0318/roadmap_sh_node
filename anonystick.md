@@ -574,6 +574,8 @@ https://anonystick.com/blog-developer/javascript-es6-multiple-inheritance-class-
 https://anonystick.com/blog-developer/authorization-framework-access-token-refresh-token-cung-giong-viec-sinh-vien-thue-nha-tro-2019061161976500
 https://anonystick.com/blog-developer/json-web-token-van-de-xac-thuc-rest-api-voi-jwtjson-web-token-201906074991365
 https://anonystick.com/blog-developer/firebase-phan-1-van-de-xac-thuc-firebase-voi-custom-token-2019060582746819
+
+```
 https://anonystick.com/blog-developer/ban-luan-vo-lam-cao-thu-full-stack-developer-2019060486274207
 https://anonystick.com/blog-developer/object-into-query-string-parameters-in-javascript-2019060313027795
 https://anonystick.com/blog-developer/async-await-error-handling-in-express-2019053123997894
@@ -596,25 +598,6 @@ https://anonystick.com/blog-developer/three-dots-in-javascript-2019051161037664
 https://anonystick.com/blog-developer/higher-order-functions-in-javascript-201905107183914
 https://anonystick.com/blog-developer/javascript-currying-in-javascript-2019050935248071
 https://anonystick.com/blog-developer/9-meo-huu-ich-de-viet-javascript-ngan-gon-va-hieu-qua-hon-201905083721570
-
-```
-https://anonystick.com/blog-developer/33-concepts-ma-moi-developer-javascript-deu-phai-biet-201905073796713
-https://anonystick.com/blog-developer/7-thu-thuat-javascript-huu-ich-2019050237405473
-https://anonystick.com/blog-developer/apache-php-fpm-va-nginx-php-fpm-2020042497996504
-https://anonystick.com/blog-developer/defer-va-async-hieu-qua-khi-load-javascript-2019050164359113
-https://anonystick.com/blog-developer/developer-javascript-nen-dung-lai-forin-ngay-bay-gio-2019042725015209
-https://anonystick.com/blog-developer/event-loop-javascript-cung-giong-nhu-mot-nha-hang-pizza-20190503441197
-https://anonystick.com/blog-developer/golobal-const-va-objectfreeze-trong-javascript-2019042650544299
-https://anonystick.com/blog-developer/handbook-bi-kip-hoc-javascript-tu-begin-den-master-2019042290753541
-https://anonystick.com/blog-developer/javascript-developer-hon-nhau-o-performance-201904308748112
-https://anonystick.com/blog-developer/javascript-developer-hon-nhau-o-performance-201904308748112
-https://anonystick.com/blog-developer/khi-nao-ban-bat-kha-chien-bai-2021083042201385
-https://anonystick.com/blog-developer/lo-trinh-hoc-tap-javacsript-den-reactjs-2019050482101853
-https://anonystick.com/blog-developer/series-es6-vs-react-lam-ro-ve-es6-va-react-native-phan-1-2019041762302290
-https://anonystick.com/blog-developer/series-es6-vs-react-lam-ro-ve-es6-va-react-native-phan-2-2019041899849698
-https://anonystick.com/blog-developer/tai-sao-su-dung-trong-javascript-de-so-sanh-2019050339279652
-https://anonystick.com/blog-developer/unit-test-la-gi-gioi-thieu-ve-unit-test-va-vi-du-2019050676625622
-https://anonystick.com/blog-developer/vi-sao-coder-khong-hai-long-toan-tu-thay-vao-do-la-toan-tu-2020101987302679
 
 ```
 
@@ -685,3 +668,7 @@ https://anonystick.com/blog-developer/nhung-tinh-nang-javascript-hien-dai-nen-su
 https://anonystick.com/blog-developer/nhung-tinh-nang-javascript-hien-dai-nen-su-dung-hang-ngay-de-giai-quyet-totp1-QMZGjW8A
 
 ==================================================================================
+
+```
+
+```
