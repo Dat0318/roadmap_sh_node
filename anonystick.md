@@ -528,6 +528,9 @@ https://anonystick.com/blog-developer/tong-hop-tinh-nang-javascript-moi-nhat-ke-
 https://anonystick.com/blog-developer/de-quy-va-lap-lai-ban-ve-thuat-tuan-2019120582693652
 https://anonystick.com/blog-developer/string-to-array-javascript-2019120445495310
 https://anonystick.com/blog-developer/javascript-performance-remove-duplicates-from-an-array-2019120456897622
+
+```
+
 https://anonystick.com/blog-developer/hot-hot-hot-new-feature-javascript-cap-nhat-tinh-nang-moi-cua-javascript-2019120231611356
 https://anonystick.com/blog-developer/hoc-lap-trinh-web-10-skills-giup-ban-tu-zero-toi-hero-2019120138547112
 https://anonystick.com/blog-developer/javascript-object-array-when-to-use-array-and-use-object-in-javascript-2019113015490357
@@ -553,6 +556,10 @@ https://anonystick.com/blog-developer/demo-upload-image-nodejs-tips-nodejs-20190
 https://anonystick.com/blog-developer/tips-and-tricks-javascript-lam-the-nao-de-add-event-listener-multiple-elements-trong-javascript-2019082116857432
 https://anonystick.com/blog-developer/tips-javascript-truong-hop-nao-nen-su-dung-call-apply-va-bind-trong-javascript-2019080755001386
 
+```
+
+====================================== DONE ======================================
+
 https://anonystick.com/blog-developer/cach-tot-nhat-de-dong-bo-hoa-mysql-voi-elasticsearch-es-ok-day-2023062789019756
 https://anonystick.com/blog-developer/3-cach-update-phien-ban-nodejs-moi-nhat-tren-may-mac-2021110935384155
 https://anonystick.com/blog-developer/developer-javascript-nen-dung-lai-forin-ngay-bay-gio-2019042725015209
@@ -574,8 +581,6 @@ https://anonystick.com/blog-developer/javascript-es6-multiple-inheritance-class-
 https://anonystick.com/blog-developer/authorization-framework-access-token-refresh-token-cung-giong-viec-sinh-vien-thue-nha-tro-2019061161976500
 https://anonystick.com/blog-developer/json-web-token-van-de-xac-thuc-rest-api-voi-jwtjson-web-token-201906074991365
 https://anonystick.com/blog-developer/firebase-phan-1-van-de-xac-thuc-firebase-voi-custom-token-2019060582746819
-
-```
 https://anonystick.com/blog-developer/ban-luan-vo-lam-cao-thu-full-stack-developer-2019060486274207
 https://anonystick.com/blog-developer/object-into-query-string-parameters-in-javascript-2019060313027795
 https://anonystick.com/blog-developer/async-await-error-handling-in-express-2019053123997894
@@ -598,10 +603,6 @@ https://anonystick.com/blog-developer/three-dots-in-javascript-2019051161037664
 https://anonystick.com/blog-developer/higher-order-functions-in-javascript-201905107183914
 https://anonystick.com/blog-developer/javascript-currying-in-javascript-2019050935248071
 https://anonystick.com/blog-developer/9-meo-huu-ich-de-viet-javascript-ngan-gon-va-hieu-qua-hon-201905083721570
-
-```
-
-====================================== DONE ======================================
 
 https://anonystick.com/blog-developer/khi-nao-ban-bat-kha-chien-bai-2021083042201385
 https://anonystick.com/blog-developer/vi-sao-coder-khong-hai-long-toan-tu-thay-vao-do-la-toan-tu-2020101987302679
