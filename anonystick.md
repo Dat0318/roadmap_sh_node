@@ -465,6 +465,8 @@ https://anonystick.com/blog-developer/tips-dinh-dang-tien-te-trong-javascript-20
 https://anonystick.com/blog-developer/tips-mathrandom-in-javascript-2020042458103007
 https://anonystick.com/blog-developer/filter-javascript-2020042373307853
 
+```
+
 https://anonystick.com/blog-developer/huong-dan-su-dung-git-co-le-day-la-bai-viet-tam-dac-nhat-2021030243756837
 https://anonystick.com/blog-developer/cau-truc-du-lieu-va-thuat-toan-chi-xem-xet-2-do-phuc-tap-chu-yeu-khi-hoc-2020121716393680
 https://anonystick.com/blog-developer/nhung-websites-bat-ky-lap-trinh-vien-nao-deu-phai-ghe-tham-2020051117738433
@@ -487,6 +489,8 @@ https://anonystick.com/blog-developer/de-tai-build-mot-blog-chat-su-dung-nodejs-
 https://anonystick.com/blog-developer/load-a-javascript-file-dynamically-2020041412972929
 
 ```
+
+====================================== DONE ======================================
 
 https://anonystick.com/blog-developer/how-can-i-deep-freeze-an-object-in-javascript-2020041412698143
 https://anonystick.com/blog-developer/su-khac-biet-giua-forin-forof-and-foreach-trong-javascript-2020041337746860
@@ -511,10 +515,6 @@ https://anonystick.com/blog-developer/axios-vs-fetch-2020-nen-su-dung-thang-nao-
 https://anonystick.com/blog-developer/array-javascript-4-tinh-nang-moi-nhat-bao-gom-limit-skip-distinct-2019123126442943
 https://anonystick.com/blog-developer/thu-ket-hop-async-await-voi-promise-javascript-va-cai-ket-bat-ngo-2019123065290564
 https://anonystick.com/blog-developer/troi-sinh-ra-var-sao-con-sinh-ra-let-va-const-javascript-2019122884060190
-
-```
-
-====================================== DONE ======================================
 
 https://anonystick.com/blog-developer/cach-tim-viec-ma-khong-can-kinh-nghiem-doi-voi-lap-trinh-vien-2020122118437491
 https://anonystick.com/blog-developer/mot-vai-meo-thuc-te-de-viet-javascript-trong-ngay-le-doc-than-cho-may-che-dev-2020111325362738
