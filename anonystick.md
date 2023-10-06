@@ -377,6 +377,8 @@ https://anonystick.com/blog-developer/transaction-la-gi-thuc-hanh-tren-mongodb-4
 https://anonystick.com/blog-developer/toi-co-kinh-nghiem-trong-he-thong-bao-mat-he-thong-no-cho-to-vao-ban-co-xau-ho-khong-2020091923762275
 https://anonystick.com/blog-developer/momentjs-thong-bao-rang-no-da-ngung-phat-trien-chung-ta-nen-su-dung-gi-bay-gio-2020091838137215
 
+```
+
 https://anonystick.com/blog-developer/trien-khai-oauth-voi-nodejs-va-github-2021051555423600
 https://anonystick.com/blog-developer/firebase-la-gi-tips-and-tricks-firebase-2020052675125066
 https://anonystick.com/blog-developer/javascript-currying-in-javascript-2019050935248071
@@ -398,6 +400,7 @@ https://anonystick.com/blog-developer/array-va-array-of-objects-voi-10-tinh-huon
 https://anonystick.com/blog-developer/su-dung-axios-interceptors-lam-moi-token-voi-refresh-token-trong-jwt-2020071757634479
 https://anonystick.com/blog-developer/json-web-token-jwt-thuc-hanh-su-dung-refresh-token-khi-token-het-han-voi-nodejs-va-express-js-2020071649665528
 https://anonystick.com/blog-developer/15-ky-thuat-lap-trinh-javascript-de-doc-de-hieu-va-de-bao-tri-2020071598069441
+
 https://anonystick.com/blog-developer/array-javascript-hoc-ky-nang-xu-ly-thong-qua-nguoi-ban-sau-rieng-202007143964230
 https://anonystick.com/blog-developer/45-hinh-dang-cua-css-dang-hoc-hoi-2020071188573120
 https://anonystick.com/blog-developer/ky-nang-xu-ly-chuoi-trong-javascript-2020071027567798
@@ -420,6 +423,10 @@ https://anonystick.com/blog-developer/kiem-tra-object-rong-javascript-voi-6-cach
 https://anonystick.com/blog-developer/elasticsearch-la-gi-mo-hinh-dac-diem-va-cai-dat-elasticsearch-2020060249015172
 https://anonystick.com/blog-developer/web-scraping-la-gi-4-cach-hoc-web-scraping-voi-javascript-va-nodejs-2020060276215559
 https://anonystick.com/blog-developer/es2020-dynamic-import-2020053099458793
+
+```
+
+====================================== DONE ======================================
 
 https://anonystick.com/blog-developer/trien-khai-xac-thuc-facebook-and-google-su-dung-passport-trong-nodejs-2023010536463254
 https://anonystick.com/blog-developer/kiem-10-ty-vnd-moi-nam-dua-vao-bai-toan-ruoi-chuot-tho-huou-va-voi-202107148325227
@@ -465,8 +472,6 @@ https://anonystick.com/blog-developer/tips-dinh-dang-tien-te-trong-javascript-20
 https://anonystick.com/blog-developer/tips-mathrandom-in-javascript-2020042458103007
 https://anonystick.com/blog-developer/filter-javascript-2020042373307853
 
-```
-
 https://anonystick.com/blog-developer/huong-dan-su-dung-git-co-le-day-la-bai-viet-tam-dac-nhat-2021030243756837
 https://anonystick.com/blog-developer/cau-truc-du-lieu-va-thuat-toan-chi-xem-xet-2-do-phuc-tap-chu-yeu-khi-hoc-2020121716393680
 https://anonystick.com/blog-developer/nhung-websites-bat-ky-lap-trinh-vien-nao-deu-phai-ghe-tham-2020051117738433
@@ -487,11 +492,6 @@ https://anonystick.com/blog-developer/build-project-part-2-vi-sao-lai-phat-trien
 https://anonystick.com/blog-developer/build-project-part-1-vi-sao-moi-developer-nen-co-mot-blog-2020041699661056
 https://anonystick.com/blog-developer/de-tai-build-mot-blog-chat-su-dung-nodejs-expressjs-mongodb-firebase-2020041522880531
 https://anonystick.com/blog-developer/load-a-javascript-file-dynamically-2020041412972929
-
-```
-
-====================================== DONE ======================================
-
 https://anonystick.com/blog-developer/how-can-i-deep-freeze-an-object-in-javascript-2020041412698143
 https://anonystick.com/blog-developer/su-khac-biet-giua-forin-forof-and-foreach-trong-javascript-2020041337746860
 https://anonystick.com/blog-developer/memoization-code-performance-202004125810810
