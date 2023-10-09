@@ -401,29 +401,6 @@ https://anonystick.com/blog-developer/su-dung-axios-interceptors-lam-moi-token-v
 https://anonystick.com/blog-developer/json-web-token-jwt-thuc-hanh-su-dung-refresh-token-khi-token-het-han-voi-nodejs-va-express-js-2020071649665528
 https://anonystick.com/blog-developer/15-ky-thuat-lap-trinh-javascript-de-doc-de-hieu-va-de-bao-tri-2020071598069441
 
-https://anonystick.com/blog-developer/array-javascript-hoc-ky-nang-xu-ly-thong-qua-nguoi-ban-sau-rieng-202007143964230
-https://anonystick.com/blog-developer/45-hinh-dang-cua-css-dang-hoc-hoi-2020071188573120
-https://anonystick.com/blog-developer/ky-nang-xu-ly-chuoi-trong-javascript-2020071027567798
-https://anonystick.com/blog-developer/hoc-javascript-va-nhung-nguyen-tac-chung-cho-moi-level-2020070989545462
-https://anonystick.com/blog-developer/prototype-la-gi-lap-trinh-huong-doi-tuong-oop-trong-javascript-2020070686855915
-https://anonystick.com/blog-developer/ket-thuc-cuoc-phieu-luu-cua-redis-salvatore-sanfilippo-bai-hoc-rut-ra-cung-giong-nhu-flappy-bird-nguyen-ha-dong-2020070473722485
-https://anonystick.com/blog-developer/dung-hoc-ve-function-javascript-cho-den-khi-ban-duoc-duoc-8-cach-viet-nay-202007033423258
-https://anonystick.com/blog-developer/momentjs-tutorial-2020063054732048
-https://anonystick.com/blog-developer/load-balancer-neu-ban-khong-hieu-khong-sao-nhung-neu-ban-la-mot-ky-su-thi-khong-the-khong-hieu-202006243445464
-https://anonystick.com/blog-developer/es6-features-2020062289782376
-https://anonystick.com/blog-developer/25-truong-hop-su-dung-reduce-javascript-2020062089156060
-https://anonystick.com/blog-developer/http-la-gi-https-la-gi-su-khac-biet-giua-https-va-http-2020061880811522
-https://anonystick.com/blog-developer/uuid-la-gi-cach-tao-uuid-voi-javascript-chi-voi-6-dong-code-202006136705500
-https://anonystick.com/blog-developer/su-dung-javascript-truy-cap-camera-sau-truoc-va-chup-man-minh-thiet-bi-di-dong-2020061162339379
-https://anonystick.com/blog-developer/map-va-set-trong-es6-2020061046824479
-https://anonystick.com/blog-developer/refresh-token-la-gi-cach-hoat-dong-co-khac-gi-so-voi-token-khong-202006067903464
-https://anonystick.com/blog-developer/that-nuc-cuoi-khi-noi-ve-settimeout-2020060588139849
-https://anonystick.com/blog-developer/14-cach-copy-array-trong-javascript-2020060454458739
-https://anonystick.com/blog-developer/kiem-tra-object-rong-javascript-voi-6-cach-2020060387213333
-https://anonystick.com/blog-developer/elasticsearch-la-gi-mo-hinh-dac-diem-va-cai-dat-elasticsearch-2020060249015172
-https://anonystick.com/blog-developer/web-scraping-la-gi-4-cach-hoc-web-scraping-voi-javascript-va-nodejs-2020060276215559
-https://anonystick.com/blog-developer/es2020-dynamic-import-2020053099458793
-
 ```
 
 ====================================== DONE ======================================
