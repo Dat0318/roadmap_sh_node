@@ -19,6 +19,7 @@ window.location.href = window.location.href.replace(page - 1, page);
 
 ================================DOCUMENT=====================================
 
+https://anonystick.com/tag/nodejs
 https://anonystick.com/blog-developer/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q
 
 =====================================================================
@@ -333,6 +334,8 @@ https://anonystick.com/blog-developer/promise-javascript-nhau-binh-dan-va-an-ga-
 https://anonystick.com/blog-developer/thu-vien-javascript-bi-kip-co-mot-website-nhanh-va-dep-2020120227217525
 https://anonystick.com/blog-developer/backup-mongodb-voi-mongodump-trong-ubuntu-2020120265846158
 
+```
+
 https://anonystick.com/blog-developer/lap-trinh-vien-khi-say-roi-hoi-han-2021070619506384
 https://anonystick.com/blog-developer/promise-allsettled-vs-promise-all-2020042924636668
 https://anonystick.com/blog-developer/converting-callbacks-to-promises-2019100423712485
@@ -355,6 +358,7 @@ https://anonystick.com/blog-developer/co-che-muon-xe-vinfast-thong-qua-singleton
 https://anonystick.com/blog-developer/phan-2-factory-pattern-cach-ma-toi-trien-khai-trong-nha-may-vinfast-fresher-va-junior-nen-bo-qua-phan-3-2020110554662242
 https://anonystick.com/blog-developer/cac-tinh-nang-moi-cua-javascript-es12-es2021-nen-chu-y-tinh-nang-thu-3-vi-no-rat-quan-trong-2020110497151038
 https://anonystick.com/blog-developer/9-mau-thiet-ke-ma-moi-lap-trinh-vien-deu-phai-biet-phan-1-builder-pattern-2020103194916615
+
 https://anonystick.com/blog-developer/trien-khai-notes-app-trong-javascript-kem-theo-source-code-2020103093491711
 https://anonystick.com/blog-developer/cookiestore-la-gi-tao-sao-no-lai-thay-the-documentcookie-ke-tu-phien-ban-chrome-87-2020103067936008
 https://anonystick.com/blog-developer/tro-thanh-lap-trinh-vien-theo-lo-trinh-hot-nhat-the-gioi-dung-bo-qua-tai-nguyen-nay-202010299426233
@@ -379,6 +383,8 @@ https://anonystick.com/blog-developer/momentjs-thong-bao-rang-no-da-ngung-phat-t
 
 ```
 
+====================================== DONE ======================================
+
 https://anonystick.com/blog-developer/trien-khai-oauth-voi-nodejs-va-github-2021051555423600
 https://anonystick.com/blog-developer/firebase-la-gi-tips-and-tricks-firebase-2020052675125066
 https://anonystick.com/blog-developer/javascript-currying-in-javascript-2019050935248071
@@ -400,11 +406,6 @@ https://anonystick.com/blog-developer/array-va-array-of-objects-voi-10-tinh-huon
 https://anonystick.com/blog-developer/su-dung-axios-interceptors-lam-moi-token-voi-refresh-token-trong-jwt-2020071757634479
 https://anonystick.com/blog-developer/json-web-token-jwt-thuc-hanh-su-dung-refresh-token-khi-token-het-han-voi-nodejs-va-express-js-2020071649665528
 https://anonystick.com/blog-developer/15-ky-thuat-lap-trinh-javascript-de-doc-de-hieu-va-de-bao-tri-2020071598069441
-
-```
-
-====================================== DONE ======================================
-
 https://anonystick.com/blog-developer/trien-khai-xac-thuc-facebook-and-google-su-dung-passport-trong-nodejs-2023010536463254
 https://anonystick.com/blog-developer/kiem-10-ty-vnd-moi-nam-dua-vao-bai-toan-ruoi-chuot-tho-huou-va-voi-202107148325227
 https://anonystick.com/blog-developer/de-tra-loi-cau-hoi-nay-thi-nghien-cuu-5-cap-doi-voi-nghe-lap-trinh-vien-2021022387476451
