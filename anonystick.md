@@ -19,6 +19,7 @@ window.location.href = window.location.href.replace(page - 1, page);
 
 ================================DOCUMENT=====================================
 
+https://anonystick.com/tag/es6
 https://anonystick.com/tag/nodejs
 https://anonystick.com/blog-developer/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q
 
