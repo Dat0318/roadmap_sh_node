@@ -360,6 +360,10 @@ https://anonystick.com/blog-developer/phan-2-factory-pattern-cach-ma-toi-trien-k
 https://anonystick.com/blog-developer/cac-tinh-nang-moi-cua-javascript-es12-es2021-nen-chu-y-tinh-nang-thu-3-vi-no-rat-quan-trong-2020110497151038
 https://anonystick.com/blog-developer/9-mau-thiet-ke-ma-moi-lap-trinh-vien-deu-phai-biet-phan-1-builder-pattern-2020103194916615
 
+```
+
+====================================== DONE ======================================
+
 https://anonystick.com/blog-developer/trien-khai-notes-app-trong-javascript-kem-theo-source-code-2020103093491711
 https://anonystick.com/blog-developer/cookiestore-la-gi-tao-sao-no-lai-thay-the-documentcookie-ke-tu-phien-ban-chrome-87-2020103067936008
 https://anonystick.com/blog-developer/tro-thanh-lap-trinh-vien-theo-lo-trinh-hot-nhat-the-gioi-dung-bo-qua-tai-nguyen-nay-202010299426233
@@ -381,10 +385,6 @@ https://anonystick.com/blog-developer/kinh-nghiem-hoc-lap-trinh-toi-ghe-tham-cod
 https://anonystick.com/blog-developer/transaction-la-gi-thuc-hanh-tren-mongodb-40-don-gian-va-de-hieu-2020092343741446
 https://anonystick.com/blog-developer/toi-co-kinh-nghiem-trong-he-thong-bao-mat-he-thong-no-cho-to-vao-ban-co-xau-ho-khong-2020091923762275
 https://anonystick.com/blog-developer/momentjs-thong-bao-rang-no-da-ngung-phat-trien-chung-ta-nen-su-dung-gi-bay-gio-2020091838137215
-
-```
-
-====================================== DONE ======================================
 
 https://anonystick.com/blog-developer/trien-khai-oauth-voi-nodejs-va-github-2021051555423600
 https://anonystick.com/blog-developer/firebase-la-gi-tips-and-tricks-firebase-2020052675125066
