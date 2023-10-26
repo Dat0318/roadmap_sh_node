@@ -21,13 +21,14 @@ window.location.href = window.location.href.replace(page - 1, page);
 
 https://youtu.be/dCr9Rctt74I
 https://youtu.be/tGwx3d8yuTI
+https://anonystick.com/labs
 https://anonystick.com/tag/es6
+https://anonystick.com/tag/tipjs
 https://anonystick.com/tag/token
 https://anonystick.com/tag/nodejs
 https://anonystick.com/tag/fresher
-https://anonystick.com/blog-developer/
 https://anonystick.com/tag/promise
-document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q
+https://anonystick.com/blog-developer/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q
 
 =====================================================================
 
@@ -283,6 +284,9 @@ https://anonystick.com/blog-developer/xay-dung-mot-website-nhu-devto-su-dung-rea
 https://anonystick.com/blog-developer/install-rabbitmq-docker-macos-2021031251028855
 https://anonystick.com/blog-developer/message-queue-da-giup-toi-thoat-khoi-canh-duoi-viec-the-nao-2021031142311857
 https://anonystick.com/blog-developer/sap-bi-duoi-viec-vi-he-thong-cham-lay-shopee-lam-vi-du-2021031136614239
+
+```
+
 https://anonystick.com/blog-developer/pipeline-operator-chinh-la-1-trong-5-tinh-nang-nen-hoc-trong-javascript-2021030960400289
 https://anonystick.com/blog-developer/tai-sao-clubhouse-lai-noi-tieng-den-vay-2021030627516767
 https://anonystick.com/blog-developer/objectis-no-rat-hay-nhung-it-dev-biet-den-2021030642716262
@@ -296,7 +300,6 @@ https://anonystick.com/blog-developer/khong-hieu-cach-hoat-dong-three-dots-bai-v
 https://anonystick.com/blog-developer/bi-mat-duy-nhat-cua-sieu-sao-lap-trinh-2021022285996552
 https://anonystick.com/blog-developer/lam-sao-de-phan-biet-duoc-trinh-do-cua-mot-lap-trinh-vien-2021022125544373
 https://anonystick.com/blog-developer/xem-qua-thong-ke-2020-ban-biet-ban-nen-hoc-ngon-ngu-gi-dung-bo-qua-2021022025783273
-
 https://anonystick.com/blog-developer/tiet-kiem-den-32-khi-ban-bat-dau-hoc-nodejs-2021071017310838
 https://anonystick.com/blog-developer/phan-quyen-trong-nodejs-expressjs-qua-vi-du-cu-the-kem-source-code-2021031724558029
 https://anonystick.com/blog-developer/ban-co-that-su-hieu-ve-stack-va-queue-trong-cau-truc-du-lieu-javascript-He0OW1R4
@@ -314,6 +317,8 @@ https://anonystick.com/blog-developer/websocket-thuc-hanh-chi-tiet-2021011512994
 https://anonystick.com/blog-developer/websocket-hay-noi-nhung-gi-ban-biet-ve-no-2021011447694405
 
 ```
+
+====================================== DONE ======================================
 
 https://anonystick.com/blog-developer/fireworks-javascript-nam-moi-sap-den-hay-de-trang-web-cua-ban-ban-phao-hoa-voi-js-202101137688577
 https://anonystick.com/blog-developer/convert-array-to-json-object-javascript-2021011132880722
@@ -343,10 +348,6 @@ https://anonystick.com/blog-developer/cau-truc-du-lieu-va-thuat-toan-vui-long-bo
 https://anonystick.com/blog-developer/promise-javascript-nhau-binh-dan-va-an-ga-ran-kfc-2020120830968841
 https://anonystick.com/blog-developer/thu-vien-javascript-bi-kip-co-mot-website-nhanh-va-dep-2020120227217525
 https://anonystick.com/blog-developer/backup-mongodb-voi-mongodump-trong-ubuntu-2020120265846158
-
-```
-
-====================================== DONE ======================================
 https://anonystick.com/blog-developer/lap-trinh-vien-khi-say-roi-hoi-han-2021070619506384
 https://anonystick.com/blog-developer/promise-allsettled-vs-promise-all-2020042924636668
 https://anonystick.com/blog-developer/converting-callbacks-to-promises-2019100423712485
