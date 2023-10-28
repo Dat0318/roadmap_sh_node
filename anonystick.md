@@ -30,6 +30,7 @@ https://anonystick.com/tag/fresher
 https://anonystick.com/tag/promise
 https://anonystick.com/tag/async-await
 https://anonystick.com/tag/data%20structures%20and%20algorithms
+https://anonystick.com/tag/kinh_nghi%E1%BB%87m_l%E1%BA%ADp_tr%C3%ACnh
 https://anonystick.com/blog-developer/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q
 
 =====================================================================
