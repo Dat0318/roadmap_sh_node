@@ -28,6 +28,8 @@ https://anonystick.com/tag/token
 https://anonystick.com/tag/nodejs
 https://anonystick.com/tag/fresher
 https://anonystick.com/tag/promise
+https://anonystick.com/tag/async-await
+https://anonystick.com/tag/data%20structures%20and%20algorithms
 https://anonystick.com/blog-developer/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q
 
 =====================================================================
@@ -228,6 +230,7 @@ https://anonystick.com/blog-developer/express-session-xuat-hien-loi-nhung-khong-
 https://anonystick.com/blog-developer/tranh-cai-ve-su-dung-javascript-shorthand-va-longhand-tren-reddit-2021050831556799
 https://anonystick.com/blog-developer/push-notifications-hom-nay-no-lam-ca-doi-suy-sup-2021050613547259
 https://anonystick.com/blog-developer/tensorflow-la-gi-voi-vi-du-nay-toi-nghi-toi-se-khong-theo-kip-2021050392568088
+
 https://anonystick.com/blog-developer/tooltip-bootstrap-khac-gi-dung-dao-mo-trau-giet-ga-202105039904682
 https://anonystick.com/blog-developer/http-status-codes-2021042951971231
 https://anonystick.com/blog-developer/resful-api-bi-loi-lien-tuc-ban-lam-gi-de-lam-hai-long-client-2021042984926404
@@ -253,6 +256,8 @@ https://anonystick.com/blog-developer/project-express-va-nodejs-co-kien-truc-tot
 https://anonystick.com/blog-developer/meo-javascript-random-password-generator-202104099221973
 https://anonystick.com/blog-developer/meo-javascript-tinh-thoi-gian-doc-mot-bai-bao-2021040830011235
 https://anonystick.com/blog-developer/hieu-ve-mongodb-wiredtiger-2021040847878006
+
+```
 
 https://anonystick.com/blog-developer/jquery-den-luc-quen-roi-web-api-support-kieu-nay-thi-thoi-roi-2021042221703265
 https://anonystick.com/blog-developer/su-khac-biet-giua-forin-forof-and-foreach-trong-javascript-2020041337746860
@@ -287,6 +292,8 @@ https://anonystick.com/blog-developer/sap-bi-duoi-viec-vi-he-thong-cham-lay-shop
 
 ```
 
+====================================== DONE ======================================
+
 https://anonystick.com/blog-developer/pipeline-operator-chinh-la-1-trong-5-tinh-nang-nen-hoc-trong-javascript-2021030960400289
 https://anonystick.com/blog-developer/tai-sao-clubhouse-lai-noi-tieng-den-vay-2021030627516767
 https://anonystick.com/blog-developer/objectis-no-rat-hay-nhung-it-dev-biet-den-2021030642716262
@@ -315,11 +322,6 @@ https://anonystick.com/blog-developer/voi-10-cau-hoi-dau-tien-trong-44-bai-toan-
 https://anonystick.com/blog-developer/arrayatindex-phuong-phap-mang-moi-ma-ban-se-thich-2021011698326040
 https://anonystick.com/blog-developer/websocket-thuc-hanh-chi-tiet-2021011512994571
 https://anonystick.com/blog-developer/websocket-hay-noi-nhung-gi-ban-biet-ve-no-2021011447694405
-
-```
-
-====================================== DONE ======================================
-
 https://anonystick.com/blog-developer/fireworks-javascript-nam-moi-sap-den-hay-de-trang-web-cua-ban-ban-phao-hoa-voi-js-202101137688577
 https://anonystick.com/blog-developer/convert-array-to-json-object-javascript-2021011132880722
 https://anonystick.com/blog-developer/find-with-like-mongoose-2021010974190082
