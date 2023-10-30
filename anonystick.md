@@ -28,10 +28,13 @@ https://anonystick.com/tag/token
 https://anonystick.com/tag/nodejs
 https://anonystick.com/tag/fresher
 https://anonystick.com/tag/promise
+https://anonystick.com/tag/seriesfree
 https://anonystick.com/tag/async-await
 https://anonystick.com/tag/data%20structures%20and%20algorithms
 https://anonystick.com/tag/kinh_nghi%E1%BB%87m_l%E1%BA%ADp_tr%C3%ACnh
 https://anonystick.com/blog-developer/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q
+
+https://www.facebook.com/groups/mongodb.vietnam
 
 =====================================================================
 
@@ -232,6 +235,8 @@ https://anonystick.com/blog-developer/tranh-cai-ve-su-dung-javascript-shorthand-
 https://anonystick.com/blog-developer/push-notifications-hom-nay-no-lam-ca-doi-suy-sup-2021050613547259
 https://anonystick.com/blog-developer/tensorflow-la-gi-voi-vi-du-nay-toi-nghi-toi-se-khong-theo-kip-2021050392568088
 
+```
+
 https://anonystick.com/blog-developer/tooltip-bootstrap-khac-gi-dung-dao-mo-trau-giet-ga-202105039904682
 https://anonystick.com/blog-developer/http-status-codes-2021042951971231
 https://anonystick.com/blog-developer/resful-api-bi-loi-lien-tuc-ban-lam-gi-de-lam-hai-long-client-2021042984926404
@@ -259,6 +264,8 @@ https://anonystick.com/blog-developer/meo-javascript-tinh-thoi-gian-doc-mot-bai-
 https://anonystick.com/blog-developer/hieu-ve-mongodb-wiredtiger-2021040847878006
 
 ```
+
+====================================== DONE ======================================
 
 https://anonystick.com/blog-developer/jquery-den-luc-quen-roi-web-api-support-kieu-nay-thi-thoi-roi-2021042221703265
 https://anonystick.com/blog-developer/su-khac-biet-giua-forin-forof-and-foreach-trong-javascript-2020041337746860
@@ -290,11 +297,6 @@ https://anonystick.com/blog-developer/xay-dung-mot-website-nhu-devto-su-dung-rea
 https://anonystick.com/blog-developer/install-rabbitmq-docker-macos-2021031251028855
 https://anonystick.com/blog-developer/message-queue-da-giup-toi-thoat-khoi-canh-duoi-viec-the-nao-2021031142311857
 https://anonystick.com/blog-developer/sap-bi-duoi-viec-vi-he-thong-cham-lay-shopee-lam-vi-du-2021031136614239
-
-```
-
-====================================== DONE ======================================
-
 https://anonystick.com/blog-developer/pipeline-operator-chinh-la-1-trong-5-tinh-nang-nen-hoc-trong-javascript-2021030960400289
 https://anonystick.com/blog-developer/tai-sao-clubhouse-lai-noi-tieng-den-vay-2021030627516767
 https://anonystick.com/blog-developer/objectis-no-rat-hay-nhung-it-dev-biet-den-2021030642716262
