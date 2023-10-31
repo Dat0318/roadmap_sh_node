@@ -30,6 +30,7 @@ https://anonystick.com/tag/fresher
 https://anonystick.com/tag/promise
 https://anonystick.com/tag/seriesfree
 https://anonystick.com/tag/async-await
+https://anonystick.com/tag/series%20callback%20javascript
 https://anonystick.com/tag/data%20structures%20and%20algorithms
 https://anonystick.com/tag/kinh_nghi%E1%BB%87m_l%E1%BA%ADp_tr%C3%ACnh
 https://anonystick.com/blog-developer/document-javascript-6-handbooks-can-thiet-cho-cac-developer-javascript-GnAaOh4q
@@ -56,6 +57,7 @@ https://anonystick.com/blog-developer/facade-pattern-la-gi-vi-sao-cac-ky-su-cap-
 https://anonystick.com/blog-developer/fix-gitignore-not-working-2023062147444119
 https://anonystick.com/blog-developer/fix-nhanh-gon-please-commit-your-changes-or-stash-them-before-you-merge-202306144267507
 https://anonystick.com/blog-developer/fixed-window-rate-limiting-nodejs-2022121961720684
+
 https://anonystick.com/blog-developer/giai-thich-cookie-va-session-giong-va-khac-nhau-cau-hoi-phong-van-nodejs-fresher-va-junior-tap-1-2022100894026511
 https://anonystick.com/blog-developer/git-pull-va-git-fetch-tuong-tu-nhu-dinh-hon-va-ket-hon-tai-san-thuoc-ve-ai-2023061967756409
 https://anonystick.com/blog-developer/git-rebase-vs-git-merge-va-cuoc-tranh-cai-khong-co-hoi-ket-dam-dao-ve-git-2022080215929116
@@ -103,6 +105,7 @@ https://anonystick.com/blog-developer/findoneandupdate-mongoose-rat-quan-trong-v
 https://anonystick.com/blog-developer/3-cach-phan-trang-trong-databases-the-hien-o-du-an-stackoverflow-reddit-facebook-va-hack-news-2022052733977336
 https://anonystick.com/blog-developer/su-dung-socket-io-trong-mo-hinh-mvc-express-va-nodejs-theo-2-video-source-2022051090927347
 https://anonystick.com/blog-developer/mongodb-schema-design-one-to-one-11-2022050984213849
+
 https://anonystick.com/blog-developer/nodejs-18-moi-ra-mat-dev-nen-chu-y-chuc-nang-nay-2022042032442947
 https://anonystick.com/blog-developer/redis-benchmark-danh-gia-hieu-suat-va-kha-nang-mo-rong-cua-redis-2022032671027825
 https://anonystick.com/blog-developer/uuid-thieu-sot-trong-lap-trinh-doi-thu-da-phat-hien-kinh-doanh-cua-chung-toi-backend-service-2022031154685700
@@ -147,6 +150,7 @@ https://anonystick.com/blog-developer/get-lat-lng-from-address-2021081172825424
 https://anonystick.com/blog-developer/kubernetes-la-gi-doc-xong-cau-chuyen-toi-thot-len-toi-khong-can-2021080710397294
 https://anonystick.com/blog-developer/loi-pho-bien-khi-su-dung-name-function-javascript-2021080777760442
 https://anonystick.com/blog-developer/install-redisearch-ubuntu-2004-2021080556850096
+
 https://anonystick.com/blog-developer/su-dung-ngrok-va-localtunnel-export-local-nodejs-2021080395854169
 https://anonystick.com/blog-developer/exponential-operator-javascript-toan-tu-luy-thua-2021080253277097
 https://anonystick.com/blog-developer/event-delegation-bubbling-va-capturing-la-gi-2021080190413958
@@ -189,6 +193,7 @@ https://anonystick.com/blog-developer/javascript-map-how-to-use-2021062653083045
 https://anonystick.com/blog-developer/thiet-ke-kien-truc-he-thong-hang-ty-tin-nhan-2021062567488545
 https://anonystick.com/blog-developer/npm-audit-la-gi-10-lenh-npm-lap-trinh-vien-can-biet-2021062491943510
 https://anonystick.com/blog-developer/build-application-express-socket-io-deploy-on-heroku-2021062381973655
+
 https://anonystick.com/blog-developer/socket-io-nhung-cau-lenh-ban-can-biet-version-40-2021062224656541
 https://anonystick.com/blog-developer/javascript-string-methods-ban-biet-duoc-bao-nhieu-2021062293500795
 https://anonystick.com/blog-developer/javascript-array-tips-and-tricks-cheat-sheet-202106197912634
@@ -216,6 +221,8 @@ https://anonystick.com/blog-developer/ecmascript-4-vi-sao-no-khong-xuat-hien-202
 https://anonystick.com/blog-developer/redis-2-van-de-con-lai-toi-noi-not-luon-2021052824317838
 https://anonystick.com/blog-developer/jwt-khong-nen-su-dung-thay-cho-session-vi-sao-2021052658154415
 
+```
+
 https://anonystick.com/blog-developer/async-await-javascript-without-try-catch-202011289973428
 https://anonystick.com/blog-developer/su-dung-axios-interceptors-lam-moi-token-voi-refresh-token-trong-jwt-2020071757634479
 https://anonystick.com/blog-developer/hoc-javascript-va-nhung-nguyen-tac-chung-cho-moi-level-2020070989545462
@@ -236,6 +243,8 @@ https://anonystick.com/blog-developer/push-notifications-hom-nay-no-lam-ca-doi-s
 https://anonystick.com/blog-developer/tensorflow-la-gi-voi-vi-du-nay-toi-nghi-toi-se-khong-theo-kip-2021050392568088
 
 ```
+
+====================================== DONE ======================================
 
 https://anonystick.com/blog-developer/tooltip-bootstrap-khac-gi-dung-dao-mo-trau-giet-ga-202105039904682
 https://anonystick.com/blog-developer/http-status-codes-2021042951971231
@@ -262,11 +271,6 @@ https://anonystick.com/blog-developer/project-express-va-nodejs-co-kien-truc-tot
 https://anonystick.com/blog-developer/meo-javascript-random-password-generator-202104099221973
 https://anonystick.com/blog-developer/meo-javascript-tinh-thoi-gian-doc-mot-bai-bao-2021040830011235
 https://anonystick.com/blog-developer/hieu-ve-mongodb-wiredtiger-2021040847878006
-
-```
-
-====================================== DONE ======================================
-
 https://anonystick.com/blog-developer/jquery-den-luc-quen-roi-web-api-support-kieu-nay-thi-thoi-roi-2021042221703265
 https://anonystick.com/blog-developer/su-khac-biet-giua-forin-forof-and-foreach-trong-javascript-2020041337746860
 https://anonystick.com/blog-developer/3-middleware-huu-ich-khi-su-dung-express-rest-api-2019112318055877
