@@ -178,6 +178,8 @@ https://anonystick.com/blog-developer/you-dont-need-gui-2021070816583256
 https://anonystick.com/blog-developer/phan-ung-cua-steve-jobs-truoc-su-dao-boi-cua-doi-thu-canh-tranh-2021070739947563
 https://anonystick.com/blog-developer/encrypt-mongodb-dua-vao-authentication-va-authorization-part-2-2021070722162110
 
+```
+
 https://anonystick.com/blog-developer/toi-da-thiet-ke-mot-du-an-giong-shopee-danh-cho-nhung-ban-san-sang-cho-tuong-lai-chuc-nang-nhu-sau-2023040749545765
 https://anonystick.com/blog-developer/sau-khi-biet-anh-ca-phat-hien-memory-leak-trong-javascript-thi-giai-phap-la-gi-2021010891719380
 https://anonystick.com/blog-developer/http-la-gi-https-la-gi-su-khac-biet-giua-https-va-http-2020061880811522
@@ -198,6 +200,8 @@ https://anonystick.com/blog-developer/build-application-express-socket-io-deploy
 
 ```
 
+====================================== DONE ======================================
+
 https://anonystick.com/blog-developer/socket-io-nhung-cau-lenh-ban-can-biet-version-40-2021062224656541
 https://anonystick.com/blog-developer/javascript-string-methods-ban-biet-duoc-bao-nhieu-2021062293500795
 https://anonystick.com/blog-developer/javascript-array-tips-and-tricks-cheat-sheet-202106197912634
@@ -211,11 +215,6 @@ https://anonystick.com/blog-developer/tag-a-va-nhung-dieu-ban-nen-can-biet-20210
 https://anonystick.com/blog-developer/mongodb-cheat-sheet-continuous-update-2021061226212186
 https://anonystick.com/blog-developer/so-sanh-thong-dich-va-bien-dich-2021061255936853
 https://anonystick.com/blog-developer/install-mongodb-docker-5-mins-2021061194665125
-
-```
-
-====================================== DONE ======================================
-
 https://anonystick.com/blog-developer/lodash-truong-hop-nao-ban-nen-su-dung-javascript-library-2021061069876533
 https://anonystick.com/blog-developer/refresh-token-va-access-token-lam-ro-nhung-cau-hoi-2021060977691716
 https://anonystick.com/blog-developer/elk-stack-elasticsearch-logstash-va-kibana-2021060875762161
