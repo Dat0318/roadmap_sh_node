@@ -19,6 +19,7 @@ window.location.href = window.location.href.replace(page - 1, page);
 
 ================================DOCUMENT=====================================
 
+https://youtu.be/tHgAXlWLvmI
 https://youtu.be/dCr9Rctt74I
 https://youtu.be/tGwx3d8yuTI
 https://anonystick.com/labs
@@ -153,6 +154,8 @@ https://anonystick.com/blog-developer/kubernetes-la-gi-doc-xong-cau-chuyen-toi-t
 https://anonystick.com/blog-developer/loi-pho-bien-khi-su-dung-name-function-javascript-2021080777760442
 https://anonystick.com/blog-developer/install-redisearch-ubuntu-2004-2021080556850096
 
+```
+
 https://anonystick.com/blog-developer/su-dung-ngrok-va-localtunnel-export-local-nodejs-2021080395854169
 https://anonystick.com/blog-developer/exponential-operator-javascript-toan-tu-luy-thua-2021080253277097
 https://anonystick.com/blog-developer/event-delegation-bubbling-va-capturing-la-gi-2021080190413958
@@ -180,6 +183,8 @@ https://anonystick.com/blog-developer/encrypt-mongodb-dua-vao-authentication-va-
 
 ```
 
+====================================== DONE ======================================
+
 https://anonystick.com/blog-developer/toi-da-thiet-ke-mot-du-an-giong-shopee-danh-cho-nhung-ban-san-sang-cho-tuong-lai-chuc-nang-nhu-sau-2023040749545765
 https://anonystick.com/blog-developer/sau-khi-biet-anh-ca-phat-hien-memory-leak-trong-javascript-thi-giai-phap-la-gi-2021010891719380
 https://anonystick.com/blog-developer/http-la-gi-https-la-gi-su-khac-biet-giua-https-va-http-2020061880811522
@@ -197,11 +202,6 @@ https://anonystick.com/blog-developer/javascript-map-how-to-use-2021062653083045
 https://anonystick.com/blog-developer/thiet-ke-kien-truc-he-thong-hang-ty-tin-nhan-2021062567488545
 https://anonystick.com/blog-developer/npm-audit-la-gi-10-lenh-npm-lap-trinh-vien-can-biet-2021062491943510
 https://anonystick.com/blog-developer/build-application-express-socket-io-deploy-on-heroku-2021062381973655
-
-```
-
-====================================== DONE ======================================
-
 https://anonystick.com/blog-developer/socket-io-nhung-cau-lenh-ban-can-biet-version-40-2021062224656541
 https://anonystick.com/blog-developer/javascript-string-methods-ban-biet-duoc-bao-nhieu-2021062293500795
 https://anonystick.com/blog-developer/javascript-array-tips-and-tricks-cheat-sheet-202106197912634
