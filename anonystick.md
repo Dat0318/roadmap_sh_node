@@ -134,6 +134,8 @@ https://anonystick.com/blog-developer/sendmulticast-firebase-500-tokens-20210906
 https://anonystick.com/blog-developer/redis-cache-penetration-vs-cache-breakdown-2021090327198739
 https://anonystick.com/blog-developer/repaint-reflow-javascript-2021090157233238
 
+```
+
 https://anonystick.com/blog-developer/ecmascript-es6-khong-can-hoc-nhieu-chi-hoc-dung-nhung-tinh-nang-nay-2021041999690785
 https://anonystick.com/blog-developer/tips-mathrandom-in-javascript-2020042458103007
 https://anonystick.com/blog-developer/tu-hoc-javascript-neu-co-asyncawait-roi-thi-promise-co-con-loi-thoi-khong-can-thiet-dung-den-hay-khong-8znFD1Z3
@@ -155,6 +157,8 @@ https://anonystick.com/blog-developer/loi-pho-bien-khi-su-dung-name-function-jav
 https://anonystick.com/blog-developer/install-redisearch-ubuntu-2004-2021080556850096
 
 ```
+
+====================================== DONE ======================================
 
 https://anonystick.com/blog-developer/su-dung-ngrok-va-localtunnel-export-local-nodejs-2021080395854169
 https://anonystick.com/blog-developer/exponential-operator-javascript-toan-tu-luy-thua-2021080253277097
@@ -180,11 +184,6 @@ https://anonystick.com/blog-developer/tiet-kiem-den-32-khi-ban-bat-dau-hoc-nodej
 https://anonystick.com/blog-developer/you-dont-need-gui-2021070816583256
 https://anonystick.com/blog-developer/phan-ung-cua-steve-jobs-truoc-su-dao-boi-cua-doi-thu-canh-tranh-2021070739947563
 https://anonystick.com/blog-developer/encrypt-mongodb-dua-vao-authentication-va-authorization-part-2-2021070722162110
-
-```
-
-====================================== DONE ======================================
-
 https://anonystick.com/blog-developer/toi-da-thiet-ke-mot-du-an-giong-shopee-danh-cho-nhung-ban-san-sang-cho-tuong-lai-chuc-nang-nhu-sau-2023040749545765
 https://anonystick.com/blog-developer/sau-khi-biet-anh-ca-phat-hien-memory-leak-trong-javascript-thi-giai-phap-la-gi-2021010891719380
 https://anonystick.com/blog-developer/http-la-gi-https-la-gi-su-khac-biet-giua-https-va-http-2020061880811522
