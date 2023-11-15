@@ -109,6 +109,8 @@ https://anonystick.com/blog-developer/3-cach-phan-trang-trong-databases-the-hien
 https://anonystick.com/blog-developer/su-dung-socket-io-trong-mo-hinh-mvc-express-va-nodejs-theo-2-video-source-2022051090927347
 https://anonystick.com/blog-developer/mongodb-schema-design-one-to-one-11-2022050984213849
 
+```
+
 https://anonystick.com/blog-developer/nodejs-18-moi-ra-mat-dev-nen-chu-y-chuc-nang-nay-2022042032442947
 https://anonystick.com/blog-developer/redis-benchmark-danh-gia-hieu-suat-va-kha-nang-mo-rong-cua-redis-2022032671027825
 https://anonystick.com/blog-developer/uuid-thieu-sot-trong-lap-trinh-doi-thu-da-phat-hien-kinh-doanh-cua-chung-toi-backend-service-2022031154685700
@@ -136,6 +138,8 @@ https://anonystick.com/blog-developer/repaint-reflow-javascript-2021090157233238
 
 ```
 
+====================================== DONE ======================================
+
 https://anonystick.com/blog-developer/ecmascript-es6-khong-can-hoc-nhieu-chi-hoc-dung-nhung-tinh-nang-nay-2021041999690785
 https://anonystick.com/blog-developer/tips-mathrandom-in-javascript-2020042458103007
 https://anonystick.com/blog-developer/tu-hoc-javascript-neu-co-asyncawait-roi-thi-promise-co-con-loi-thoi-khong-can-thiet-dung-den-hay-khong-8znFD1Z3
@@ -155,10 +159,6 @@ https://anonystick.com/blog-developer/get-lat-lng-from-address-2021081172825424
 https://anonystick.com/blog-developer/kubernetes-la-gi-doc-xong-cau-chuyen-toi-thot-len-toi-khong-can-2021080710397294
 https://anonystick.com/blog-developer/loi-pho-bien-khi-su-dung-name-function-javascript-2021080777760442
 https://anonystick.com/blog-developer/install-redisearch-ubuntu-2004-2021080556850096
-
-```
-
-====================================== DONE ======================================
 
 https://anonystick.com/blog-developer/su-dung-ngrok-va-localtunnel-export-local-nodejs-2021080395854169
 https://anonystick.com/blog-developer/exponential-operator-javascript-toan-tu-luy-thua-2021080253277097
