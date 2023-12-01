@@ -61,6 +61,8 @@ https://anonystick.com/blog-developer/fix-gitignore-not-working-2023062147444119
 https://anonystick.com/blog-developer/fix-nhanh-gon-please-commit-your-changes-or-stash-them-before-you-merge-202306144267507
 https://anonystick.com/blog-developer/fixed-window-rate-limiting-nodejs-2022121961720684
 
+```
+
 https://anonystick.com/blog-developer/giai-thich-cookie-va-session-giong-va-khac-nhau-cau-hoi-phong-van-nodejs-fresher-va-junior-tap-1-2022100894026511
 https://anonystick.com/blog-developer/git-pull-va-git-fetch-tuong-tu-nhu-dinh-hon-va-ket-hon-tai-san-thuoc-ve-ai-2023061967756409
 https://anonystick.com/blog-developer/git-rebase-vs-git-merge-va-cuoc-tranh-cai-khong-co-hoi-ket-dam-dao-ve-git-2022080215929116
@@ -111,6 +113,8 @@ https://anonystick.com/blog-developer/mongodb-schema-design-one-to-one-11-202205
 
 ```
 
+====================================== DONE ======================================
+
 https://anonystick.com/blog-developer/nodejs-18-moi-ra-mat-dev-nen-chu-y-chuc-nang-nay-2022042032442947
 https://anonystick.com/blog-developer/redis-benchmark-danh-gia-hieu-suat-va-kha-nang-mo-rong-cua-redis-2022032671027825
 https://anonystick.com/blog-developer/uuid-thieu-sot-trong-lap-trinh-doi-thu-da-phat-hien-kinh-doanh-cua-chung-toi-backend-service-2022031154685700
@@ -135,11 +139,6 @@ https://anonystick.com/blog-developer/5-ly-do-nen-su-dung-graphql-tai-cong-ty-cu
 https://anonystick.com/blog-developer/sendmulticast-firebase-500-tokens-2021090696569871
 https://anonystick.com/blog-developer/redis-cache-penetration-vs-cache-breakdown-2021090327198739
 https://anonystick.com/blog-developer/repaint-reflow-javascript-2021090157233238
-
-```
-
-====================================== DONE ======================================
-
 https://anonystick.com/blog-developer/ecmascript-es6-khong-can-hoc-nhieu-chi-hoc-dung-nhung-tinh-nang-nay-2021041999690785
 https://anonystick.com/blog-developer/tips-mathrandom-in-javascript-2020042458103007
 https://anonystick.com/blog-developer/tu-hoc-javascript-neu-co-asyncawait-roi-thi-promise-co-con-loi-thoi-khong-can-thiet-dung-den-hay-khong-8znFD1Z3
