@@ -91,6 +91,10 @@ https://anonystick.com/blog-developer/vi-sao-token-jwt-lai-thay-the-session-xem-
 https://anonystick.com/blog-developer/xoa-gia-tri-null-hoac-undefined-tu-mot-object-trong-javascript-2023032980022204
 https://anonystick.com/troi-sinh-ra-for-loop-sao-con-sinh-arrayforeach-trong-javascript-201904139453960.jsx
 
+```
+
+====================================== DONE ======================================
+
 https://anonystick.com/blog-developer/uuid-thieu-sot-trong-lap-trinh-doi-thu-da-phat-hien-kinh-doanh-cua-chung-toi-backend-service-2022031154685700
 https://anonystick.com/blog-developer/3-middleware-huu-ich-khi-su-dung-express-rest-api-2019112318055877
 https://anonystick.com/blog-developer/9-meo-huu-ich-de-viet-javascript-ngan-gon-va-hieu-qua-hon-201905083721570
@@ -110,11 +114,6 @@ https://anonystick.com/blog-developer/findoneandupdate-mongoose-rat-quan-trong-v
 https://anonystick.com/blog-developer/3-cach-phan-trang-trong-databases-the-hien-o-du-an-stackoverflow-reddit-facebook-va-hack-news-2022052733977336
 https://anonystick.com/blog-developer/su-dung-socket-io-trong-mo-hinh-mvc-express-va-nodejs-theo-2-video-source-2022051090927347
 https://anonystick.com/blog-developer/mongodb-schema-design-one-to-one-11-2022050984213849
-
-```
-
-====================================== DONE ======================================
-
 https://anonystick.com/blog-developer/nodejs-18-moi-ra-mat-dev-nen-chu-y-chuc-nang-nay-2022042032442947
 https://anonystick.com/blog-developer/redis-benchmark-danh-gia-hieu-suat-va-kha-nang-mo-rong-cua-redis-2022032671027825
 https://anonystick.com/blog-developer/uuid-thieu-sot-trong-lap-trinh-doi-thu-da-phat-hien-kinh-doanh-cua-chung-toi-backend-service-2022031154685700
