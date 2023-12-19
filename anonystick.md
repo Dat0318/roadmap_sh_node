@@ -149,6 +149,9 @@ https://anonystick.com/blog-developer/blue-green-deployment-la-gi-cau-chuyen-thu
 https://anonystick.com/blog-developer/array-va-array-of-objects-voi-10-tinh-huong-xu-ly-2020072286274033
 https://anonystick.com/blog-developer/series-mongodb-phan-2-install-mongodb-tren-ubuntu-1804-2019062895598800
 https://anonystick.com/blog-developer/cong-thuc-may-man-chinh-xac-moi-nguoi-202109188765605
+
+```
+
 https://anonystick.com/blog-developer/cach-trien-khai-theo-doi-moi-request-trong-express-js-kem-code-2021091785022427
 https://anonystick.com/blog-developer/tim-hieu-ve-cleanobject-trong-1-phut-2021082814184405
 https://anonystick.com/blog-developer/trien-khai-nodejs-va-express-nen-nho-co-mot-bai-hoc-dung-quen-2021081970450234
@@ -184,6 +187,7 @@ https://anonystick.com/blog-developer/mongodb-query-tu-595-seconds-xuong-03-seco
 
 ```
 
+====================================== DONE ======================================
 https://anonystick.com/blog-developer/10-loi-javascript-pho-bien-uncaught-typeerror-cannot-read-property-2023040139774504
 https://anonystick.com/blog-developer/8-sai-lam-can-tranh-khi-la-mot-lap-trinh-vien-2020100350575
 https://anonystick.com/blog-developer/api-la-gi-giai-thich-cho-vo-nen-khong-the-dai-dong-top-cau-hoi-phong-van-backend-2022082216184254
@@ -202,11 +206,6 @@ https://anonystick.com/blog-developer/facade-pattern-la-gi-vi-sao-cac-ky-su-cap-
 https://anonystick.com/blog-developer/fix-gitignore-not-working-2023062147444119
 https://anonystick.com/blog-developer/fix-nhanh-gon-please-commit-your-changes-or-stash-them-before-you-merge-202306144267507
 https://anonystick.com/blog-developer/fixed-window-rate-limiting-nodejs-2022121961720684
-
-```
-
-====================================== DONE ======================================
-
 https://anonystick.com/blog-developer/giai-thich-cookie-va-session-giong-va-khac-nhau-cau-hoi-phong-van-nodejs-fresher-va-junior-tap-1-2022100894026511
 https://anonystick.com/blog-developer/git-pull-va-git-fetch-tuong-tu-nhu-dinh-hon-va-ket-hon-tai-san-thuoc-ve-ai-2023061967756409
 https://anonystick.com/blog-developer/git-rebase-vs-git-merge-va-cuoc-tranh-cai-khong-co-hoi-ket-dam-dao-ve-git-2022080215929116
