@@ -86,6 +86,8 @@ https://anonystick.com/blog-developer/den-ngay-black-friday-toi-da-su-dung-strat
 https://anonystick.com/blog-developer/api-la-gi-giai-thich-cho-vo-nen-khong-the-dai-dong-top-cau-hoi-phong-van-backend-2022082216184254
 https://anonystick.com/blog-developer/bun-js-la-gi-lieu-co-the-giet-chet-nodejs-va-deno-xem-bang-chung-2022081928499419
 
+```
+
 https://anonystick.com/blog-developer/memory-leak-bo-nho-trong-javascript-2020122224602779
 https://anonystick.com/blog-developer/part5-build-chat-firebase-mongodb-su-dung-voi-heroku-2020051426813579
 https://anonystick.com/blog-developer/object-into-query-string-parameters-in-javascript-2019060313027795
@@ -133,7 +135,6 @@ https://anonystick.com/blog-developer/hieu-single-thread-nodejs-voi-30-dong-code
 https://anonystick.com/blog-developer/blue-green-deployment-la-gi-cau-chuyen-thu-vi-cua-2-backends-khi-trien-khai-he-thong-ecommerce-2022092752345571
 https://anonystick.com/blog-developer/array-va-array-of-objects-voi-10-tinh-huong-xu-ly-2020072286274033
 https://anonystick.com/blog-developer/series-mongodb-phan-2-install-mongodb-tren-ubuntu-1804-2019062895598800
-
 https://anonystick.com/blog-developer/shopping-carts-in-redis-vi-sao-va-cach-trien-khai-nhu-amazon-store-2022072653559457
 https://anonystick.com/blog-developer/firebase-chats-va-cach-to-chuc-du-lieu-members-messages-va-bao-mat-thong-tin-chats-rules-firebase-2022072049129518
 https://anonystick.com/blog-developer/ung-dung-thuong-mai-aliconcon-da-send-otp-cho-user-signup-bang-cach-nay-part-3-2022061882596849
@@ -151,6 +152,8 @@ https://anonystick.com/blog-developer/series-mongodb-phan-2-install-mongodb-tren
 https://anonystick.com/blog-developer/cong-thuc-may-man-chinh-xac-moi-nguoi-202109188765605
 
 ```
+
+====================================== DONE ======================================
 
 https://anonystick.com/blog-developer/cach-trien-khai-theo-doi-moi-request-trong-express-js-kem-code-2021091785022427
 https://anonystick.com/blog-developer/tim-hieu-ve-cleanobject-trong-1-phut-2021082814184405
@@ -184,10 +187,6 @@ https://anonystick.com/blog-developer/circular-dependencies-in-node-how-to-fix-2
 https://anonystick.com/blog-developer/de-xuat-objecthasown-thay-the-cho-objectprototypehasownproperty-2021061494211952
 https://anonystick.com/blog-developer/so-sanh-thong-dich-va-bien-dich-2021061255936853
 https://anonystick.com/blog-developer/mongodb-query-tu-595-seconds-xuong-03-seconds-2021060897018563
-
-```
-
-====================================== DONE ======================================
 https://anonystick.com/blog-developer/10-loi-javascript-pho-bien-uncaught-typeerror-cannot-read-property-2023040139774504
 https://anonystick.com/blog-developer/8-sai-lam-can-tranh-khi-la-mot-lap-trinh-vien-2020100350575
 https://anonystick.com/blog-developer/api-la-gi-giai-thich-cho-vo-nen-khong-the-dai-dong-top-cau-hoi-phong-van-backend-2022082216184254
