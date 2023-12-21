@@ -57,6 +57,9 @@ https://anonystick.com/blog-developer/cach-tot-nhat-de-dong-bo-hoa-mysql-voi-ela
 https://anonystick.com/blog-developer/fix-gitignore-not-working-2023062147444119
 https://anonystick.com/blog-developer/git-pull-va-git-fetch-tuong-tu-nhu-dinh-hon-va-ket-hon-tai-san-thuoc-ve-ai-2023061967756409
 https://anonystick.com/blog-developer/fix-nhanh-gon-please-commit-your-changes-or-stash-them-before-you-merge-202306144267507
+
+```
+
 https://anonystick.com/blog-developer/tuyet-voi-connect-pool-gom-96-connects-nhanh-hon-gap-50-lan-so-voi-1000-or-4000-connections-khong-dung-pool-2023060952850932
 https://anonystick.com/blog-developer/sep-hoi-tai-sao-su-dung-redis-vay-em-co-nhuoc-diem-gi-khong-toi-noi-thang-la-2023060788356724
 https://anonystick.com/blog-developer/es2023-hay-es14-da-co-roi-hoc-nhanh-thoi-nao-anh-em-2023041841248425
@@ -88,6 +91,8 @@ https://anonystick.com/blog-developer/bun-js-la-gi-lieu-co-the-giet-chet-nodejs-
 
 ```
 
+====================================== DONE ======================================
+
 https://anonystick.com/blog-developer/memory-leak-bo-nho-trong-javascript-2020122224602779
 https://anonystick.com/blog-developer/part5-build-chat-firebase-mongodb-su-dung-voi-heroku-2020051426813579
 https://anonystick.com/blog-developer/object-into-query-string-parameters-in-javascript-2019060313027795
@@ -106,6 +111,7 @@ https://anonystick.com/blog-developer/mongoose-statics-methods-virtual-va-middle
 https://anonystick.com/blog-developer/redis-cac-kieu-du-lieu-pho-bien-va-kich-ban-ung-dung-vao-cuoc-song-phan-mem-2022061630563912
 https://anonystick.com/blog-developer/ab-benchmarking-tool-bai-test-cuoi-cung-sau-khi-trien-khai-rest-api-2022061522939866
 https://anonystick.com/blog-developer/ban-co-biet-co-den-38-programming-languages-tu-1949-den-nay-va-ban-biet-bao-nhieu-2022061418123134
+
 https://anonystick.com/blog-developer/huong-dan-xay-dung-rest-api-cho-thuong-mai-dien-tu-nhu-the-nao-voi-hang-trieu-don-hang-moi-ngay-series-rest-api-fullstack-2022061091015070
 https://anonystick.com/blog-developer/hoc-javascript-object-javascript-trien-khai-flatten-trong-object-2022060927147798
 https://anonystick.com/blog-developer/bucket-pattern-mongodb-mot-mo-hinh-paging-phan-trang-rat-hieu-qua-nhung-khi-nao-nen-su-dung-2022060471961127
@@ -131,7 +137,6 @@ https://anonystick.com/blog-developer/tranh-luu-tru-cac-mang-lon-va-cach-thay-th
 https://anonystick.com/blog-developer/cach-moi-add-thuoc-tinh-vao-object-voi-dieu-kien-cho-truoc-2021101277224252
 https://anonystick.com/blog-developer/elasticsearch-nodejs-2021092298590122
 https://anonystick.com/blog-developer/hieu-single-thread-nodejs-voi-30-dong-code-2021092056649992
-
 https://anonystick.com/blog-developer/blue-green-deployment-la-gi-cau-chuyen-thu-vi-cua-2-backends-khi-trien-khai-he-thong-ecommerce-2022092752345571
 https://anonystick.com/blog-developer/array-va-array-of-objects-voi-10-tinh-huong-xu-ly-2020072286274033
 https://anonystick.com/blog-developer/series-mongodb-phan-2-install-mongodb-tren-ubuntu-1804-2019062895598800
@@ -150,11 +155,6 @@ https://anonystick.com/blog-developer/blue-green-deployment-la-gi-cau-chuyen-thu
 https://anonystick.com/blog-developer/array-va-array-of-objects-voi-10-tinh-huong-xu-ly-2020072286274033
 https://anonystick.com/blog-developer/series-mongodb-phan-2-install-mongodb-tren-ubuntu-1804-2019062895598800
 https://anonystick.com/blog-developer/cong-thuc-may-man-chinh-xac-moi-nguoi-202109188765605
-
-```
-
-====================================== DONE ======================================
-
 https://anonystick.com/blog-developer/cach-trien-khai-theo-doi-moi-request-trong-express-js-kem-code-2021091785022427
 https://anonystick.com/blog-developer/tim-hieu-ve-cleanobject-trong-1-phut-2021082814184405
 https://anonystick.com/blog-developer/trien-khai-nodejs-va-express-nen-nho-co-mot-bai-hoc-dung-quen-2021081970450234
